@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "[(PDF Resume)](https://drive.google.com/file/d/1cx6kKLLf9MXn8DPX0GicQ5JOZ5nWNsyS/view)"
+<!--title: "[(PDF Resume)](https://drive.google.com/file/d/1cx6kKLLf9MXn8DPX0GicQ5JOZ5nWNsyS/view)"-->
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+Download my Resume [here](https://drive.google.com/file/d/1cx6kKLLf9MXn8DPX0GicQ5JOZ5nWNsyS/view).
 
 Education
 ======
