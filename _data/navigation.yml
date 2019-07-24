@@ -3,8 +3,6 @@ main:
   - title: "Publications"
     url: /publications/
 
-  
-
   #- title: "Teaching"
   #  url: /teaching/    
   
@@ -17,8 +15,8 @@ main:
   #- title: "Portfolio"
   # url: /portfolio/
   
-  - title: "Talks"
-    url: /talks/  
+  #- title: "Talks"
+ #   url: /talks/  
       
   - title: "CV"
     url: /cv/
@@ -28,7 +26,7 @@ main:
     
 
     
-  - title: "Guide"
-    url: /markdown/
+  #- title: "Guide"
+  #  url: /markdown/
 
   
