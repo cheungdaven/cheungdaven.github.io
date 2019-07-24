@@ -1,8 +1,12 @@
 ---
-title: "Professional Services"
 permalink: /services/
+title: "Professional Services"
 author_profile: true
+redirect_from: 
+  - /services/
+  - /services.html
 ---
+
 
 ## Program Committee Member
 * RSBD 2019 (in parallel with ICDE 2019)
