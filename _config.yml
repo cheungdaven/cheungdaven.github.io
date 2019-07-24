@@ -83,9 +83,10 @@ author:
   name             : "Shuai Zhang"
   avatar           : "profile.png"
   bio              : "PhD Student, UNSW Sydney"
-  location         : "Sydney"
+  location         : "Sydney, Australia"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  dblp             : "https://dblp.uni-trier.de/pers/hd/z/Zhang_0007:Shuai"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.au/citations?user=PPjdxlcAAAAJ&hl=en"
   email            : "cheungshuai@outlook.com"
   researchgate     : "https://www.researchgate.net/profile/Shuai_Zhang98"
@@ -102,7 +103,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/shuai-zhang-b3762911b/"
   orcid            : "https://orcid.org/0000-0002-7866-4611"
   pinterest        :
   soundcloud       :
