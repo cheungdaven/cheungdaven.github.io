@@ -4,8 +4,12 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Conference Papers
+## Work in Progress
+<b>[ Quaternion Knowledge Graph Embedding](https://arxiv.org/abs/1905.10536)</b> <br>
+<b>Shuai Zhang</b>*, Yi Tay*, Lina Yao, Qi Liu. <br>
+<i>Submitted</i>. 
 
+## Conference Papers
 
 <b>[DeepRec: An Open-source Toolkit for Deep Learning based Recommendation (Demo Track)](https://arxiv.org/abs/1905.10536)</b> <br>
 <b>Shuai Zhang</b>, Yi Tay, Lina Yao, Bin Wu, Aixin Sun. <br>
