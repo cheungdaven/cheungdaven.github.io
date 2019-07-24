@@ -54,7 +54,7 @@ Xiang Zhang, Lina Yao, Shuai Zhang, Salil S. Kanhere, Quan Z. Sheng, Yunhao Liu.
 ## Book Chapters
 <b>[Deep Neural Networks meet Recommender Systems](https://digital-library.theiet.org/content/books/10.1049/pbpc035g_ch2)</b><br>
 <b>Shuai Zhang</b>, Lina Yao, Aixin Sun, Guibing Guo, Xiwei Xu, Liming Zhu. <br>
-<i>AAAI-18 Artificial Intelligence for Imperfect-Information Games Workshop.</i>
+<i>Big Data Recommender Systems: Recent Trends and Advances, Institution of Engineering and Technology</i>
 
 
 [\* denotes equal contribution]
