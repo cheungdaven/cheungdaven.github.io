@@ -32,7 +32,7 @@ Yi Tay*, <b>Shuai Zhang</b>*, Anh Tuan Luu, Siu Cheung Hui, Lina Yao, Lucas Vinh
 <b>Shuai Zhang</b>, Lina Yao, Aixin Sun, Sen Wang. Guodong Long. Manqing Dong.<br>
 <i>The 27th International Joint Conference on Artificial Intelligence</i>. <b>IJCAI 2018</b>.
 
-<b>[AutoSVD++: An Efficient Hybrid Collaborative Filtering Model via Contractive Auto-encoders](http://lantaoyu.com/publications/autosvdplusplus)</b> <br> 
+<b>[AutoSVD++: An Efficient Hybrid Collaborative Filtering Model via Contractive Auto-encoders](http://shuaizhang.tech/publications/autosvdplusplus)</b> <br> 
 <b>Shuai Zhang</b>, Lina Yao, Xiwei Xu.<br>
 <i> The 40th International ACM SIGIR Conference on Research and Development in Information Retrieval</i>. <b>SIGIR 2017 </b>.
 
