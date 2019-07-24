@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /projects/
---title: "Projects"
+title: "Projects"
 author_profile: true
 redirect_from: 
   - /projects
