@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Experience"
+title: "Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Download my Resume [here](https://drive.google.com/file/d/1cx6kKLLf9MXn8DPX0GicQ5JOZ5nWNsyS/view).
+Download my full Resume [here](https://drive.google.com/file/d/1cx6kKLLf9MXn8DPX0GicQ5JOZ5nWNsyS/view).
 
 Education
 ======
