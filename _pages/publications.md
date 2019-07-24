@@ -4,51 +4,57 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Recommender Systems
+## Conference Papers
+
+
+<b>[DeepRec: An Open-source Toolkit for Deep Learning based Recommendation (Demo Track)](https://arxiv.org/abs/1905.10536)</b> <br>
+<b>Shuai Zhang</b>, Yi Tay, Lina Yao, Bin Wu, Aixin Sun
+<i>The 28th International Joint Conference on Artificial Intelligence</i>. <b>IJCAI 2019</b>.
+
+
+<b>[Lightweight and Efficient Neural Natural Language Processing with Quaternion Networks](https://arxiv.org/abs/1906.04393)</b> <br>
+Yi Tay, Aston Zhang, Anh Tuan Luu, Jinfeng Rao, <b>Shuai Zhang</b>, Shuohang Wang, Jie Fu and Siu Cheung Hui.
+<i>The 57th Annual Meeting of the Association for Computational Linguistics </i>. <b>ACL 2019</b>.
+
+<b>[Quaternion Collaborative Filtering for Recommendation](https://arxiv.org/abs/1906.02594)</b> <br>
+<b>Shuai Zhang</b>, Lina Yao, Lucas Vinh Tran , Aston Zhang , Yi Tay.
+<i>The 28th International Joint Conference on Artificial Intelligence</i>. <b>IJCAI 2019</b>.
+
+<b>[Holographic Factorization Machines for Recommendation](https://www.researchgate.net/publication/330101551_Holographic_Factorization_Machines_for_Recommendation)</b> <br> 
+Yi Tay*, <b>Shuai Zhang</b>*, Anh Tuan Luu, Siu Cheung Hui, Lina Yao, Lucas Vinh Tran
+<i>The 33rd AAAI Conference on Artificial Intelligence</i>. <b>AAAI 2019</b>.
+
+<b>[NeuRec: On Nonlinear Transformation for Personalized Ranking](https://www.ijcai.org/proceedings/2018/0510.pdf)</b> <br>
+<b>Shuai Zhang</b>, Lina Yao, Aixin Sun, Sen Wang. Guodong Long. Manqing Dong.
+<i>The 27th International Joint Conference on Artificial Intelligence</i>. <b>IJCAI 2018</b>.
 
 <b>[AutoSVD++: An Efficient Hybrid Collaborative Filtering Model via Contractive Auto-encoders](http://lantaoyu.com/publications/autosvdplusplus)</b> <br> 
 <b>Shuai Zhang</b>, Lina Yao, Xiwei Xu.
 <i> The 40th International ACM SIGIR Conference on Research and Development in Information Retrieval</i>. <b>SIGIR 2017 </b>.
 
-<b>[CoT: Cooperative Training for Generative Modeling of Discrete Data](http://lantaoyu.com/publications/CoT)</b> <br>
-Sidi Lu, <b>Lantao Yu</b>, Siyuan Feng, Yaoming Zhu, Weinan Zhang, Yong Yu.
-<i>The 36th International Conference on Machine Learning</i>. <b>ICML 2019</b>.
 
-<b>[Lipschitz Generative Adversarial Nets](http://lantaoyu.com/publications/LGAN)</b> <br>
-Zhiming Zhou, Jiadong Liang, Yuxuan Song, <b>Lantao Yu</b>, Hongwei Wang, Weinan Zhang, Yong Yu, Zhihua Zhang. <i>The 36th International Conference on Machine Learning</i>. <b>ICML 2019</b>.
 
-<b>[Variational Bottleneck  Domain Adaptation](http://lantaoyu.com/publications/VBDA)</b> <br>
-Yuxuan Song, <b>Lantao Yu</b>, Zhangjie Cao, Zhiming Zhou, Jian Shen, Shuo Shao, Weinan Zhang, Yong Yu. <i>In submission to IJCAI 2019.</i>
 
-<b>[Understanding the Effectiveness of Lipschitz-Continuity in Generative Adversarial Nets](http://lantaoyu.com/publications/GanGradient)</b> <br>
-Zhiming Zhou, Yuxuan Song, <b>Lantao Yu</b>, Hongwei Wang, Zhihua Zhang, Weinan Zhang, Yong Yu.
-<i>ArXiv 2018.</i>
+## Journal Papers
 
-<b>[SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](http://lantaoyu.com/publications/SeqGAN)</b> <br>
-<b>Lantao Yu</b>, Weinan Zhang, Jun Wang, and Yong Yu.
-<i>The 31st AAAI conference on Artificial Intelligence</i>. <b>AAAI 2017</b>.
+<b>[Thing-of-Interest Recommendation in the Internet of Things: Requirements, Challenges and Directions](https://ieeexplore.ieee.org/document/8766954?source=authoralert)</b><br>
+ Lina Yao, Xianzhi Wang, Quan Z. Sheng, Schahram Dustdar, <b>Shuai Zhang</b>. 
+ <i>IEEE Internet Computing. 2019.</i>
 
-<b>[IRGAN: A Minimax Game for Unifying Generative and Discriminative Information Retrieval Models](http://lantaoyu.com/publications/IRGAN)</b><br>
-Jun Wang, <b>Lantao Yu</b>, Weinan Zhang, Yu Gong, Yinghui Xu, Benyou Wang, Peng Zhang and Dell Zhang.
-<i>The 40th International ACM SIGIR Conference on Research and Development in Information Retrieval.</i> <b>SIGIR 2017</b>. <b> <span style="color:red">Best Paper Award Honorable Mention</span> </b>
+<b>[Deep Learning based Recommender System: A Survey and New Perspectives](https://arxiv.org/abs/1707.07435v7)</b><br>
+<b>Shuai Zhang</b>, Lina Yao, Aixin Sun, Yi Tay
+<i>ACM Computing surveys. 2019.</i>
 
-<b>[A Dynamic Attention Deep Model for Article Recommendation by Learning Human Editors’ Demonstration](http://lantaoyu.com/publications/DADM)</b><br>
-<b>Lantao Yu\*</b>, Xuejian Wang\*, Kan Ren, Guanyu Tao, Weinan Zhang, Yong Yu, Jun Wang.
-<i>The 23rd SIGKDD Conference on Knowledge Discovery and Data Mining.</i> <b>KDD 2017</b>.
 
-## Natural Language Process
+<b>[Internet of Things Meets Brain-Computer Interface: A Unified Deep Learning Framework for Enabling Human-Thing
+Cognitive Interactivity]()</b><br>
+Xiang Zhang, Lina Yao, Shuai Zhang, Salil S. Kanhere, Quan Z. Sheng, Yunhao Liu. 
+<i>IEEE Internet of Things Journal. 2018.</i>
 
-<b>[Deep Reinforcement Learning for Green Security Games with Real-Time Information](http://lantaoyu.com/publications/RLSGAAAI19)</b><br>
-Yufei Wang, Zheyuan Ryan Shi, <b>Lantao Yu</b>, Yi Wu, Rohit Singh, Lucas Joppa, Fei Fang.
-<i>The Thirty-Third AAAI Conference on Artificial Intelligence.</i> <b>AAAI 2019</b>.
+## Book Chapters
+<b>[Deep Neural Networks meet Recommender Systems](https://digital-library.theiet.org/content/books/10.1049/pbpc035g_ch2)</b><br>
+<b>Shuai Zhang</b>, Lina Yao, Aixin Sun, Guibing Guo, Xiwei Xu, Liming Zhu. 
+<i>AAAI-18 Artificial Intelligence for Imperfect-Information Games Workshop.</i>
 
-<b>[A Study of AI Population Dynamics with Million-agent Reinforcement Learning](http://lantaoyu.com/publications/MA)</b><br>
-<b>Lantao Yu\*</b>, Yaodong Yang\*, Yiwei Bai\*, Jun Wang, Weinan Zhang, Ying Wen, Yong Yu. <i>The 17th International Conference on Autonomous Agents and Multi-Agent Systems.</i> <b>AAMAS 2018</b>.
-
-<b>[Exploiting Real-World Data and Human Knowledge for Predicting Wildlife Poaching](http://lantaoyu.com/publications/COMPASS18)</b><br>
-Swaminathan Gurumurthy, <b>Lantao Yu</b>, Chenyan Zhang, Yongchao Jin, Weiping Li, Xiaodong Zhang, Fei Fang. <i>ACM SIGCAS Conference on Computing and Sustainable Societies.</i> <b>COMPASS 2018</b>.
-
-<b>[Deep Reinforcement Learning for Green Security Game with Online Information](http://lantaoyu.com/publications/RLSG)</b><br>
-<b>Lantao Yu</b>, Yi Wu, Rohit Singh, Lucas Joppa and Fei Fang. <i>AAAI-18 Artificial Intelligence for Imperfect-Information Games Workshop.</i>
 
 [\* denotes equal contribution]
