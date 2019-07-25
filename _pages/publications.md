@@ -25,7 +25,7 @@ Yi Tay, Aston Zhang, Anh Tuan Luu, Jinfeng Rao, <b>Shuai Zhang</b>, Shuohang Wan
 <i>The 28th International Joint Conference on Artificial Intelligence</i>. <b>IJCAI 2019</b>.
 
 <b>[Holographic Factorization Machines for Recommendation](https://www.researchgate.net/publication/330101551_Holographic_Factorization_Machines_for_Recommendation)</b> <br> 
-Yi Tay*, <b>Shuai Zhang</b>*, Anh Tuan Luu, Siu Cheung Hui, Lina Yao, Lucas Vinh Tran.<br>
+Yi Tay\*, <b>Shuai Zhang</b>\*, Anh Tuan Luu, Siu Cheung Hui, Lina Yao, Lucas Vinh Tran.<br>
 <i>The 33rd AAAI Conference on Artificial Intelligence</i>. <b>AAAI 2019</b>.
 
 <b>[NeuRec: On Nonlinear Transformation for Personalized Ranking](https://www.ijcai.org/proceedings/2018/0510.pdf)</b> <br>
