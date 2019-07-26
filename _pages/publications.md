@@ -61,5 +61,10 @@ Xiang Zhang, Lina Yao, Shuai Zhang, Salil S. Kanhere, Quan Z. Sheng, Yunhao Liu.
 <i>Book Title: Big Data Recommender Systems: Recent Trends and Advances. </i> <br>
 <i> Publisher: Institution of Engineering and Technology. </i>
 
+## Workshop Papers
+<b>[Next Item Recommendation with Self-Attentive Metric Learning](https://recnlp2019.github.io/papers/RecNLP2019_paper_21.pdf)</b><br>
+<b>Shuai Zhang</b>, Yi Tay,  Lina Yao,  Aixin Sun, Jake An. <br>
+<i>AAAI 2019 Workshop on Recommender Systems and Natural Language Processing.</i> <b>RecNLP 2019</b>.
+
 
 [\* denotes equal contribution]
