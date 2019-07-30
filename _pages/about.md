@@ -12,6 +12,7 @@ He is a PhD student at the School of Computer Science and Engineering, Universit
 
 Latest News
 ======
+* 30-7-2019: I will serve as Program Committee member for AAAI 2020.
 * 26-7-2019: Code for QuatE is released. [QuatE](https://github.com/cheungdaven/QuatE).
 * 22-7-2019: Invited as reviewer for ACM computing surveys.
 * 18-6-2019: I will do an internship at AWS AI Lab.
