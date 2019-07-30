@@ -9,6 +9,7 @@ redirect_from:
 
 
 ## Program Committee Member
+* AAAI 2020
 * RSBD 2019 (in parallel with ICDE 2019)
 
 ## Journal Reviewer
