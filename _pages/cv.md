@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Download my full Resume [here](https://drive.google.com/file/d/1cx6kKLLf9MXn8DPX0GicQ5JOZ5nWNsyS/view).
+Download my full Resume [here](http://cheungdaven.github.io/files/shuai_cv.pdf).
 
 Education
 ======
@@ -18,12 +18,12 @@ Education
 
 Work experience
 ======
-* Summer 2019: Research Intern
-  * AWS AI Lab
+* <b>AWS AI Lab</b>, Summer 2019: 
+  * Research Intern
   * Mentor: Aston Zhang
 
-* Winter 2018: Research Intern
-  * Tencent
+* <b>Tencent</b>, Winter 2018:
+  * Research Intern
   
-* Jul.2014 - Jun.2016: OPPO
+* <b>OPPO</b>, Jul.2014 - Jun.2016: 
   * Software Engineer
