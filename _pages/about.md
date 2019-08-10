@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-He is a PhD student at the School of Computer Science and Engineering, University of New South Wales (UNSW), as well as at Data61, CSIRO, since Oct. 2016, under the supervision of Lina Yao, Xiwei Xu and Liming Zhu. He received a Bachelor degree in 2014 from Nanjing University. His research interests include recommender systems, knowledge graph, and deep learning.
+He is a PhD student at the School of Computer Science and Engineering, University of New South Wales (UNSW), as well as at Data61, CSIRO, since 2016, under the supervision of Lina Yao, Xiwei Xu and Liming Zhu. He received a Bachelor degree in 2014 from Nanjing University. His research interests include recommender systems, knowledge graph, and deep learning.
 
 Latest News
 ======
