@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 ## Work in Progress
-<b>[ Quaternion Knowledge Graph Embedding](https://arxiv.org/abs/1905.10536)</b> <br>
+<b>[ Quaternion Knowledge Graph Embedding](https://arxiv.org/abs/1904.10281)</b> <br>
 <b>Shuai Zhang</b>\*, Yi Tay\*, Lina Yao, Qi Liu. <br>
 <i>Submitted, 2019</i>. 
 
