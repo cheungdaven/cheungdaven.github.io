@@ -12,6 +12,7 @@ He is a PhD student at the School of Computer Science and Engineering, Universit
 
 Latest News
 ======
+* 04-9-2019: The paper "Quaternion Knowledge Graph Embedding" is accepted at NeurIPS 2019, see you in Vancouver.
 * 30-7-2019: I will serve as Program Committee member for AAAI 2020.
 * 26-7-2019: Code for QuatE is released. [QuatE](https://github.com/cheungdaven/QuatE).
 * 22-7-2019: Invited as reviewer for ACM computing surveys.
@@ -20,4 +21,3 @@ Latest News
 * 21-5-2019: One paper is accepted by IJCAI Demo Track.
 * 14-5-2019: One paper  on NLP with Yi Tay accepted at ACL 2019.
 * 10-5-2019: The paper "Quaternion Collaborative Filtering for Recommendation" is accepted at IJCAI 2019.
-* 24-4-2019: The paper "Quaternion Knowledge Graph Embedding" is released on Arxiv.
