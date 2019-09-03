@@ -5,11 +5,13 @@ author_profile: true
 ---
 
 ## Work in Progress
-<b>[ Quaternion Knowledge Graph Embedding](https://arxiv.org/abs/1904.10281)</b> <br>
-<b>Shuai Zhang</b>\*, Yi Tay\*, Lina Yao, Qi Liu. <br>
-<i>Submitted, 2019</i>. 
+ 
 
 ## Conference Papers
+
+<b>[ Quaternion Knowledge Graph Embedding](https://arxiv.org/abs/1904.10281)</b> <br>
+<b>Shuai Zhang</b>\*, Yi Tay\*, Lina Yao, Qi Liu. <br>
+<i>Thirty-third Conference on Neural Information Processing Systems</i>. <b>NeurIPS 2019</b>.
 
 <b>[DeepRec: An Open-source Toolkit for Deep Learning based Recommendation (Demo Track)](https://arxiv.org/abs/1905.10536)</b> <br>
 <b>Shuai Zhang</b>, Yi Tay, Lina Yao, Bin Wu, Aixin Sun. <br>
@@ -27,6 +29,11 @@ Yi Tay, Aston Zhang, Anh Tuan Luu, Jinfeng Rao, <b>Shuai Zhang</b>, Shuohang Wan
 <b>[Holographic Factorization Machines for Recommendation](https://www.researchgate.net/publication/330101551_Holographic_Factorization_Machines_for_Recommendation)</b> <br> 
 Yi Tay\*, <b>Shuai Zhang</b>\*, Anh Tuan Luu, Siu Cheung Hui, Lina Yao, Lucas Vinh Tran.<br>
 <i>The 33rd AAAI Conference on Artificial Intelligence</i>. <b>AAAI 2019</b>.
+
+<b>[Adaptive Cognitive Activity Recognition with Reinforced Attentive CNN]()</b> <br> 
+Xiang Zhang, Lina Yao, Xianzhi Wang, Wenjie Zhang, <b>Shuai Zhang</b>, and Yunhao Liu.<br>
+<i>The 19th IEEE International Conference on Data Mining</i>. <b>ICDM 2019</b>.
+
 
 <b>[NeuRec: On Nonlinear Transformation for Personalized Ranking](https://www.ijcai.org/proceedings/2018/0510.pdf)</b> <br>
 <b>Shuai Zhang</b>, Lina Yao, Aixin Sun, Sen Wang. Guodong Long. Manqing Dong.<br>
@@ -52,7 +59,7 @@ Yi Tay\*, <b>Shuai Zhang</b>\*, Anh Tuan Luu, Siu Cheung Hui, Lina Yao, Lucas Vi
 
 <b>[Internet of Things Meets Brain-Computer Interface: A Unified Deep Learning Framework for Enabling Human-Thing
 Cognitive Interactivity]()</b><br>
-Xiang Zhang, Lina Yao, Shuai Zhang, Salil S. Kanhere, Quan Z. Sheng, Yunhao Liu. <br>
+Xiang Zhang, Lina Yao, <b>Shuai Zhang</b>, Salil S. Kanhere, Quan Z. Sheng, Yunhao Liu. <br>
 <i>IEEE Internet of Things Journal. 2018.</i>
 
 ## Book Chapters
