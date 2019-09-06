@@ -9,7 +9,7 @@ author_profile: true
 
 ## Conference Papers
 
-<b>[ Quaternion Knowledge Graph Embedding](https://arxiv.org/abs/1904.10281)</b> <br>
+<b>[ Quaternion Knowledge Graph Embedding](https://arxiv.org/abs/1904.10281)</b>, [Code](https://github.com/cheungdaven/QuatE)<br>
 <b>Shuai Zhang</b>\*, Yi Tay\*, Lina Yao, Qi Liu. <br>
 <i>Thirty-third Conference on Neural Information Processing Systems</i>. <b>NeurIPS 2019</b>.
 
