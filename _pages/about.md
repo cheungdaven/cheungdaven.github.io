@@ -15,7 +15,7 @@ He is a PhD student at the School of Computer Science and Engineering, Universit
 Highlighted Projects
 ======
 <!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/cheungdaven/deeprec" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star cheungdaven/deeprec on GitHub">DeepRec</a>  <br><br> <!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/cheungdaven/deeprec" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star cheungdaven/deeprec on GitHub">DeepRec</a>  <!-- Place this tag where you want the button to render. -->
 <a class="github-button" href="https://github.com/cheungdaven/quate" data-size="large" data-show-count="true" aria-label="Star cheungdaven/quate on GitHub">QuatE</a>
 
 Latest News
