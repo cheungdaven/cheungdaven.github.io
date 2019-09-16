@@ -7,9 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<!-- Place this tag in your head or just before your close body tag. -->
+<script async defer src="https://buttons.github.io/buttons.js"></script>
 
 He is a PhD student at the School of Computer Science and Engineering, University of New South Wales (UNSW), as well as at Data61, CSIRO, since 2016, under the supervision of Lina Yao, Xiwei Xu and Liming Zhu. He received a Bachelor degree in 2014 from Nanjing University. His research interests include recommender systems, knowledge graph, and deep learning.
 
+Highlighted Projects: <!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/cheungdaven/deeprec" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star cheungdaven/deeprec on GitHub">Star</a>
 Latest News
 ======
 * 04-9-2019: The paper "Quaternion Knowledge Graph Embedding" is accepted at NeurIPS 2019, see you in Vancouver.
