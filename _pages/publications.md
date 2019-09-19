@@ -11,24 +11,24 @@ author_profile: true
 
 <b>[ Quaternion Knowledge Graph Embedding](https://arxiv.org/abs/1904.10281)</b>, [Code](https://github.com/cheungdaven/QuatE)<br>
 <b>Shuai Zhang</b>\*, Yi Tay\*, Lina Yao, Qi Liu. <br>
-<i>Thirty-third Conference on Neural Information Processing Systems</i>. <b>NeurIPS 2019</b>.
+<b>NeurIPS 2019</b>. <i>Thirty-third Conference on Neural Information Processing Systems</i>. 
 
 <b>[DeepRec: An Open-source Toolkit for Deep Learning based Recommendation (Demo Track)](https://arxiv.org/abs/1905.10536)</b> <br>
 <b>Shuai Zhang</b>, Yi Tay, Lina Yao, Bin Wu, Aixin Sun. <br>
-<i>The 28th International Joint Conference on Artificial Intelligence</i>. <b>IJCAI 2019</b>.
+<b>IJCAI 2019</b>. <i>The 28th International Joint Conference on Artificial Intelligence</i>. 
 
 
 <b>[Lightweight and Efficient Neural Natural Language Processing with Quaternion Networks](https://arxiv.org/abs/1906.04393)</b> <br>
 Yi Tay, Aston Zhang, Anh Tuan Luu, Jinfeng Rao, <b>Shuai Zhang</b>, Shuohang Wang, Jie Fu and Siu Cheung Hui.<br>
-<i>The 57th Annual Meeting of the Association for Computational Linguistics </i>. <b>ACL 2019</b>.
+<b>ACL 2019</b>. <i>The 57th Annual Meeting of the Association for Computational Linguistics </i>. 
 
 <b>[Quaternion Collaborative Filtering for Recommendation](https://arxiv.org/abs/1906.02594)</b> <br>
 <b>Shuai Zhang</b>, Lina Yao, Lucas Vinh Tran , Aston Zhang , Yi Tay.<br>
-<i>The 28th International Joint Conference on Artificial Intelligence</i>. <b>IJCAI 2019</b>.
+<b>IJCAI 2019</b>. <i>The 28th International Joint Conference on Artificial Intelligence</i>. 
 
 <b>[Holographic Factorization Machines for Recommendation](https://www.researchgate.net/publication/330101551_Holographic_Factorization_Machines_for_Recommendation)</b> <br> 
 Yi Tay\*, <b>Shuai Zhang</b>\*, Anh Tuan Luu, Siu Cheung Hui, Lina Yao, Lucas Vinh Tran.<br>
-<i>The 33rd AAAI Conference on Artificial Intelligence</i>. <b>AAAI 2019</b>.
+<b>AAAI 2019</b>. <i>The 33rd AAAI Conference on Artificial Intelligence</i>.
 
 <!--
 <b>[Adaptive Cognitive Activity Recognition with Reinforced Attentive CNN]()</b> <br> 
@@ -38,11 +38,11 @@ Xiang Zhang, Lina Yao, Xianzhi Wang, Wenjie Zhang, <b>Shuai Zhang</b>, and Yunha
 
 <b>[NeuRec: On Nonlinear Transformation for Personalized Ranking](https://www.ijcai.org/proceedings/2018/0510.pdf)</b> <br>
 <b>Shuai Zhang</b>, Lina Yao, Aixin Sun, Sen Wang. Guodong Long. Manqing Dong.<br>
-<i>The 27th International Joint Conference on Artificial Intelligence</i>. <b>IJCAI 2018</b>.
+<b>IJCAI 2018</b>. <i>The 27th International Joint Conference on Artificial Intelligence</i>.
 
 <b>[AutoSVD++: An Efficient Hybrid Collaborative Filtering Model via Contractive Auto-encoders](http://shuaizhang.tech/publications/autosvdplusplus)</b> <br> 
 <b>Shuai Zhang</b>, Lina Yao, Xiwei Xu.<br>
-<i> The 40th International ACM SIGIR Conference on Research and Development in Information Retrieval</i>. <b>SIGIR 2017 </b>.
+<b>SIGIR 2017 </b>. <i> The 40th International ACM SIGIR Conference on Research and Development in Information Retrieval</i>. 
 
 
 
