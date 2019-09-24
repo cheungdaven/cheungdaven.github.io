@@ -10,7 +10,11 @@ redirect_from:
 <!-- Place this tag in your head or just before your close body tag. -->
 <script async defer src="https://buttons.github.io/buttons.js"></script>
 
-He is a PhD student at the School of Computer Science and Engineering, University of New South Wales (UNSW), as well as at Data61, CSIRO, since 2016, under the supervision of Lina Yao, Xiwei Xu and Liming Zhu. He received a Bachelor degree in 2014 from Nanjing University. His research interests include recommender systems, knowledge graph, and deep learning.
+He was a PhD student at the School of Computer Science and Engineering, University of New South Wales (UNSW) from 2016 to 2019. He has submitted PhD thesis. He received a Bachelor degree in 2014 from Nanjing University.
+
+During his PhD study, he interned at Amazon AI Lab and Tencent. 
+
+His research interests include recommender systems, knowledge graph, and deep learning.
 
 Highlighted Projects
 ======
