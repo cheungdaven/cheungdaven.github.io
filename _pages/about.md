@@ -18,7 +18,7 @@ He is the program committe member of AAAI 2020 and invited reviewers of top jour
 
 His research interests include recommender systems, knowledge graph, and deep learning.
 
-He is the <b>creator</b> of following open source projects:
+He is the <b>creator</b> of the following open source projects:
 <!-- Place this tag where you want the button to render. -->
 <a class="github-button" href="https://github.com/cheungdaven/deeprec" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star cheungdaven/deeprec on GitHub">DeepRec</a>  <!-- Place this tag where you want the button to render. -->
 <!--<a class="github-button" href="https://github.com/cheungdaven/quate" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star cheungdaven/quate on GitHub">QuatE</a> -->
