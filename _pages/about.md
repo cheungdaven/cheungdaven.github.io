@@ -10,7 +10,9 @@ redirect_from:
 <!-- Place this tag in your head or just before your close body tag. -->
 <script async defer src="https://buttons.github.io/buttons.js"></script>
 
-He was a PhD student at the School of Computer Science and Engineering, <b>University of New South Wales </b> from 2016 to 2019. He has submitted PhD thesis. He received a Bachelor degree in 2014 from <b>Nanjing University</b>.
+He was a PhD student of <b>University of New South Wales </b> from 2016 to 2019, majoring in computer science.
+
+He has submitted PhD thesis. He received a Bachelor degree in 2014 from <b>Nanjing University</b>.
 
 During his PhD study, he interned at <b> Amazon AI Lab </b> and <b>Tencent</b>. 
 
@@ -19,6 +21,7 @@ He is the program committe member of AAAI 2020 and invited reviewers of top jour
 His research interests include recommender systems, knowledge graph, and deep learning.
 
 He is the <b>creator</b> of the following open source projects:
+
 <!-- Place this tag where you want the button to render. -->
 <a class="github-button" href="https://github.com/cheungdaven/deeprec" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star cheungdaven/deeprec on GitHub">DeepRec</a>  <!-- Place this tag where you want the button to render. -->
 <!--<a class="github-button" href="https://github.com/cheungdaven/quate" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star cheungdaven/quate on GitHub">QuatE</a> -->
