@@ -14,6 +14,8 @@ He was a PhD student at the School of Computer Science and Engineering, <b>Unive
 
 During his PhD study, he interned at <b> Amazon AI Lab </b> and <b>Tencent</b>. 
 
+He is the program committe member of AAAI 2020 and invited reviewers of top journals such as TKDE, CSUR, Neurocomputing, etc.
+
 His research interests include recommender systems, knowledge graph, and deep learning.
 
 Highlighted Projects
