@@ -12,7 +12,7 @@ redirect_from:
 
 He was a PhD student of <b>University of New South Wales </b> from 2016 to 2019, majoring in computer science. He has submitted PhD thesis. During his PhD study, he interned at <b> Amazon AI Lab </b> and <b>Tencent</b>. 
 
-He received a Bachelor degree in 2014 from <b>Nanjing University</b>, majoring in information system. He worked in OPPO for two years after graduation.
+He received a Bachelor degree in 2014 from <b>Nanjing University</b>, majoring in information system. He worked for OPPO smartphone before starting PhD. 
 
 He is the program committe member of AAAI 2020 and invited reviewers of top journals such as TKDE, CSUR, Neurocomputing, etc.
 
