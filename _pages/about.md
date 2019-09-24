@@ -10,9 +10,9 @@ redirect_from:
 <!-- Place this tag in your head or just before your close body tag. -->
 <script async defer src="https://buttons.github.io/buttons.js"></script>
 
-He was a PhD student at the School of Computer Science and Engineering, University of New South Wales (UNSW) from 2016 to 2019. He has submitted PhD thesis. He received a Bachelor degree in 2014 from Nanjing University.
+He was a PhD student at the School of Computer Science and Engineering, <b>University of New South Wales </b> from 2016 to 2019. He has submitted PhD thesis. He received a Bachelor degree in 2014 from <b>Nanjing University</b>.
 
-During his PhD study, he interned at Amazon AI Lab and Tencent. 
+During his PhD study, he interned at <b> Amazon AI Lab </b> and <b>Tencent</b>. 
 
 His research interests include recommender systems, knowledge graph, and deep learning.
 
