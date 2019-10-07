@@ -49,6 +49,10 @@ Xiang Zhang, Lina Yao, Xianzhi Wang, Wenjie Zhang, <b>Shuai Zhang</b>, and Yunha
 
 ## Journal Papers
 
+<b>[Unraveling Metric Vector Spaces withFactorization for Recommendation]()</b><br>
+<b>Shuai Zhang</b>, Lina Yao, Bin Wu, Xiwei Xu, Xiang Zhang, Liming Zhu. <br>
+ <i>IEEE Transactions on Industrial Informatics. 2019.</i>
+ 
 <b>[Thing-of-Interest Recommendation in the Internet of Things: Requirements, Challenges and Directions](https://ieeexplore.ieee.org/document/8766954?source=authoralert)</b><br>
  Lina Yao, Xianzhi Wang, Quan Z. Sheng, Schahram Dustdar, <b>Shuai Zhang</b>. <br>
  <i>IEEE Internet Computing. 2019.</i>
