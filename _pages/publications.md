@@ -9,7 +9,7 @@ author_profile: true
 
 ## Conference Papers
 
-<b>[ Quaternion Knowledge Graph Embedding](https://arxiv.org/abs/1904.10281)</b><br>
+<b>[Quaternion Knowledge Graph Embedding](https://arxiv.org/abs/1904.10281)</b><br>
 <b>Shuai Zhang</b>\*, Yi Tay\*, Lina Yao, Qi Liu. <br>
 <b>NeurIPS 2019</b>. <i>Thirty-third Conference on Neural Information Processing Systems</i>. 
 
@@ -49,7 +49,7 @@ Xiang Zhang, Lina Yao, Xianzhi Wang, Wenjie Zhang, <b>Shuai Zhang</b>, and Yunha
 
 ## Journal Papers
 
-<b>[Unraveling Metric Vector Spaces withFactorization for Recommendation]()</b><br>
+<b>[Unraveling Metric Vector Spaces with Factorization for Recommendation]()</b><br>
 <b>Shuai Zhang</b>, Lina Yao, Bin Wu, Xiwei Xu, Xiang Zhang, Liming Zhu. <br>
  <i>IEEE Transactions on Industrial Informatics. 2019.</i>
  
