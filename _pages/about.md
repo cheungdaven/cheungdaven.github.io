@@ -10,7 +10,7 @@ redirect_from:
 <!-- Place this tag in your head or just before your close body tag. -->
 <script async defer src="https://buttons.github.io/buttons.js"></script>
 
-He was a PhD student of <b>University of New South Wales </b> from 2016 to 2019, majoring in computer science, under the supervision of Dr. [Lina Yao](http://www.linayao.com/), Xiwei Xu and Liming Zhu. He has submitted PhD thesis. During his PhD study, he interned at <b> Amazon AI Lab </b> and <b>Tencent</b>. He received a Bachelor degree in 2014 from <b>Nanjing University</b>, majoring in information system. His research interests include but not limited to recommender systems, knowledge graph, and deep learning. He is PC member and reviewer for a number of top conferences and journals.
+He was a PhD student of <b>University of New South Wales </b> from 2016 to 2019, majoring in computer science, under the supervision of Dr. [Lina Yao](http://www.linayao.com/), [Xiwei Xu](https://scholar.google.com/citations?user=x9IUq78AAAAJ&hl=en) and [Liming Zhu](http://cgi.cse.unsw.edu.au/~limingz/home/). He has submitted PhD thesis. During his PhD study, he interned at <b> Amazon AI Lab </b> (Mentor: [Aston Zhang](https://www.astonzhang.com/)) and <b>Tencent</b>. He received a Bachelor degree in 2014 from <b>Nanjing University</b>, majoring in information system. His research interests include but not limited to recommender systems, knowledge graph, and deep learning. He is PC member and reviewer for a number of top conferences and journals.
 
 He is the <b>creator</b> of the following open source projects:
 
