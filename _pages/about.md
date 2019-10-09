@@ -21,7 +21,7 @@ He is the <b>creator</b> of the following open source projects:
 Latest News
 ======
 * 07-10-2019: I will join the Systems Group of ETH Zurich as a PostDoc.
-* 07-10-2019: One paper is accepted by IEEE Transactions on Industrial Informatics.  
+* 07-10-2019: One paper is accepted by IEEE Transactions on Industrial Informatics (IF:7.377).  
 * 04-9-2019: One paper is accepted at NeurIPS 2019, see you in Vancouver.
 * 30-7-2019: I will serve as Program Committee member for AAAI 2020.
 * 22-7-2019: Invited as reviewer for ACM computing surveys.
