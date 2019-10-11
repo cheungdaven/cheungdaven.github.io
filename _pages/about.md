@@ -20,6 +20,7 @@ He is the <b>creator</b> of the following open source projects:
 
 Latest News
 ======
+* 11-10-2019: One paper with Lucas is accepted by WSDM 2020.
 * 10-10-2019: I am awarded the NeurIPS 2019 Travel Grant.
 * 07-10-2019: I will join the Systems Group of ETH Zurich as a PostDoc.
 * 07-10-2019: One paper is accepted by IEEE Transactions on Industrial Informatics (IF:7.377).  
