@@ -8,7 +8,7 @@ author_profile: true
  
 
 ## Conference Papers
-<b>[HyperML: A Boosting Metric Learning Approach in Hyperbolic Space for Recommender Systems](https://arxiv.org/pdf/1809.01703.pdf)</b><br>
+<b>[HyperML: A Boosting Metric Learning Approach in Hyperbolic Space for Recommender Systems]()</b><br>
 Lucas Vinh Tran,  Yi Tay, <b>Shuai Zhang</b>, Gao Cong, Xiaoli Li. <br>
 <b>WSDM 2020</b>. <i>The 13th ACM International Conference on Web Search and Data Mining</i>. 
 
