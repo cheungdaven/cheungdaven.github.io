@@ -21,6 +21,7 @@ redirect_from:
 * PLOS ONE
 * Artificial Intelligence Review 
 * ACM computing surveys
+* IEEE Journal of Biomedical and Health Informatics
 
 ## Conference Reviewer
 * IJCAI 2019, AAAI 2019, PAKDD 2019, CIKM 2018,  IJCAI 2018, ICWS 2017
