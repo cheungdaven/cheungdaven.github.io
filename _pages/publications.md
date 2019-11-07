@@ -64,11 +64,16 @@ Xiang Zhang, Lina Yao, Xianzhi Wang, Wenjie Zhang, <b>Shuai Zhang</b>, and Yunha
 <b>Shuai Zhang</b>, Lina Yao, Aixin Sun, Yi Tay.<br>
 <i>ACM Computing surveys. 2019.</i>
 
+<b>[Prediction via Generative Convolutional Neural Networks based Regression]()</b><br>
+Xiaodong Ning, Lina Yao, Xianzhi Wang, Boualem Benatallah, Manqing Dong, <b>Shuai Zhang</b>. <br>
+<i>Pattern Recognition Letters. 2018.</i>
 
 <b>[Internet of Things Meets Brain-Computer Interface: A Unified Deep Learning Framework for Enabling Human-Thing
 Cognitive Interactivity]()</b><br>
 Xiang Zhang, Lina Yao, <b>Shuai Zhang</b>, Salil S. Kanhere, Quan Z. Sheng, Yunhao Liu. <br>
 <i>IEEE Internet of Things Journal. 2018.</i>
+
+
 
 ## Book Chapters
 <b>[Deep Neural Networks meet Recommender Systems](https://digital-library.theiet.org/content/books/10.1049/pbpc035g_ch2)</b><br>
