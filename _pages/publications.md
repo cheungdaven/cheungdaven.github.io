@@ -8,6 +8,10 @@ author_profile: true
  
 
 ## Conference Papers
+<b>[Symmetric Metric Learning with Adaptive Margin for Recommendation]()</b><br>
+Mingming Li, <b>Shuai Zhang</b>, Fuqing Zhu, Liangjun Zang, Wanhui Qian, Jizhong Han, Songlin Hu. <br>
+<b>AAAI 2020</b>. <i>The 34th AAAI Conference on Artificial Intelligence</i>.
+
 <b>[HyperML: A Boosting Metric Learning Approach in Hyperbolic Space for Recommender Systems]()</b><br>
 Lucas Vinh Tran,  Yi Tay, <b>Shuai Zhang</b>, Gao Cong, Xiaoli Li. <br>
 <b>WSDM 2020</b>. <i>The 13th ACM International Conference on Web Search and Data Mining</i>. 
