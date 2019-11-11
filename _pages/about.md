@@ -20,6 +20,7 @@ He is the <b>creator</b> of the following open source projects:
 
 Latest News
 ======
+* 11-11-2019: One paper with Mingming Li is accepted by AAAI 2020.
 * 31-10-2019: The chapter [Recommender Systems](http://numpy.d2l.ai/chapter_recommender-systems/index.html) in the [Dive into Deep Learning](http://numpy.d2l.ai/) book comes out. Any feedback is welcome.
 * 11-10-2019: One paper with [Lucas](https://sites.google.com/view/lucasvinhtran) is accepted by WSDM 2020.
 * 10-10-2019: I am awarded the NeurIPS 2019 Travel Grant.
