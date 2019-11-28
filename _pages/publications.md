@@ -80,9 +80,16 @@ Xiang Zhang, Lina Yao, <b>Shuai Zhang</b>, Salil S. Kanhere, Quan Z. Sheng, Yunh
 
 
 ## Book Chapters
+<b>[Recommender Systems](https://d2l.ai/chapter_recommender-systems/index.html)</b><br>
+<b>Shuai Zhang</b>, Aston Zhang, Yi Tay. <br>
+<i>Book Title: [Dive into Deep Learning](https://d2l.ai/). </i> <br>
+<i>Book Authors: Aston Zhang, Zack C. Lipton, Mu Li, Alex J. Smola. </i>
+
+
 <b>[Deep Neural Networks meet Recommender Systems](https://digital-library.theiet.org/content/books/10.1049/pbpc035g_ch2)</b><br>
 <b>Shuai Zhang</b>, Lina Yao, Aixin Sun, Guibing Guo, Xiwei Xu, Liming Zhu. <br>
 <i>Book Title: Big Data Recommender Systems: Recent Trends and Advances. </i> <br>
+<i>Book Editors: Osman Khalid, Samee U. Khan,  Albert Y. Zomaya . </i> <br>
 <i> Publisher: Institution of Engineering and Technology. </i>
 
 ## Workshop Papers
