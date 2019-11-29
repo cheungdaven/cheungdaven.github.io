@@ -1,3 +1,4 @@
+{%
 ---
 layout: archive
 title: "Resume"
@@ -7,7 +8,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+ include base_path 
 
 Download my full Resume [here](http://cheungdaven.github.io/files/shuai_cv.pdf).
 
@@ -27,3 +28,4 @@ Work experience
   
 * <b>OPPO</b>, Jul.2014 - Jun.2016: 
   * Software Engineer
+%}
