@@ -11,7 +11,7 @@ redirect_from:
 <script async defer src="https://buttons.github.io/buttons.js"></script>
 <i>I will join ETH Zurich as a PostDoc.<i>
   
-I received my PhD from the school of computer science and engineering at <b>University of New South Wales </b> in 2019, where he was advised by [Lina Yao](http://www.linayao.com/), [Xiwei Xu](https://scholar.google.com/citations?user=x9IUq78AAAAJ&hl=en) and [Liming Zhu](http://cgi.cse.unsw.edu.au/~limingz/home/). During his PhD study, he interned at <b> Amazon AI Lab </b> (Mentor: [Aston Zhang](https://www.astonzhang.com/)) and <b>Tencent</b>. I received a Bachelor degree in 2014 from <b>Nanjing University</b>. 
+I received my PhD from the school of computer science and engineering at <b>University of New South Wales </b> in 2019, where I was advised by [Lina Yao](http://www.linayao.com/), [Xiwei Xu](https://scholar.google.com/citations?user=x9IUq78AAAAJ&hl=en) and [Liming Zhu](http://cgi.cse.unsw.edu.au/~limingz/home/). During my PhD study, I interned at <b> Amazon AI </b> (Mentor: [Aston Zhang](https://www.astonzhang.com/)) and <b>Tencent</b>. I received a Bachelor degree in 2014 from <b>Nanjing University</b>. 
 
 <!-- His research interests include but not limited to recommender systems, knowledge graph, and deep learning. He is PC member and reviewer for a number of top conferences and journals. -->
 
@@ -26,7 +26,7 @@ Latest News
 * 20-11-2019: I was awarded a PhD degree.
 * 11-11-2019: One paper with Mingming Li is accepted by AAAI 2020.
 * 31-10-2019: The chapter [Recommender Systems](http://numpy.d2l.ai/chapter_recommender-systems/index.html) in the [Dive into Deep Learning](http://numpy.d2l.ai/) book comes out. Any feedback is welcome.
-* 11-10-2019: One paper with [Lucas](https://sites.google.com/view/lucasvinhtran) is accepted by WSDM 2020.
+* 11-10-2019: One paper with [Lucas](https://sites.google.com/view/lucasvinhtran) and [Yi Tay](https://vanzytay.github.io/) is accepted by WSDM 2020.
 * 10-10-2019: I am awarded the NeurIPS 2019 Travel Grant.
 * 07-10-2019: I will join the Systems Group of ETH Zurich as a PostDoc.
 * 07-10-2019: One paper is accepted by IEEE Transactions on Industrial Informatics (IF:7.377).  
