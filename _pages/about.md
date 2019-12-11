@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Bio"
 excerpt: "Shuai Zhang's Homepage"
 author_profile: true
 redirect_from: 
