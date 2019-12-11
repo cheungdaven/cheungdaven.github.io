@@ -33,7 +33,7 @@ Latest News
 * 04-9-2019: One paper is accepted at NeurIPS 2019, see you in Vancouver.
 * 30-7-2019: I will serve as Program Committee member for AAAI 2020.
 * 22-7-2019: Invited as reviewer for ACM computing surveys.
-<!--* 18-6-2019: I will do an internship at AWS AI Lab.
+<!-- * 18-6-2019: I will do an internship at AWS AI Lab.
 * 11-6-2019: Awarded the IJCAI 2019 Travel Grant.
 * 21-5-2019: One paper is accepted by IJCAI Demo Track.
 * 14-5-2019: One paper on NLP with [Yi Tay](https://vanzytay.github.io/) accepted at ACL 2019.
