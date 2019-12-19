@@ -13,6 +13,7 @@ redirect_from:
 * RSBD 2019 (in parallel with ICDE 2019)
 
 ## Journal Reviewer
+* IEEE Intelligent Systems
 * IEEE Transactions on Knowledge and Data Engineering
 * IEEE Access
 * Pattern Recognition Letters
