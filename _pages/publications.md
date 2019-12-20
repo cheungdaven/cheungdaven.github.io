@@ -12,7 +12,7 @@ author_profile: true
 Mingming Li, <b>Shuai Zhang</b>, Fuqing Zhu, Liangjun Zang, Wanhui Qian, Jizhong Han, Songlin Hu. <br>
 <b>AAAI 2020</b>. <i>The 34th AAAI Conference on Artificial Intelligence</i>.
 
-<b>[HyperML: A Boosting Metric Learning Approach in Hyperbolic Space for Recommender Systems]()</b><br>
+<b>[HyperML: A Boosting Metric Learning Approach in Hyperbolic Space for Recommender Systems](https://arxiv.org/abs/1809.01703)</b><br>
 Lucas Vinh Tran,  Yi Tay, <b>Shuai Zhang</b>, Gao Cong, Xiaoli Li. <br>
 <b>WSDM 2020</b>. <i>The 13th ACM International Conference on Web Search and Data Mining</i>. 
 
@@ -56,7 +56,7 @@ Xiang Zhang, Lina Yao, Xianzhi Wang, Wenjie Zhang, <b>Shuai Zhang</b>, and Yunha
 
 ## Journal Papers
 
-<b>[Unraveling Metric Vector Spaces with Factorization for Recommendation]()</b><br>
+<b>[Unraveling Metric Vector Spaces with Factorization for Recommendation](https://ieeexplore.ieee.org/abstract/document/8867947/)</b><br>
 <b>Shuai Zhang</b>, Lina Yao, Bin Wu, Xiwei Xu, Xiang Zhang, Liming Zhu. <br>
  <i>IEEE Transactions on Industrial Informatics. 2019.</i>
  
@@ -68,7 +68,7 @@ Xiang Zhang, Lina Yao, Xianzhi Wang, Wenjie Zhang, <b>Shuai Zhang</b>, and Yunha
 <b>Shuai Zhang</b>, Lina Yao, Aixin Sun, Yi Tay.<br>
 <i>ACM Computing surveys. 2019.</i>
 
-<b>[Prediction via Generative Convolutional Neural Networks based Regression]()</b><br>
+<b>[Prediction via Generative Convolutional Neural Networks based Regression](https://www.sciencedirect.com/science/article/abs/pii/S0167865518303325)</b><br>
 Xiaodong Ning, Lina Yao, Xianzhi Wang, Boualem Benatallah, Manqing Dong, <b>Shuai Zhang</b>. <br>
 <i>Pattern Recognition Letters. 2018.</i>
 
@@ -99,5 +99,6 @@ Xiang Zhang, Lina Yao, <b>Shuai Zhang</b>, Salil S. Kanhere, Quan Z. Sheng, Yunh
 
 
 [Deadlines](https://aideadlin.es/?sub=ML,DM)
+
 [\* denotes equal contribution]
 
