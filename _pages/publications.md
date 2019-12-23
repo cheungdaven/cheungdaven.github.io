@@ -39,7 +39,7 @@ Yi Tay\*, <b>Shuai Zhang</b>\*, Anh Tuan Luu, Siu Cheung Hui, Lina Yao, Lucas Vi
 
 <b>[Adaptive Cognitive Activity Recognition with Reinforced Attentive CNN]()</b> <br> 
 Xiang Zhang, Lina Yao, Xianzhi Wang, Wenjie Zhang, <b>Shuai Zhang</b>, and Yunhao Liu.<br>
-<i>The 19th IEEE International Conference on Data Mining</i>. <b>ICDM 2019</b>.
+<b>ICDM 2019</b>. <i>The 19th IEEE International Conference on Data Mining</i>. 
 
 <b>[NeuRec: On Nonlinear Transformation for Personalized Ranking](https://www.ijcai.org/proceedings/2018/0510.pdf)</b> <br>
 <b>Shuai Zhang</b>, Lina Yao, Aixin Sun, Sen Wang. Guodong Long. Manqing Dong.<br>
