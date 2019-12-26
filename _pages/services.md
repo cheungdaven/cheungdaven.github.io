@@ -12,11 +12,12 @@ redirect_from:
 * AAAI 2020
 * RSBD 2019 (in parallel with ICDE 2019)
 
-## Journal Reviewer
+## Invited Journal Reviewer
 * IEEE Intelligent Systems
 * IEEE Transactions on Knowledge and Data Engineering
 * IEEE Access
 * Pattern Recognition Letters
+* Engineering Applications of Artificial Intelligence (Elsevier)
 * Neurocomputing
 * Multimedia Tools and Applications
 * PLOS ONE
