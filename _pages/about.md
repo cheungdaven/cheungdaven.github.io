@@ -23,6 +23,7 @@ I am the <b>creator</b> of the following open source projects:
 
 Latest News
 ======
+* 12-01-2020: Invited as reviewer for ACM Transactions of Information Systems.
 * 08-12-2019: I attended the NeurIPS conference in Vancouver and presented our work.
 * 20-11-2019: I was awarded a PhD degree.
 * 11-11-2019: One paper with Mingming Li is accepted by AAAI 2020.
