@@ -23,6 +23,7 @@ I am the <b>creator</b> of the following open source projects:
 
 Latest News
 ======
+* 22-02-2020: Invited as the PC member of the SIGIR demo track.
 * 12-01-2020: Invited as reviewer for ACM Transactions of Information Systems.
 * 08-12-2019: I attended the NeurIPS conference in Vancouver and presented our work.
 * 20-11-2019: I was awarded a PhD degree.
