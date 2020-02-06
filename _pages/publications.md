@@ -14,7 +14,8 @@ Mingming Li, <b>Shuai Zhang</b>, Fuqing Zhu, Liangjun Zang, Wanhui Qian, Jizhong
 
 <b>[HyperML: A Boosting Metric Learning Approach in Hyperbolic Space for Recommender Systems](https://arxiv.org/abs/1809.01703)</b><br>
 Lucas Vinh Tran,  Yi Tay, <b>Shuai Zhang</b>, Gao Cong, Xiaoli Li. <br>
-<b>WSDM 2020</b>. <i>The 13th ACM International Conference on Web Search and Data Mining</i>. 
+<b>WSDM 2020</b>. <i>The 13th ACM International Conference on Web Search and Data Mining</i>. <br>
+<b>Best Paper Award Runner-up.</b>
 
 <b>[Quaternion Knowledge Graph Embeddings](https://arxiv.org/abs/1904.10281)</b><br>
 <b>Shuai Zhang</b>\*, Yi Tay\*, Lina Yao, Qi Liu. <br>
