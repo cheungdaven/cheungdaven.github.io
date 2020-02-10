@@ -11,7 +11,7 @@ redirect_from:
 <script async defer src="https://buttons.github.io/buttons.js"></script>
 <i>I will join ETH Zurich as a PostDoc.<i>
   
-I received my PhD from the school of computer science and engineering at the <b>University of New South Wales </b> in 2019, where I was advised by [Lina Yao](http://www.linayao.com/), [Xiwei Xu](https://scholar.google.com/citations?user=x9IUq78AAAAJ&hl=en) and [Liming Zhu](http://cgi.cse.unsw.edu.au/~limingz/home/). During my PhD study, I interned at <b> Amazon AI </b> (Mentor: [Aston Zhang](https://www.astonzhang.com/)) and <b>Tencent</b>. I received a Bachelor degree in 2014 from <b>Nanjing University</b>. 
+Shuai Zhang is a Postdoctoral Researcher at <b>ETH Zürich</b>, working with Dr. Ce Zhang. I received my PhD from the school of computer science and engineering at the <b>University of New South Wales </b> in 2019, where I was advised by [Lina Yao](http://www.linayao.com/), [Xiwei Xu](https://scholar.google.com/citations?user=x9IUq78AAAAJ&hl=en) and [Liming Zhu](http://cgi.cse.unsw.edu.au/~limingz/home/). During my PhD study, I interned at <b> Amazon AI </b> (Mentor: [Aston Zhang](https://www.astonzhang.com/)) and <b>Tencent</b>. I received a Bachelor degree in 2014 from <b>Nanjing University</b>. 
 
 <!-- His research interests include but not limited to recommender systems, knowledge graph, and deep learning. He is PC member and reviewer for a number of top conferences and journals. -->
 
