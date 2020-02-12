@@ -35,9 +35,9 @@ Latest News
 * 04-9-2019: One paper is accepted at NeurIPS 2019, see you in Vancouver.
 * 30-7-2019: I will serve as Program Committee member for AAAI 2020.
 <!--  
-* 07-10-2019: I will join the Systems Group of ETH Zurich as a PostDoc.
-* 22-7-2019: Invited as reviewer for ACM computing surveys.
-* 12-01-2020: Invited as reviewer for ACM Transactions of Information Systems.
+07-10-2019: I will join the Systems Group of ETH Zurich as a PostDoc.
+22-7-2019: Invited as reviewer for ACM computing surveys.
+12-01-2020: Invited as reviewer for ACM Transactions of Information Systems.
 18-6-2019: I will do an internship at AWS AI Lab.
  11-6-2019: Awarded the IJCAI 2019 Travel Grant.
  21-5-2019: One paper is accepted by IJCAI Demo Track.
