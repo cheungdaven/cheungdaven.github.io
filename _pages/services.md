@@ -15,6 +15,8 @@ redirect_from:
 * RSBD 2019 (in parallel with ICDE 2019)
 
 ## Invited Journal Reviewer
+* Knowledge-based Systems
+* IEEE Transactions on Mobile Computing
 * ACM Transactions of Information Systems
 * IEEE Intelligent Systems
 * IEEE Transactions on Knowledge and Data Engineering
