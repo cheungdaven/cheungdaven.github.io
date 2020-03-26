@@ -9,6 +9,7 @@ redirect_from:
 
 
 ## Program Committee Member
+* AACL-IJCNLP 2020
 * SIGIR Demo Track 2020
 * ACL 2020
 * AAAI 2020
