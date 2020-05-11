@@ -9,6 +9,7 @@ redirect_from:
 
 
 ## Program Committee Member
+* EMNLP 2020
 * AACL-IJCNLP 2020
 * SIGIR Demo Track 2020
 * ACL 2020
@@ -16,6 +17,7 @@ redirect_from:
 * RSBD 2019 (in parallel with ICDE 2019)
 
 ## Invited Journal Reviewer
+* Nature Communications
 * Knowledge-based Systems
 * IEEE Transactions on Mobile Computing
 * ACM Transactions of Information Systems
@@ -32,7 +34,7 @@ redirect_from:
 * IEEE Journal of Biomedical and Health Informatics
 
 ## Conference Reviewer
-* IJCAI 2019, AAAI 2019, PAKDD 2019, CIKM 2018,  IJCAI 2018, ICWS 2017
+* KDD 2020, IJCAI 2019, AAAI 2019, PAKDD 2019, CIKM 2018,  IJCAI 2018, ICWS 2017
 
 ## Volunteer
 * AAAI 2019
