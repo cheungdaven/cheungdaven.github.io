@@ -12,8 +12,6 @@ redirect_from:
   
 Shuai Zhang is a Postdoctoral Researcher at <b>ETH Zürich</b>, advised by [Ce Zhang](https://www.ds3lab.com/members/ce-zhang/). I received my PhD from the school of computer science and engineering at the <b>University of New South Wales </b> in 2019, where I was advised by [Lina Yao](http://www.linayao.com/), [Xiwei Xu](https://scholar.google.com/citations?user=x9IUq78AAAAJ&hl=en) and [Liming Zhu](http://cgi.cse.unsw.edu.au/~limingz/home/). During my PhD study, I interned at <b> Amazon AI </b> (Mentor: [Aston Zhang](https://www.astonzhang.com/)) and <b>Tencent</b>. I received a Bachelor degree in 2014 from <b>Nanjing University</b>. 
 
-For more information, please find my [CV here](https://shuaizhang.tech/Shuai_Zhang_CV.pdf).
-
 <!-- His research interests include but not limited to recommender systems, knowledge graph, and deep learning. He is PC member and reviewer for a number of top conferences and journals. -->
 
 I am the <b>creator</b> of the following open source projects:
