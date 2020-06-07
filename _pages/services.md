@@ -9,6 +9,7 @@ redirect_from:
 
 
 ## Program Committee Member
+* NeurIPS 2020
 * EMNLP 2020
 * AACL-IJCNLP 2020
 * SIGIR Demo Track 2020
