@@ -18,6 +18,7 @@ redirect_from:
 * RSBD 2019 (in parallel with ICDE 2019)
 
 ## Invited Journal Reviewer
+* IEEE Transactions on Neural Networks and Learning Systems
 * Nature Communications
 * Knowledge-based Systems
 * IEEE Transactions on Mobile Computing
