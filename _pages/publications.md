@@ -5,7 +5,8 @@ author_profile: true
 ---
 
 ## Work in Progress
- 
+<b>[DeGNN: Characterizing and Improving Graph Neural Networks with Graph Decomposition]()</b><br>
+Co-author, under review.<br>
 
 ## Conference Papers
 <b>[Symmetric Metric Learning with Adaptive Margin for Recommendation]()</b><br>
