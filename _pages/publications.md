@@ -1,8 +1,9 @@
 ---
-title: "Selected Publications [(Google Scholar Profile)](https://scholar.google.com.au/citations?user=PPjdxlcAAAAJ&hl=en) [(Full List at DBLP)](https://dblp.uni-trier.de/pers/hd/z/Zhang_0007:Shuai)"
+title: "Selected Publications"
 permalink: /publications/
 author_profile: true
 ---
+[(Google Scholar Profile)](https://scholar.google.com.au/citations?user=PPjdxlcAAAAJ&hl=en) [(Full List at DBLP)](https://dblp.uni-trier.de/pers/hd/z/Zhang_0007:Shuai)
 
 ## Work in Progress
 <b>[DeGNN: Characterizing and Improving Graph Neural Networks with Graph Decomposition]()</b><br>
