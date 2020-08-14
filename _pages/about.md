@@ -25,6 +25,7 @@ I am the <b>creator</b> of the following open source projects:
 
 Latest News
 ======
+* 14-08-2020: I am serveing as PC member for AAAI 2021 and EACL 2021.
 * 26-03-2020: Will serve as PC member for EMNLP 2020 and AACL-IJCNLP 2020. 
 * 10-02-2020: Start my new journey at the Department of Computer Science in ETH Zurich. 
 * 06-02-2020: One paper with [Lucas](https://sites.google.com/view/lucasvinhtran) and [Yi Tay](https://vanzytay.github.io/) is awarded the Best paper award runner-up.
