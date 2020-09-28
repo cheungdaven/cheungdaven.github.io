@@ -21,24 +21,24 @@ I am the <b>creator</b> of the following open source projects:
 <!-- Place this tag where you want the button to render. -->
 <a class="github-button" href="https://github.com/cheungdaven/deeprec" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star cheungdaven/deeprec on GitHub">DeepRec</a>  <!-- Place this tag where you want the button to render. -->
 <!--<a class="github-button" href="https://github.com/cheungdaven/quate" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star cheungdaven/quate on GitHub">QuatE</a> -->
-
+<!-- 
 Latest News
 ======
-* 14-08-2020: I will serve as PC member for AAAI 2021 and EACL 2021.
-* 26-03-2020: Will serve as PC member for EMNLP 2020 and AACL-IJCNLP 2020. 
-* 10-02-2020: Start my new journey at the Department of Computer Science in ETH Zurich. 
-* 06-02-2020: One paper with [Lucas](https://sites.google.com/view/lucasvinhtran) and [Yi Tay](https://vanzytay.github.io/) is awarded the Best paper award runner-up.
-* 22-01-2020: Invited as the PC member of the SIGIR demo track.
-* 08-12-2019: I attended the NeurIPS conference in Vancouver and presented our work.
-* 20-11-2019: I was awarded a PhD degree.
-* 11-11-2019: One paper with Mingming Li is accepted by AAAI 2020.
-* 31-10-2019: The chapter [Recommender Systems](http://numpy.d2l.ai/chapter_recommender-systems/index.html) in the [Dive into Deep Learning](http://numpy.d2l.ai/) book comes out. Any feedback is welcome.
-* 11-10-2019: One paper with [Lucas](https://sites.google.com/view/lucasvinhtran) and [Yi Tay](https://vanzytay.github.io/) is accepted by WSDM 2020.
-* 10-10-2019: I am awarded the NeurIPS 2019 Travel Grant.
-* 07-10-2019: One paper is accepted by IEEE Transactions on Industrial Informatics (IF:7.377).  
-* 04-9-2019: One paper is accepted at NeurIPS 2019, see you in Vancouver.
-* 30-7-2019: I will serve as Program Committee member for AAAI 2020.
-<!--  
+14-08-2020: I will serve as PC member for AAAI 2021 and EACL 2021.
+26-03-2020: Will serve as PC member for EMNLP 2020 and AACL-IJCNLP 2020. 
+10-02-2020: Start my new journey at the Department of Computer Science in ETH Zurich. 
+06-02-2020: One paper with [Lucas](https://sites.google.com/view/lucasvinhtran) and [Yi Tay](https://vanzytay.github.io/) is awarded the Best paper award runner-up.
+22-01-2020: Invited as the PC member of the SIGIR demo track.
+08-12-2019: I attended the NeurIPS conference in Vancouver and presented our work.
+20-11-2019: I was awarded a PhD degree.
+11-11-2019: One paper with Mingming Li is accepted by AAAI 2020.
+31-10-2019: The chapter [Recommender Systems](http://numpy.d2l.ai/chapter_recommender-systems/index.html) in the [Dive into Deep Learning](http://numpy.d2l.ai/) book comes out. Any feedback is welcome.
+11-10-2019: One paper with [Lucas](https://sites.google.com/view/lucasvinhtran) and [Yi Tay](https://vanzytay.github.io/) is accepted by WSDM 2020.
+10-10-2019: I am awarded the NeurIPS 2019 Travel Grant.
+07-10-2019: One paper is accepted by IEEE Transactions on Industrial Informatics (IF:7.377).  
+04-9-2019: One paper is accepted at NeurIPS 2019, see you in Vancouver.
+30-7-2019: I will serve as Program Committee member for AAAI 2020.-->
+ <!-- 
 07-10-2019: I will join the Systems Group of ETH Zurich as a PostDoc.
 22-7-2019: Invited as reviewer for ACM computing surveys.
 12-01-2020: Invited as reviewer for ACM Transactions of Information Systems.
