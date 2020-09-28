@@ -18,7 +18,7 @@ Hi, I am Shuai Zhang, a postdoctoral researcher at the department of computer sc
 
 <!-- His research interests include but not limited to recommender systems, knowledge graph, and deep learning. He is PC member and reviewer for a number of top conferences and journals. -->
 
-You want to learn more about deep learning and recommender systems? You can:
+Wanna learn more about deep learning and recommender systems? You can:
 * Check our <a href="https://arxiv.org/abs/1707.07435">survey</a> on deep learning based recommender systems;
 * Read our book chapter <a href="https://d2l.ai/chapter_recommender-systems/index.html">Recommender Systems</a> in <i>Dive into Deep Learning</i>;
 * Get your hands dirty with our opensource toolkits: <a class="github-button" href="https://github.com/cheungdaven/deeprec" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star cheungdaven/deeprec on GitHub">DeepRec</a>  <!-- Place this tag where you want the button to render. -->
