@@ -20,10 +20,7 @@ Hi, I am Shuai Zhang, a postdoctoral researcher at the department of computer sc
 
 <!-- His research interests include but not limited to recommender systems, knowledge graph, and deep learning. He is PC member and reviewer for a number of top conferences and journals. -->
 
-Wanna learn more about deep learning and recommender systems? You can:
-Check our <a href="https://arxiv.org/abs/1707.07435">survey</a> on deep learning based recommender systems
-Read our book chapter <a href="https://d2l.ai/chapter_recommender-systems/index.html">Recommender Systems</a> in <i>Dive into Deep Learning</i>
-Get your hands dirty with our opensource toolkit: <a class="github-button" href="https://github.com/cheungdaven/deeprec" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star cheungdaven/deeprec on GitHub">DeepRec</a>  <!-- Place this tag where you want the button to render. -->
+
 
 <!--I am the <b>creator</b> of the following open source projects:
  Place this tag where you want the button to render. -->
@@ -32,6 +29,12 @@ Latest News
 ======
 * 19-09-2020: give a talk at chinese science club in zurich.
 * 14-08-2020: I will serve as PC member for AAAI 2021 and EACL 2021.
+
+
+Wanna learn more about deep learning and recommender systems? You can:
+(1) Check our <a href="https://arxiv.org/abs/1707.07435">survey</a> on deep learning based recommender systems
+(2) Read our book chapter <a href="https://d2l.ai/chapter_recommender-systems/index.html">Recommender Systems</a> in <i>Dive into Deep Learning</i>
+(3) Get your hands dirty with our opensource toolkit: <a class="github-button" href="https://github.com/cheungdaven/deeprec" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star cheungdaven/deeprec on GitHub">DeepRec</a>  <!-- Place this tag where you want the button to render. -->
 
 <!--<a class="github-button" href="https://github.com/cheungdaven/quate" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star cheungdaven/quate on GitHub">QuatE</a> -->
 <!-- 
