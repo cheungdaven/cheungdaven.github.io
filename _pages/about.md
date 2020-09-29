@@ -30,8 +30,8 @@ Get your hands dirty with our opensource toolkit: <a class="github-button" href=
 
 Latest News
 ======
-19-09-2020: give a talk at chinese science club in zurich.
-14-08-2020: I will serve as PC member for AAAI 2021 and EACL 2021.
+* 19-09-2020: give a talk at chinese science club in zurich.
+* 14-08-2020: I will serve as PC member for AAAI 2021 and EACL 2021.
 
 <!--<a class="github-button" href="https://github.com/cheungdaven/quate" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star cheungdaven/quate on GitHub">QuatE</a> -->
 <!-- 
