@@ -10,7 +10,7 @@ redirect_from:
 <!-- Place this tag in your head or just before your close body tag. -->
 <script async defer src="https://buttons.github.io/buttons.js"></script>
 
-[Curriculum Vitae](files/Shuai_curriculum.pdf)
+For more information about me: [Curriculum Vitae](files/Shuai_Curriculum.pdf)
   
 <!-- Shuai Zhang is a Postdoctoral Researcher at <b>ETH Zürich</b>, advised by [Ce Zhang](https://www.ds3lab.com/members/ce-zhang/). I received my PhD from the school of computer science and engineering at the <b>University of New South Wales </b> in 2019, where I was advised by [Lina Yao](http://www.linayao.com/), [Xiwei Xu](https://scholar.google.com/citations?user=x9IUq78AAAAJ&hl=en) and [Liming Zhu](http://cgi.cse.unsw.edu.au/~limingz/home/). During my PhD study, I interned at <b> Amazon AI </b> (Mentor: [Aston Zhang](https://www.astonzhang.com/)) and <b>Tencent</b>. I received a Bachelor degree in 2014 from <b>Nanjing University</b>. -->
 
@@ -30,11 +30,9 @@ Latest News
 * 19-09-2020: give a talk at chinese science club in zurich.
 * 14-08-2020: I will serve as PC member for AAAI 2021 and EACL 2021.
 
-
-Wanna learn more about deep learning and recommender systems? You can:
-* (1) Check our <a href="https://arxiv.org/abs/1707.07435">survey</a> on deep learning based recommender systems;
-* (2) Read our book chapter <a href="https://d2l.ai/chapter_recommender-systems/index.html">Recommender Systems</a> in <i>Dive into Deep Learning</i>;
-* (3) Get your hands dirty with our opensource toolkit: <a class="github-button" href="https://github.com/cheungdaven/deeprec" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star cheungdaven/deeprec on GitHub">DeepRec</a>  <!-- Place this tag where you want the button to render. -->
+Highlights
+======
+Wanna learn more about deep learning and recommender systems? You can: (1) Check our <a href="https://arxiv.org/abs/1707.07435">survey</a> on deep learning based recommender systems; (2) Read our book chapter <a href="https://d2l.ai/chapter_recommender-systems/index.html">Recommender Systems</a> in <i>Dive into Deep Learning</i>; (3) Get your hands dirty with our opensource toolkit: <a class="github-button" href="https://github.com/cheungdaven/deeprec" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star cheungdaven/deeprec on GitHub">DeepRec</a>  <!-- Place this tag where you want the button to render. -->
 
 <!--<a class="github-button" href="https://github.com/cheungdaven/quate" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star cheungdaven/quate on GitHub">QuatE</a> -->
 <!-- 
