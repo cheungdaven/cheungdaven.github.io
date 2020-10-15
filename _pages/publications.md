@@ -14,6 +14,11 @@ Co-author, under review.<br>
 
 
 ## Conference Papers
+<b>[Ease.ML: A Lifecycle Management System for Machine Learning]()</b><br>
+Aguilar, David Dao, Shaoduo Gan, Nezihe Merve Gurel, Nora Hollenstein, Jiawei Jiang, Bojan Karlas, Thomas Lemmin, Tian Li, Yang Li, Susie Rao, Johannes Rausch, Cedric Renggli, Luka Rimanic, Maurice Weber, <b>Shuai Zhang</b>, Zhikuan Zhao, Kevin Schawinski, Wentao Wu, Ce Zhang. <br>
+<b>CIDR 2021</b>. <i>The Conference on Innovative Data Systems Research</i>.
+
+
 <b>[Symmetric Metric Learning with Adaptive Margin for Recommendation]()</b><br>
 Mingming Li, <b>Shuai Zhang</b>, Fuqing Zhu, Liangjun Zang, Wanhui Qian, Jizhong Han, Songlin Hu. <br>
 <b>AAAI 2020</b>. <i>The 34th AAAI Conference on Artificial Intelligence</i>.
