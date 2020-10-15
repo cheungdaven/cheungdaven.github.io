@@ -27,6 +27,7 @@ Hi, I am Shuai Zhang, a postdoctoral researcher at the department of computer sc
 
 Latest News
 ======
+* 15-10-2020：one paper is accepted by CIDR.
 * 19-09-2020: give a talk at chinese science club in zurich.
 * 14-08-2020: I will serve as PC member for AAAI 2021 and EACL 2021.
 
