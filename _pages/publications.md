@@ -14,6 +14,10 @@ Co-author, under review.<br>
 
 
 ## Conference Papers
+<b>[Learning User Representations with Hypercuboids for Recommender Systems]()</b><br>
+<b>Shuai Zhang</b>, Huoyu Liu, Aston Zhang, Yue Hu, Ce Zhang, Yumeng Li, Tanchao Zhu, Shaojian He and Wenwu Ou. <br>
+<b>WSDM 2021</b>. <i>The 14th ACM International Conference on Web Search and Data Mining</i>. <br>.
+
 <b>[Ease.ML: A Lifecycle Management System for Machine Learning]()</b><br>
 Aguilar, David Dao, Shaoduo Gan, Nezihe Merve Gurel, Nora Hollenstein, Jiawei Jiang, Bojan Karlas, Thomas Lemmin, Tian Li, Yang Li, Susie Rao, Johannes Rausch, Cedric Renggli, Luka Rimanic, Maurice Weber, <b>Shuai Zhang</b>, Zhikuan Zhao, Kevin Schawinski, Wentao Wu, Ce Zhang. <br>
 <b>CIDR 2021</b>. <i>The Conference on Innovative Data Systems Research</i>.
