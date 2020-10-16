@@ -50,7 +50,7 @@ Yi Tay, Aston Zhang, Anh Tuan Luu, Jinfeng Rao, <b>Shuai Zhang</b>, Shuohang Wan
 <b>IJCAI 2019</b>. <i>The 28th International Joint Conference on Artificial Intelligence</i>. 
 
 <b>[Holographic Factorization Machines for Recommendation](https://www.researchgate.net/publication/330101551_Holographic_Factorization_Machines_for_Recommendation)</b> <br> 
-Yi Tay\*, <b>Shuai Zhang</b>\*, Anh Tuan Luu, Siu Cheung Hui, Lina Yao, Lucas Vinh Tran.<br>
+<b>Shuai Zhang</b>\*, Yi Tay\*, Anh Tuan Luu, Siu Cheung Hui, Lina Yao, Lucas Vinh Tran.<br>
 <b>AAAI 2019</b>. <i>The 33rd AAAI Conference on Artificial Intelligence</i>.
 
 <b>[Adaptive Cognitive Activity Recognition with Reinforced Attentive CNN]()</b> <br> 
