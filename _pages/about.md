@@ -27,6 +27,7 @@ Hi, I am Shuai Zhang, a postdoctoral researcher at the department of computer sc
 
 Latest News
 ======
+* 25-10-2020: will serve as PC member for IJCAI 2021.
 * 21-10-2020: will serve as PC member for NAACL-HLT 2021.
 * 16-10-2020: one paper is accepted by WSDM 2021.
 * 15-10-2020: one paper is accepted by CIDR 2021.
