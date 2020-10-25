@@ -9,6 +9,8 @@ redirect_from:
 
 
 ## Program Committee Member / Invited Reviewers
+* IJCAI 2021
+* NAACL-HLT 2021
 * AAAI 2021
 * NeurIPS 2020
 * EMNLP 2020
