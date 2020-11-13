@@ -20,7 +20,7 @@ Co-author, under review.<br>
 <b>[Deep Neural Networks based Recommender Systems]()</b><br>
 <b>Shuai Zhang</b>, Yi Tay, Lina Yao, Aixin Sun, Ce Zhang. <br>
 <i>Book Title: [the 3rd edition of the recommender systems handbook](https://link.springer.com/book/10.1007/978-0-387-85820-3). </i> <br>
-<i>Book Authors: Francesco Ricci, Lior Rokach, Bracha Shapira, Paul B. Kantor. </i>
+<i>Book Authors: Francesco Ricci, Lior Rokach, Bracha Shapira, Paul B. Kantor. </i> <br>
 <i> Publisher: Springer. </i>
 
 <b>[Recommender Systems](https://d2l.ai/chapter_recommender-systems/index.html)</b><br>
