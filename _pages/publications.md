@@ -6,7 +6,7 @@ author_profile: true
 [(Google Scholar Profile)](https://scholar.google.com.au/citations?user=PPjdxlcAAAAJ&hl=en) [(Full List at DBLP)](https://dblp.uni-trier.de/pers/hd/z/Zhang_0007:Shuai)
 
 ## Work in Progress
-<b>[MicroRec: Accelerating Deep Recommendation Systems to Microseconds by Hardware and Data Structure Solutions]()<b><br>
+<b>[MicroRec: Accelerating Deep Recommendation Systems to Microseconds by Hardware and Data Structure Solutions](https://arxiv.org/abs/2010.05894)</b><br>
 Co-author, under review.<br>
  
 <b>[DeGNN: Characterizing and Improving Graph Neural Networks with Graph Decomposition]()</b><br>
@@ -20,7 +20,7 @@ Co-author, under review.<br>
 <b>[Deep Neural Networks based Recommender Systems]()</b><br>
 <b>Shuai Zhang</b>, Yi Tay, Lina Yao, Aixin Sun, Ce Zhang. <br>
 <i>Book Title: [the 3rd edition of the recommender systems handbook](https://link.springer.com/book/10.1007/978-0-387-85820-3). </i> <br>
-<i>Book Authors: Francesco RicciLior RokachBracha ShapiraPaul B. Kantor. </i>
+<i>Book Authors: Francesco Ricci, Lior Rokach, Bracha Shapira, Paul B. Kantor. </i>
 <i> Publisher: Springer. </i>
 
 <b>[Recommender Systems](https://d2l.ai/chapter_recommender-systems/index.html)</b><br>
