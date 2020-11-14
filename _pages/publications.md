@@ -17,19 +17,19 @@ Co-author, under review.<br>
 
 ## Book Chapters
 
-<b>[Deep Neural Networks based Recommender Systems]()</b><br>
+<b>[Deep Neural Networks based Recommender Systems](), to appear</b><br>
 <b>Shuai Zhang</b>, Yi Tay, Lina Yao, Aixin Sun, Ce Zhang. <br>
 <i>Book Title: [the 3rd edition of the recommender systems handbook](https://link.springer.com/book/10.1007/978-0-387-85820-3). </i> <br>
 <i>Book Authors: Francesco Ricci, Lior Rokach, Bracha Shapira, Paul B. Kantor. </i> <br>
 <i> Publisher: Springer. </i>
 
-<b>[Recommender Systems](https://d2l.ai/chapter_recommender-systems/index.html)</b><br>
+<b>[Recommender Systems](https://d2l.ai/chapter_recommender-systems/index.html), 2019</b><br>
 <b>Shuai Zhang</b>, Aston Zhang, Yi Tay. <br>
 <i>Book Title: [Dive into Deep Learning](https://d2l.ai/). </i> <br>
 <i>Book Authors: Aston Zhang, Zack C. Lipton, Mu Li, Alex J. Smola. </i>
 
 
-<b>[Deep Neural Networks meet Recommender Systems](https://digital-library.theiet.org/content/books/10.1049/pbpc035g_ch2)</b><br>
+<b>[Deep Neural Networks meet Recommender Systems](https://digital-library.theiet.org/content/books/10.1049/pbpc035g_ch2), 2019</b><br>
 <b>Shuai Zhang</b>, Lina Yao, Aixin Sun, Guibing Guo, Xiwei Xu, Liming Zhu. <br>
 <i>Book Title: Big Data Recommender Systems: Recent Trends and Advances. </i> <br>
 <i>Book Editors: Osman Khalid, Samee U. Khan,  Albert Y. Zomaya . </i> <br>
