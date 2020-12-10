@@ -119,7 +119,7 @@ Xiang Zhang, Lina Yao, <b>Shuai Zhang</b>, Salil S. Kanhere, Quan Z. Sheng, Yunh
 
 ## Workshop Papers
 <b>[Suspicious Massive Registration Detection via Dynamic Heterogeneous Graph Neural Networks]()</b><br>
-xi Rao, <b>Shuai Zhang</b>, Zhichao Han, Zitao Zhang, Wei Min, Mo Cheng, Yinan Shan, Yang Zhao, Ce Zhang. <br>
+Xi Rao, <b>Shuai Zhang</b>, Zhichao Han, Zitao Zhang, Wei Min, Mo Cheng, Yinan Shan, Yang Zhao, Ce Zhang. <br>
 <i>AAAI 2021 Workshop on Deep Learning on Graphs: Methods and Applications.</i> <b>DLG-AAAI'21</b>.
 
 <b>[Next Item Recommendation with Self-Attentive Metric Learning](https://recnlp2019.github.io/papers/RecNLP2019_paper_21.pdf)</b><br>
