@@ -9,6 +9,7 @@ redirect_from:
 
 
 ## Program Committee Member / Invited Reviewers
+* ICML 2021
 * IJCAI 2021 (Senior PC)
 * EACL 2021
 * NAACL-HLT 2021
