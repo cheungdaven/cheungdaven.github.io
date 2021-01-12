@@ -39,6 +39,12 @@ Co-author, under review.<br>
 <i> Publisher: Institution of Engineering and Technology. </i>
 
 ## Conference Papers
+
+
+<b>[Parameterization of Hypercomplex Multiplications](https://openreview.net/forum?id=rcQdycl0zyk)</b><br>
+Aston Zhang, Yi Tay, <b>Shuai Zhang</b>, Alvin Chan, Anh Tuan Luu, Siu Hui, Jie Fu. <br>
+<b>ICLR 2021</b>. <i>The International Conference on Learning Representations</i>. <br>
+
 <b>[Learning User Representations with Hypercuboids for Recommender Systems](https://arxiv.org/abs/2011.05742)</b><br>
 <b>Shuai Zhang</b>, Huoyu Liu, Aston Zhang, Yue Hu, Ce Zhang, Yumeng Li, Tanchao Zhu, Shaojian He and Wenwu Ou. <br>
 <b>WSDM 2021</b> [core A*]. <i>The 14th ACM International Conference on Web Search and Data Mining</i>. <br>
