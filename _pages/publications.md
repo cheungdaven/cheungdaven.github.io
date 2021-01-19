@@ -9,14 +9,10 @@ author_profile: true
 <b>[xFraud: Explainable Fraud Transaction Detection on Heterogeneous Graphs](https://arxiv.org/pdf/2011.12193.pdf)</b><br>
 Co-author, under review.<br>
 
-<b>[MicroRec: Accelerating Deep Recommendation Systems to Microseconds by Hardware and Data Structure Solutions](https://arxiv.org/abs/2010.05894)</b><br>
-Co-author, under review.<br>
- 
+
 <b>[DeGNN: Characterizing and Improving Graph Neural Networks with Graph Decomposition]()</b><br>
 Co-author, under review.<br>
 
-<b>[R2D2: Reuse & Reduce via Dynamic Weight Diffusion for Training Efficient NLP Models]()</b><br>
-Co-author, under review.<br>
 
 ## Book Chapters
 
@@ -39,6 +35,12 @@ Co-author, under review.<br>
 <i> Publisher: Institution of Engineering and Technology. </i>
 
 ## Conference Papers
+
+<b>[MicroRec: Accelerating Deep Recommendation Systems to Microseconds by Hardware and Data Structure Solutions](https://arxiv.org/abs/2010.05894)</b><br>
+Wenqi Jiang, Zhenhao He, <b>Shuai Zhang</b>, Thomas B. Preußer, Kai Zeng, Liang Feng, Jiansong Zhang, Tongxuan Liu, Yong Li, Jingren Zhou, Ce Zhang, Gustavo Alonso. <br>
+<b>ICLR 2021</b>. <i>Fourth Conference on Machine Learning and Systems</i>. <br>
+
+
 
 
 <b>[Parameterization of Hypercomplex Multiplications](https://openreview.net/forum?id=rcQdycl0zyk)</b><br>
