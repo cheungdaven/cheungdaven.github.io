@@ -35,8 +35,6 @@ Latest News
 * 21-10-2020: will serve as PC member for NAACL-HLT 2021.
 * 16-10-2020: one paper is accepted by WSDM 2021.
 * 15-10-2020: one paper is accepted by CIDR 2021.
-* 19-09-2020: give a talk at chinese science club in zurich.
-* 14-08-2020: I will serve as PC member for AAAI 2021 and EACL 2021.
 
 Highlights
 ======
@@ -46,6 +44,8 @@ Wanna learn more about deep learning and recommender systems? You can: (1) Check
 <!-- 
 Latest News
 ======
+19-09-2020: give a talk at chinese science club in zurich.
+14-08-2020: I will serve as PC member for AAAI 2021 and EACL 2021.
 14-08-2020: I will serve as PC member for AAAI 2021 and EACL 2021.
 26-03-2020: Will serve as PC member for EMNLP 2020 and AACL-IJCNLP 2020. 
 10-02-2020: Start my new journey at the Department of Computer Science in ETH Zurich. 
