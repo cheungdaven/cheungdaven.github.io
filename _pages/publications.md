@@ -16,7 +16,7 @@ Wenqi Jiang, Zhenhao He, <b>Shuai Zhang</b>, Thomas B. Preußer, Kai Zeng, Liang
 
 
 
-<b>[Parameterization of Hypercomplex Multiplications](https://openreview.net/forum?id=rcQdycl0zyk)</b><br>
+<b>[Beyond Fully-Connected Layers with Quaternions: Parameterization of Hypercomplex Multiplications with 1/n Parameters](https://openreview.net/forum?id=rcQdycl0zyk)</b><br>
 Aston Zhang, Yi Tay, <b>Shuai Zhang</b>, Alvin Chan, Anh Tuan Luu, Siu Hui, Jie Fu. <br>
 <b>ICLR 2021</b>. <i>The International Conference on Learning Representations</i>. <br>
 <b><span style="color:red">Spotlight presentation.</span></b>
