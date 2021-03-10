@@ -27,6 +27,7 @@ Hi, I am Shuai Zhang, a postdoctoral researcher at the department of computer sc
 
 Latest News
 =====
+* 10-3-2021: One paper is accepted by NAACL 2021.
 * 22-2-2021: invited to be the reviewer for JMLR.
 * 19-01-2021: One paper is accepted by MLSys 2021.
 * 12-01-2021: One paper is accepted by ICLR 2021 as spotlight presentation.
