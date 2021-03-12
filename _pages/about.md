@@ -31,12 +31,7 @@ Latest News
 * 22-2-2021: invited to be the reviewer for JMLR.
 * 19-01-2021: One paper is accepted by MLSys 2021.
 * 12-01-2021: One paper is accepted by ICLR 2021 as spotlight presentation.
-* 14-12-2020: will serve as reviewer for ICML2021.
-* 10-12-2020: One paper accepted by AAAI'21 workshop DLG.
-* 30-11-2020: will serve as Senior PC member for IJCAI 2021.
-* 21-10-2020: will serve as PC member for NAACL-HLT 2021.
-* 16-10-2020: one paper is accepted by WSDM 2021.
-* 15-10-2020: one paper is accepted by CIDR 2021.
+
 
 Highlights
 ======
@@ -46,6 +41,12 @@ Wanna learn more about deep learning and recommender systems? You can: (1) Check
 <!-- 
 Latest News
 ======
+14-12-2020: will serve as reviewer for ICML2021.
+10-12-2020: One paper accepted by AAAI'21 workshop DLG.
+30-11-2020: will serve as Senior PC member for IJCAI 2021.
+21-10-2020: will serve as PC member for NAACL-HLT 2021.
+16-10-2020: one paper is accepted by WSDM 2021.
+15-10-2020: one paper is accepted by CIDR 2021.
 19-09-2020: give a talk at chinese science club in zurich.
 14-08-2020: I will serve as PC member for AAAI 2021 and EACL 2021.
 14-08-2020: I will serve as PC member for AAAI 2021 and EACL 2021.
