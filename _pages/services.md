@@ -42,8 +42,8 @@ redirect_from:
 * ACM computing surveys
 * IEEE Journal of Biomedical and Health Informatics
 
-## Conference Reviewer
-* KDD 2020, IJCAI 2019, AAAI 2019, PAKDD 2019, CIKM 2018,  IJCAI 2018, ICWS 2017
+## External Reviewer
+* KDD 2021, KDD 2020, IJCAI 2019, AAAI 2019, PAKDD 2019, CIKM 2018,  IJCAI 2018, ICWS 2017
 
 ## Volunteer
 * AAAI 2019
