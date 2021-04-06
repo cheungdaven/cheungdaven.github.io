@@ -9,6 +9,8 @@ redirect_from:
 
 
 ## Program Committee Member / Invited Reviewers
+* NeurIPS 2021
+* EMNLP 2021
 * ICML 2021
 * IJCAI 2021 (Senior PC)
 * EACL 2021
