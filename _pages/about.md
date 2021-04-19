@@ -16,7 +16,7 @@ redirect_from:
 
 Hi, I am Shuai Zhang, a postdoctoral researcher at the department of computer science in ETH Zurich. I received my PhD degree in computer science from UNSW Sydney and a bachelor degree from Nanjing University. My primary research interests lie in recommender systems, knowledge graphs, graph related applications, etc. My past internships were with Amazon AI and Tencent. You can find my publications on my [Google Scholar page](https://scholar.google.com.au/citations?user=PPjdxlcAAAAJ&hl=en). If you’d like to know more about my work or explore opportunities for collaboration, please get in touch! 
 
-I have also won the ICLR 2021 outstanding paper award and best paper award (runner-up) at WSDM 2020.
+I have won the ICLR 2021 outstanding paper award and best paper award (runner-up) at WSDM 2020.
 
 <!-- His research interests include but not limited to recommender systems, knowledge graph, and deep learning. He is PC member and reviewer for a number of top conferences and journals. -->
 
