@@ -27,6 +27,7 @@ I have won the ICLR 2021 outstanding paper award and best paper award (runner-up
 
 Latest News
 =====
+* 19-04-2021：I will be senior PC member for CIKM short paper and PC member for the CIKM full paper track.
 * 01-04-2021: Received the ICLR 2021 Outstanding Paper Award.
 * 10-3-2021: One paper is accepted by NAACL 2021.
 * 22-2-2021: invited to be the reviewer for JMLR.
