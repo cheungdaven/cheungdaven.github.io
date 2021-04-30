@@ -23,6 +23,7 @@ You can find my publications on my [Google Scholar page](https://scholar.google.
 
 Latest News
 =====
+* 30-04-2021: give a talk at the [CVG group](https://www.cvg.unibe.ch/home/) of Universität Bern.
 * 19-04-2021: invited to be the senior PC member for CIKM short paper.
 * 01-04-2021: Received the ICLR 2021 Outstanding Paper Award.
 
