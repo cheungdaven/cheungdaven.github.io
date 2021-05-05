@@ -12,6 +12,8 @@ redirect_from:
 * NeurIPS 2021
 * EMNLP 2021
 * ICML 2021
+* CIKM 2021 Full paper
+* CIKM 2021 short paper (Senior PC)
 * IJCAI 2021 (Senior PC)
 * EACL 2021
 * NAACL-HLT 2021
