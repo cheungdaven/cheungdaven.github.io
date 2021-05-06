@@ -9,6 +9,11 @@ author_profile: true
 
 ## Conference Papers
 
+<b>[On Orthogonality Constraints of Transformers]()</b><br>
+Aston Zhang, Alvin Chan, Yi Tay, Jie Fu, Shuohang Wang, <b>Shuai Zhang</b>, Huajie Shao, Shuochao Yao, Roy Ka-Wei Lee. <br>
+<b>ACL 2021 (Short Paper)</b>. <i>The 59th Annual Meeting of the Association for Computational Linguistics</i>. <br>
+
+
 <b>[Knowledge Router: Learning Disentangled Representations for Knowledge Graphs]()</b><br>
 <b>Shuai Zhang</b>, Xi Rao, Yi Tay and Ce Zhang. <br>
 <b>NAACL 2021</b>. <i>Annual Conference of the North American Chapter of the Association for Computational Linguistics</i>. <br>
