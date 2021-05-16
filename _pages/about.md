@@ -35,7 +35,7 @@ Highlights
 ======
 Wanna learn more about deep learning and recommender systems? You can: (1) Check our <a href="https://arxiv.org/abs/1707.07435">survey</a> on deep learning based recommender systems; (2) Read our book chapter <a href="https://d2l.ai/chapter_recommender-systems/index.html">Recommender Systems</a> in <i>Dive into Deep Learning</i>; (3) Get your hands dirty with our opensource toolkit: <a class="github-button" href="https://github.com/cheungdaven/deeprec" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star cheungdaven/deeprec on GitHub">DeepRec</a>.  <!-- Place this tag where you want the button to render. -->
 
-“Tell me and I forget, teach me and I may remember, involve me and I learn.” - Benjamin Franklin
+"Tell me and I forget, teach me and I may remember, involve me and I learn." - Benjamin Franklin
 
 <!--<a class="github-button" href="https://github.com/cheungdaven/quate" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star cheungdaven/quate on GitHub">QuatE</a> -->
 <!-- 
