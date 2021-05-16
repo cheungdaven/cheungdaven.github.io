@@ -10,7 +10,7 @@ author_profile: true
 ## Conference Papers
 
 <b>[DeGNN: Improving Graph Neural Networks with Graph Decomposition](https://arxiv.org/pdf/1910.04499.pdf)</b><br> 
-Xupeng Miao, Nezihe Merve Gurel, Wentao Zhang, Zhichao Han, Bo Li, Wei Min, Susie Xi Rao, Hansheng Ren, Yinan Shan, Yingxia Shao, Yujie Wang, Fan Wu, Hui Xue, Yaming Yang, Zitao Zhang, Yang Zhao, <b>Shuai Zhang</b>, Yujing Wang, Bin Cui, Ce Zhang.  <br>
+Xupeng Miao*, Nezihe Merve Gurel*, Wentao Zhang*, Zhichao Han, Bo Li, Wei Min, Susie Xi Rao, Hansheng Ren, Yinan Shan, Yingxia Shao, Yujie Wang, Fan Wu, Hui Xue, Yaming Yang, Zitao Zhang, Yang Zhao, <b>Shuai Zhang</b>, Yujing Wang, Bin Cui, Ce Zhang.  <br>
 <b>KDD 2021 </b>(research track). <i>The 27th ACM SIGKDD Conference on Knowledge Discovery and Data Mining</i>. <br> 
 
 <b>[On Orthogonality Constraints of Transformers]()</b><br>
