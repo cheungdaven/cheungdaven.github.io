@@ -10,7 +10,7 @@ author_profile: true
 ## Conference Papers
 
 <b>[DeGNN: Improving Graph Neural Networks with Graph Decomposition]()</b><br> 
-Xupeng Miao, Nezihe Merve Gürel, Wentao Zhang, Zhichao Han, Bo Li, Wei Min, Susie Xi Rao, Hansheng Ren, Yinan Shan, Yingxia Shao, Yujie Wang, Fan Wu, Hui Xue, Yaming Yang, Zitao Zhang, Yang Zhao, <b>Shuai Zhang</b>, Yujing Wang, Bin Cui, Ce Zhang. <br>
+Xupeng Miao, Nezihe Merve Gurel, Wentao Zhang, Zhichao Han, Bo Li, Wei Min, Susie Xi Rao, Hansheng Ren, Yinan Shan, Yingxia Shao, Yujie Wang, Fan Wu, Hui Xue, Yaming Yang, Zitao Zhang, Yang Zhao, <b>Shuai Zhang</b>, Yujing Wang, Bin Cui, Ce Zhang. <br>
 <b>KDD 2021 </b>(research track). <i>The 27th ACM SIGKDD Conference on Knowledge Discovery and Data Mining</i>. <br> 
 
 <b>[On Orthogonality Constraints of Transformers]()</b><br>
@@ -141,8 +141,6 @@ Xi Rao, <b>Shuai Zhang</b>, Zhichao Han, Zitao Zhang, Wei Min, Mo Cheng, Yinan S
 <b>[xFraud: Explainable Fraud Transaction Detection on Heterogeneous Graphs](https://arxiv.org/pdf/2011.12193.pdf)</b><br>
 Co-author, under review.<br>
 
-<b>[DeGNN: Characterizing and Improving Graph Neural Networks with Graph Decomposition]()</b><br>
-Co-author, under review.<br>
 
 [Deadlines](https://aideadlin.es/?sub=ML,DM)
 
