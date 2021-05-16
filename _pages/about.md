@@ -23,6 +23,7 @@ You can find my publications on my [Google Scholar page](https://scholar.google.
 
 Latest News
 =====
+* 16-05-2021: one paper accepted to KDD 2021 research track.
 * 06-05-2021: one short paper accepted to ACL 2021.
 * 06-05-2021: will serve as the guest-editor for one section on recsys of frontiers of big data.
 * 30-04-2021: give a talk in the [CVG group](https://www.cvg.unibe.ch/home/) of Universität Bern.
