@@ -40,7 +40,7 @@ Aston Zhang, Yi Tay, <b>Shuai Zhang</b>, Alvin Chan, Anh Tuan Luu, Siu Hui, Jie 
 <b>Shuai Zhang</b>, Huoyu Liu, Aston Zhang, Yue Hu, Ce Zhang, Yumeng Li, Tanchao Zhu, Shaojian He and Wenwu Ou. <br>
 <b>WSDM 2021</b> [core A*]. <i>The 14th ACM International Conference on Web Search and Data Mining</i>. <br>
 
-<b>[Ease.ML: A Lifecycle Management System for Machine Learning]()</b><br>
+<b>[Ease.ML: A Lifecycle Management System for Machine Learning](http://cidrdb.org/cidr2021/papers/cidr2021_paper26.pdf)</b><br>
 Aguilar, David Dao, Shaoduo Gan, Nezihe Merve Gurel, Nora Hollenstein, Jiawei Jiang, Bojan Karlas, Thomas Lemmin, Tian Li, Yang Li, Susie Rao, Johannes Rausch, Cedric Renggli, Luka Rimanic, Maurice Weber, <b>Shuai Zhang</b>, Zhikuan Zhao, Kevin Schawinski, Wentao Wu, Ce Zhang. <br>
 <b>CIDR 2021</b> [core A].  <i>The Conference on Innovative Data Systems Research</i>.
 
