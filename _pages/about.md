@@ -23,6 +23,7 @@ You can find my publications on my [Google Scholar page](https://scholar.google.
 
 Latest News
 =====
+* 18-05-2021: one paper accepted to KDD 2021 applied data science track.
 * 16-05-2021: one paper accepted to KDD 2021 research track.
 * 06-05-2021: one short paper accepted to ACL 2021.
 * 06-05-2021: will serve as the guest-editor for one section on recsys of frontiers of big data.
