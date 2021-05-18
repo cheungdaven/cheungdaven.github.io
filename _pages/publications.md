@@ -26,7 +26,7 @@ Aston Zhang, Alvin Chan, Yi Tay, Jie Fu, Shuohang Wang, <b>Shuai Zhang</b>, Huaj
 <b>Shuai Zhang</b>, Xi Rao, Yi Tay and Ce Zhang. <br>
 <b>NAACL 2021</b>. <i>Annual Conference of the North American Chapter of the Association for Computational Linguistics</i>. <br>
 
-<b>[MicroRec: Accelerating Deep Recommendation Systems to Microseconds by Hardware and Data Structure Solutions](https://arxiv.org/abs/2010.05894)</b><br>
+<b>[MicroRec: Accelerating Deep Recommendation Systems to Microseconds by Hardware and Data Structure Solutions](https://proceedings.mlsys.org/paper/2021/file/ec8956637a99787bd197eacd77acce5e-Paper.pdf)</b><br>
 Wenqi Jiang, Zhenhao He, <b>Shuai Zhang</b>, Thomas B. Preußer, Kai Zeng, Liang Feng, Jiansong Zhang, Tongxuan Liu, Yong Li, Jingren Zhou, Ce Zhang, Gustavo Alonso. <br>
 <b>MLSys 2021</b>. <i>Fourth Conference on Machine Learning and Systems</i>. <br>
 
@@ -36,7 +36,7 @@ Aston Zhang, Yi Tay, <b>Shuai Zhang</b>, Alvin Chan, Anh Tuan Luu, Siu Hui, Jie 
 <b>ICLR 2021</b>. <i>The International Conference on Learning Representations</i>. <br>
 <b><span style="color:red">Outstanding Paper Award.</span></b>
 
-<b>[Learning User Representations with Hypercuboids for Recommender Systems](https://arxiv.org/abs/2011.05742)</b><br>
+<b>[Learning User Representations with Hypercuboids for Recommender Systems](https://dl.acm.org/doi/10.1145/3437963.3441768)</b><br>
 <b>Shuai Zhang</b>, Huoyu Liu, Aston Zhang, Yue Hu, Ce Zhang, Yumeng Li, Tanchao Zhu, Shaojian He and Wenwu Ou. <br>
 <b>WSDM 2021</b> [core A*]. <i>The 14th ACM International Conference on Web Search and Data Mining</i>. <br>
 
@@ -140,7 +140,7 @@ Xiang Zhang, Lina Yao, <b>Shuai Zhang</b>, Salil S. Kanhere, Quan Z. Sheng, Yunh
 
 
 ## Workshop Papers
-<b>[Suspicious Massive Registration Detection via Dynamic Heterogeneous Graph Neural Networks]()</b><br>
+<b>[Suspicious Massive Registration Detection via Dynamic Heterogeneous Graph Neural Networks](https://arxiv.org/abs/2012.10831)</b><br>
 Xi Rao, <b>Shuai Zhang</b>, Zhichao Han, Zitao Zhang, Wei Min, Mo Cheng, Yinan Shan, Yang Zhao, Ce Zhang. <br>
 <i>AAAI 2021 Workshop on Deep Learning on Graphs: Methods and Applications.</i> <b>DLG-AAAI'21</b>.
 
