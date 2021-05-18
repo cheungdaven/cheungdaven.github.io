@@ -93,7 +93,7 @@ Xiang Zhang, Lina Yao, Xianzhi Wang, Wenjie Zhang, <b>Shuai Zhang</b>, and Yunha
 <b>[Recommender Systems](), 2021, to appear</b><br>
 <b>Shuai Zhang</b>, Aston Zhang, Lina Yao. <br>
 <i>Book Title: Handbook of Machine Learning for Data Science. </i> <br>
-<i>the 3rd edition of the the Data Mining and Knowledge Discovery HandbooK.</i> <br>
+<i>the 3rd edition of the the Data Mining and Knowledge Discovery Handbook.</i> <br>
 <i>Book Authors: Oded Z. Maimon, Lior Rokach. </i> <br>
 <i> Publisher: Springer. </i>
 
