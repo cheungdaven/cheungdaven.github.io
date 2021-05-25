@@ -8,7 +8,7 @@ author_profile: true
 
 
 ## Conference Papers
-<b>[FleetRec: Large-Scale Recommendation Inference on Hybrid GPU-FPGA Clusters]( )</b> <br> 
+<b>[FleetRec: Large-Scale Recommendation Inference on Hybrid GPU-FPGA Clusters](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/485153/1/FleetRec_camera_ready.pdf)</b> <br> 
 Wenqi Jiang*, Zhenhao He*, <b>Shuai Zhang</b>, Kai Zeng, Liang Feng, Jiansong Zhang, Tongxuan Liu, Yong Li, Jingren Zhou, Ce Zhang, Gustavo Alonso.  <br>
 <b>KDD 2021 </b>(applied data science track). <i>The 27th ACM SIGKDD Conference on Knowledge Discovery and Data Mining</i>. <br> 
 
@@ -22,7 +22,7 @@ Aston Zhang, Alvin Chan, Yi Tay, Jie Fu, Shuohang Wang, <b>Shuai Zhang</b>, Huaj
 <b>ACL 2021 (Short Paper)</b>. <i>The 59th Annual Meeting of the Association for Computational Linguistics</i>. <br>
 
 
-<b>[Knowledge Router: Learning Disentangled Representations for Knowledge Graphs]()</b><br>
+<b>[Knowledge Router: Learning Disentangled Representations for Knowledge Graphs](https://www.aclweb.org/anthology/2021.naacl-main.1/)</b><br>
 <b>Shuai Zhang</b>, Xi Rao, Yi Tay and Ce Zhang. <br>
 <b>NAACL 2021</b>. <i>Annual Conference of the North American Chapter of the Association for Computational Linguistics</i>. <br>
 
