@@ -38,54 +38,54 @@ Aston Zhang, Yi Tay, <b>Shuai Zhang</b>, Alvin Chan, Anh Tuan Luu, Siu Hui, Jie 
 
 <b>[Learning User Representations with Hypercuboids for Recommender Systems](https://dl.acm.org/doi/10.1145/3437963.3441768)</b><br>
 <b>Shuai Zhang</b>, Huoyu Liu, Aston Zhang, Yue Hu, Ce Zhang, Yumeng Li, Tanchao Zhu, Shaojian He and Wenwu Ou. <br>
-<b>WSDM 2021</b> [core A*]. <i>The 14th ACM International Conference on Web Search and Data Mining</i>. <br>
+<b>WSDM 2021</b>. <i>The 14th ACM International Conference on Web Search and Data Mining</i>. <br>
 
 <b>[Ease.ML: A Lifecycle Management System for Machine Learning](http://cidrdb.org/cidr2021/papers/cidr2021_paper26.pdf)</b><br>
 Aguilar, David Dao, Shaoduo Gan, Nezihe Merve Gurel, Nora Hollenstein, Jiawei Jiang, Bojan Karlas, Thomas Lemmin, Tian Li, Yang Li, Susie Rao, Johannes Rausch, Cedric Renggli, Luka Rimanic, Maurice Weber, <b>Shuai Zhang</b>, Zhikuan Zhao, Kevin Schawinski, Wentao Wu, Ce Zhang. <br>
-<b>CIDR 2021</b> [core A].  <i>The Conference on Innovative Data Systems Research</i>.
+<b>CIDR 2021</b>.  <i>The Conference on Innovative Data Systems Research</i>.
 
 
 <b>[Symmetric Metric Learning with Adaptive Margin for Recommendation]()</b><br>
 Mingming Li, <b>Shuai Zhang</b>, Fuqing Zhu, Liangjun Zang, Wanhui Qian, Jizhong Han, Songlin Hu. <br>
-<b>AAAI 2020</b> [core A*]. <i>The 34th AAAI Conference on Artificial Intelligence</i>.
+<b>AAAI 2020</b>. <i>The 34th AAAI Conference on Artificial Intelligence</i>.
 
 <b>[HyperML: A Boosting Metric Learning Approach in Hyperbolic Space for Recommender Systems](https://arxiv.org/abs/1809.01703)</b><br>
 Lucas Vinh Tran,  Yi Tay, <b>Shuai Zhang</b>, Gao Cong, Xiaoli Li. <br>
-<b>WSDM 2020</b> [core A*]. <i>The 13th ACM International Conference on Web Search and Data Mining</i>. <br>
+<b>WSDM 2020</b>. <i>The 13th ACM International Conference on Web Search and Data Mining</i>. <br>
 <b><span style="color:red">Best Paper Award Runner-up.</span></b>
 
 <b>[Quaternion Knowledge Graph Embeddings](https://arxiv.org/abs/1904.10281)</b><br>
 <b>Shuai Zhang</b>\*, Yi Tay\*, Lina Yao, Qi Liu. <br>
-<b>NeurIPS 2019</b> [core A*]. <i>Thirty-third Conference on Neural Information Processing Systems</i>. 
+<b>NeurIPS 2019</b>. <i>Thirty-third Conference on Neural Information Processing Systems</i>. 
 
 <b>[DeepRec: An Open-source Toolkit for Deep Learning based Recommendation (Demo Track)](https://arxiv.org/abs/1905.10536)</b> <br>
 <b>Shuai Zhang</b>, Yi Tay, Lina Yao, Bin Wu, Aixin Sun. <br>
-<b>IJCAI 2019</b> [core A*]. <i>The 28th International Joint Conference on Artificial Intelligence</i>. 
+<b>IJCAI 2019</b>. <i>The 28th International Joint Conference on Artificial Intelligence</i>. 
 
 
 <b>[Lightweight and Efficient Neural Natural Language Processing with Quaternion Networks](https://arxiv.org/abs/1906.04393)</b> <br>
 Yi Tay, Aston Zhang, Anh Tuan Luu, Jinfeng Rao, <b>Shuai Zhang</b>, Shuohang Wang, Jie Fu and Siu Cheung Hui.<br>
-<b>ACL 2019</b> [core A*]. <i>The 57th Annual Meeting of the Association for Computational Linguistics </i>. 
+<b>ACL 2019</b>. <i>The 57th Annual Meeting of the Association for Computational Linguistics </i>. 
 
 <b>[Quaternion Collaborative Filtering for Recommendation](https://arxiv.org/abs/1906.02594)</b> <br>
 <b>Shuai Zhang</b>, Lina Yao, Lucas Vinh Tran , Aston Zhang , Yi Tay.<br>
-<b>IJCAI 2019</b> [core A*]. <i>The 28th International Joint Conference on Artificial Intelligence</i>. 
+<b>IJCAI 2019</b>. <i>The 28th International Joint Conference on Artificial Intelligence</i>. 
 
 <b>[Holographic Factorization Machines for Recommendation](https://www.researchgate.net/publication/330101551_Holographic_Factorization_Machines_for_Recommendation)</b> <br> 
 <b>Shuai Zhang</b>\*, Yi Tay\*, Anh Tuan Luu, Siu Cheung Hui, Lina Yao, Lucas Vinh Tran.<br>
-<b>AAAI 2019</b> [core A*]. <i>The 33rd AAAI Conference on Artificial Intelligence</i>.
+<b>AAAI 2019</b>. <i>The 33rd AAAI Conference on Artificial Intelligence</i>.
 
 <b>[Adaptive Cognitive Activity Recognition with Reinforced Attentive CNN]()</b> <br> 
 Xiang Zhang, Lina Yao, Xianzhi Wang, Wenjie Zhang, <b>Shuai Zhang</b>, and Yunhao Liu.<br>
-<b>ICDM 2019</b> [core A*]. <i>The 19th IEEE International Conference on Data Mining</i>. 
+<b>ICDM 2019</b>. <i>The 19th IEEE International Conference on Data Mining</i>. 
 
 <b>[NeuRec: On Nonlinear Transformation for Personalized Ranking](https://www.ijcai.org/proceedings/2018/0510.pdf)</b> <br>
 <b>Shuai Zhang</b>, Lina Yao, Aixin Sun, Sen Wang. Guodong Long. Manqing Dong.<br>
-<b>IJCAI 2018</b> [core A*]. <i>The 27th International Joint Conference on Artificial Intelligence</i>.
+<b>IJCAI 2018</b>. <i>The 27th International Joint Conference on Artificial Intelligence</i>.
 
 <b>[AutoSVD++: An Efficient Hybrid Collaborative Filtering Model via Contractive Auto-encoders](http://shuaizhang.tech/publications/autosvdplusplus)</b> <br> 
 <b>Shuai Zhang</b>, Lina Yao, Xiwei Xu.<br>
-<b>SIGIR 2017 </b> [core A*]. <i> The 40th International ACM SIGIR Conference on Research and Development in Information Retrieval</i>. 
+<b>SIGIR 2017 </b>. <i> The 40th International ACM SIGIR Conference on Research and Development in Information Retrieval</i>. 
 
 
 ## Book Chapters
