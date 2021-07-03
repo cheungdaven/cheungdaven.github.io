@@ -14,9 +14,7 @@ redirect_from:
   
 <!-- Shuai Zhang is a Postdoctoral Researcher at <b>ETH Zürich</b>, advised by [Ce Zhang](https://www.ds3lab.com/members/ce-zhang/). I received my PhD from the school of computer science and engineering at the <b>University of New South Wales </b> in 2019, where I was advised by [Lina Yao](http://www.linayao.com/), [Xiwei Xu](https://scholar.google.com/citations?user=x9IUq78AAAAJ&hl=en) and [Liming Zhu](http://cgi.cse.unsw.edu.au/~limingz/home/). During my PhD study, I interned at <b> Amazon AI </b> (Mentor: [Aston Zhang](https://www.astonzhang.com/)) and <b>Tencent</b>. I received a Bachelor degree in 2014 from <b>Nanjing University</b>. -->
 
-Shuai Zhang is a postdoctoral researcher in the department of computer science at ETH Zurich, where he works with [Prof. Ce Zhang](https://ds3lab.inf.ethz.ch/members/ce-zhang.html). He received his PhD in computer science from the University of New South Wales, under the supervision of [Prof. Lina Yao](https://www.linayao.com/). His current research lies in representation learning and its applications in information filtering, knowledge graph completion and reasoning. He is a recipient of the outstanding paper award at ICLR 2021 and the best paper award runner-up at WSDM 2020.
-
-You can find my publications on my [Google Scholar page](https://scholar.google.com.au/citations?user=PPjdxlcAAAAJ&hl=en). If you’d like to know more about my work or explore opportunities for collaboration, please get in touch! 
+Shuai Zhang is a postdoctoral researcher in the department of computer science at ETH Zurich, where he works with [Prof. Ce Zhang](https://ds3lab.inf.ethz.ch/members/ce-zhang.html). He received his PhD in computer science from the University of New South Wales, under the supervision of [Prof. Lina Yao](https://www.linayao.com/).  He is a recipient of the [outstanding paper award](https://iclr-conf.medium.com/announcing-iclr-2021-outstanding-paper-awards-9ae0514734ab) at ICLR 2021 and the best [paper award runner-up](https://www.wsdm-conference.org/2020/#:~:text=WSDM%202020%20Best%20Paper%20Award,Seshadhri.) at WSDM 2020. You can find my publications on my [Google Scholar page](https://scholar.google.com.au/citations?user=PPjdxlcAAAAJ&hl=en). If you’d like to know more about my work or explore opportunities for collaboration, please get in touch! 
 
 
 <!--Hi, I am Shuai Zhang, a postdoctoral researcher at the department of computer science in ETH Zurich. I received my PhD degree in computer science from UNSW Sydney and a bachelor degree from Nanjing University. My primary research interests lie in recommender systems, knowledge graphs, graph related applications, etc. My past internships were with Amazon AI and Tencent. I have won the ICLR 2021 outstanding paper award and best paper award (runner-up) at WSDM 2020. His research interests include but not limited to recommender systems, knowledge graph, and deep learning. He is PC member and reviewer for a number of top conferences and journals. -->
@@ -63,6 +61,7 @@ Wanna learn more about deep learning and recommender systems? You can: (1) Check
 
 <!--<a class="github-button" href="https://github.com/cheungdaven/quate" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star cheungdaven/quate on GitHub">QuatE</a> -->
 <!-- 
+His current research lies in representation learning and its applications in information filtering, knowledge graph completion and reasoning.
 Latest News
 ======
 06-05-2021: will serve as the guest-editor for one section on recsys of frontiers of big data.
