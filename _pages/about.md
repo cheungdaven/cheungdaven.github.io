@@ -23,15 +23,16 @@ You can find my publications on my [Google Scholar page](https://scholar.google.
 
 Latest News
 =====
-* 18-05-2021: one paper accepted to KDD 2021 applied data science track.
-* 16-05-2021: one paper accepted to KDD 2021 research track.
+* 18-05-2021: Two papers accepted to KDD 2021.
 * 06-05-2021: one short paper accepted to ACL 2021.
-* 06-05-2021: will serve as the guest-editor for one section on recsys of frontiers of big data.
 * 30-04-2021: give a talk in the [CVG group](https://www.cvg.unibe.ch/home/) of Universität Bern.
-* 19-04-2021: invited to be the senior PC member for CIKM short paper.
 * 01-04-2021: Received the ICLR 2021 Outstanding Paper Award.
 
-
+Selected Publications
+=====
+<b>[Deep Learning based Recommender System: A Survey and New Perspectives](https://arxiv.org/abs/1707.07435v7)</b><br>
+<b>Shuai Zhang</b>, Lina Yao, Aixin Sun, Yi Tay.<br>
+<i>ACM Computing surveys. 2019.</i>
 
 Highlights
 ======
@@ -43,6 +44,8 @@ Wanna learn more about deep learning and recommender systems? You can: (1) Check
 <!-- 
 Latest News
 ======
+06-05-2021: will serve as the guest-editor for one section on recsys of frontiers of big data.
+19-04-2021: invited to be the senior PC member for CIKM short paper.
 10-3-2021: One paper is accepted by NAACL 2021.
 22-2-2021: invited to be the reviewer for JMLR.
 19-01-2021: One paper is accepted by MLSys 2021.
