@@ -54,9 +54,6 @@ Lucas Vinh Tran,  Yi Tay, <b>Shuai Zhang</b>, Gao Cong, Xiaoli Li. <br>
 <b>Shuai Zhang</b>, Yi Tay, Lina Yao, Qi Liu. <br>
 <b>NeurIPS 2019</b>. <i>Thirty-third Conference on Neural Information Processing Systems</i>. 
 
-<b>[Deep Learning based Recommender System: A Survey and New Perspectives](https://arxiv.org/abs/1707.07435v7)</b><br>
-<b>Shuai Zhang</b>, Lina Yao, Aixin Sun, Yi Tay.<br>
-<i>ACM Computing surveys. 2019.</i>
 
 Highlights
 ======
