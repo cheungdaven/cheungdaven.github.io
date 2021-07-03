@@ -22,14 +22,38 @@ You can find my publications on my [Google Scholar page](https://scholar.google.
 <!--Hi, I am Shuai Zhang, a postdoctoral researcher at the department of computer science in ETH Zurich. I received my PhD degree in computer science from UNSW Sydney and a bachelor degree from Nanjing University. My primary research interests lie in recommender systems, knowledge graphs, graph related applications, etc. My past internships were with Amazon AI and Tencent. I have won the ICLR 2021 outstanding paper award and best paper award (runner-up) at WSDM 2020. His research interests include but not limited to recommender systems, knowledge graph, and deep learning. He is PC member and reviewer for a number of top conferences and journals. -->
 
 Latest News
-=====
+======
 * 18-05-2021: Two papers accepted to KDD 2021.
 * 06-05-2021: one short paper accepted to ACL 2021.
 * 30-04-2021: give a talk in the [CVG group](https://www.cvg.unibe.ch/home/) of Universität Bern.
 * 01-04-2021: Received the ICLR 2021 Outstanding Paper Award.
 
 Selected Publications
-=====
+======
+<b>[Deep Neural Networks based Recommender Systems](), 2021, to appear</b><br>
+<b>Shuai Zhang</b>, Yi Tay, Lina Yao, Aixin Sun, Ce Zhang. <br>
+<i>Book Title: [the 3rd edition of the recommender systems handbook](https://link.springer.com/book/10.1007/978-0-387-85820-3). </i> <br>
+<i>Book Authors: Francesco Ricci, Lior Rokach, Bracha Shapira. </i> <br>
+<i> Publisher: Springer. </i>
+
+<b>[Beyond Fully-Connected Layers with Quaternions: Parameterization of Hypercomplex Multiplications with 1/n Parameters](https://openreview.net/forum?id=rcQdycl0zyk)</b><br>
+Aston Zhang, Yi Tay, <b>Shuai Zhang</b>, Alvin Chan, Anh Tuan Luu, Siu Hui, Jie Fu. <br>
+<b>ICLR 2021</b>. <i>The International Conference on Learning Representations</i>. <br>
+<b><span style="color:red">Outstanding Paper Award.</span></b>
+
+<b>[Learning User Representations with Hypercuboids for Recommender Systems](https://dl.acm.org/doi/10.1145/3437963.3441768)</b><br>
+<b>Shuai Zhang</b>, Huoyu Liu, Aston Zhang, Yue Hu, Ce Zhang, Yumeng Li, Tanchao Zhu, Shaojian He and Wenwu Ou. <br>
+<b>WSDM 2021</b>. <i>The 14th ACM International Conference on Web Search and Data Mining</i>. <br>
+
+<b>[HyperML: A Boosting Metric Learning Approach in Hyperbolic Space for Recommender Systems](https://arxiv.org/abs/1809.01703)</b><br>
+Lucas Vinh Tran,  Yi Tay, <b>Shuai Zhang</b>, Gao Cong, Xiaoli Li. <br>
+<b>WSDM 2020</b>. <i>The 13th ACM International Conference on Web Search and Data Mining</i>. <br>
+<b><span style="color:red">Best Paper Award Runner-up.</span></b>
+
+<b>[Quaternion Knowledge Graph Embeddings](https://arxiv.org/abs/1904.10281)</b><br>
+<b>Shuai Zhang</b>, Yi Tay, Lina Yao, Qi Liu. <br>
+<b>NeurIPS 2019</b>. <i>Thirty-third Conference on Neural Information Processing Systems</i>. 
+
 <b>[Deep Learning based Recommender System: A Survey and New Perspectives](https://arxiv.org/abs/1707.07435v7)</b><br>
 <b>Shuai Zhang</b>, Lina Yao, Aixin Sun, Yi Tay.<br>
 <i>ACM Computing surveys. 2019.</i>
