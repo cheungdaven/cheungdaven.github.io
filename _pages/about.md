@@ -38,7 +38,7 @@ Selected Publications
 
 <b>[Beyond Fully-Connected Layers with Quaternions: Parameterization of Hypercomplex Multiplications with 1/n Parameters](https://openreview.net/forum?id=rcQdycl0zyk)</b><br>
 Aston Zhang, Yi Tay, <b>Shuai Zhang</b>, Alvin Chan, Anh Tuan Luu, Siu Hui, Jie Fu. <br>
-<b>ICLR 2021</b>. <i>The International Conference on Learning Representations</i>. <br>
+<b>ICLR 2021</b>. <i>The International Conference on Learning Representations</i>. 
 <b><span style="color:red">Outstanding Paper Award.</span></b>
 
 <b>[Learning User Representations with Hypercuboids for Recommender Systems](https://dl.acm.org/doi/10.1145/3437963.3441768)</b><br>
@@ -47,7 +47,7 @@ Aston Zhang, Yi Tay, <b>Shuai Zhang</b>, Alvin Chan, Anh Tuan Luu, Siu Hui, Jie 
 
 <b>[HyperML: A Boosting Metric Learning Approach in Hyperbolic Space for Recommender Systems](https://arxiv.org/abs/1809.01703)</b><br>
 Lucas Vinh Tran,  Yi Tay, <b>Shuai Zhang</b>, Gao Cong, Xiaoli Li. <br>
-<b>WSDM 2020</b>. <i>The 13th ACM International Conference on Web Search and Data Mining</i>. <br>
+<b>WSDM 2020</b>. <i>The 13th ACM International Conference on Web Search and Data Mining</i>. 
 <b><span style="color:red">Best Paper Award Runner-up.</span></b>
 
 <b>[Quaternion Knowledge Graph Embeddings](https://arxiv.org/abs/1904.10281)</b><br>
