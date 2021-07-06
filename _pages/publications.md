@@ -94,13 +94,13 @@ Xiang Zhang, Lina Yao, Xianzhi Wang, Wenjie Zhang, <b>Shuai Zhang</b>, and Yunha
 <b>Shuai Zhang</b>, Aston Zhang, Lina Yao. <br>
 <i>Book Title: Handbook of Machine Learning for Data Science. </i> <br>
 <i>the 3rd edition of the the Data Mining and Knowledge Discovery Handbook.</i> <br>
-<i>Book Authors: Oded Z. Maimon, Lior Rokach. </i> <br>
+<i>Book Editors: Oded Z. Maimon, Lior Rokach. </i> <br>
 <i> Publisher: Springer. </i>
 
-<b>[Deep Neural Networks based Recommender Systems](), 2021, to appear</b><br>
+<b>[Deep Learning for Recommender Systems](), 2021, to appear</b><br>
 <b>Shuai Zhang</b>, Yi Tay, Lina Yao, Aixin Sun, Ce Zhang. <br>
 <i>Book Title: [the 3rd edition of the recommender systems handbook](https://link.springer.com/book/10.1007/978-0-387-85820-3). </i> <br>
-<i>Book Authors: Francesco Ricci, Lior Rokach, Bracha Shapira. </i> <br>
+<i>Book Editors: Francesco Ricci, Lior Rokach, Bracha Shapira. </i> <br>
 <i> Publisher: Springer. </i>
 
 <b>[Recommender Systems](https://d2l.ai/chapter_recommender-systems/index.html), 2019</b><br>
