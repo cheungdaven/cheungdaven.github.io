@@ -21,6 +21,7 @@ Shuai Zhang is a postdoctoral researcher in the department of computer science a
 
 Latest News
 ======
+* 29-09-2021: one paper accepted to NeurIPS 2021.
 * 18-05-2021: Two papers accepted to KDD 2021.
 * 06-05-2021: one short paper accepted to ACL 2021.
 * 30-04-2021: give a talk in the [CVG group](https://www.cvg.unibe.ch/home/) of Universität Bern.
