@@ -8,6 +8,10 @@ author_profile: true
 
 
 ## Conference Papers
+<b>[Self-Instantiated Recurrent Units with Dynamic Soft Recursion]()</b> <br> 
+Aston Zhang, Yi Tay, Yikang Shen, Alvin Chan,  <b>Shuai Zhang</b> <br>
+<b>NeurIPS 2021 </b>(applied data science track). <i>Thirty-fifth Conference on Neural Information Processing Systems</i>. <br> 
+
 <b>[FleetRec: Large-Scale Recommendation Inference on Hybrid GPU-FPGA Clusters](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/485153/1/FleetRec_camera_ready.pdf)</b> <br> 
 Wenqi Jiang*, Zhenhao He*, <b>Shuai Zhang</b>, Kai Zeng, Liang Feng, Jiansong Zhang, Tongxuan Liu, Yong Li, Jingren Zhou, Ce Zhang, Gustavo Alonso.  <br>
 <b>KDD 2021 </b>(applied data science track). <i>The 27th ACM SIGKDD Conference on Knowledge Discovery and Data Mining</i>. <br> 
