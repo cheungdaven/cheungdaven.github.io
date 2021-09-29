@@ -26,7 +26,7 @@ Latest News
 * 06-05-2021: one short paper accepted to ACL 2021.
 * 30-04-2021: give a talk in the [CVG group](https://www.cvg.unibe.ch/home/) of Universität Bern.
 * 01-04-2021: Received the ICLR 2021 Outstanding Paper Award.
-
+<!--
 Selected Publications
 ======
 [Deep Learning for Recommender Systems](), book chapter, to appear<br>
@@ -52,7 +52,7 @@ Lucas Vinh Tran,  Yi Tay, <b>Shuai Zhang</b>, Gao Cong, Xiaoli Li. <br>
 [Quaternion Knowledge Graph Embeddings](https://arxiv.org/abs/1904.10281)<br>
 <b>Shuai Zhang</b>, Yi Tay, Lina Yao, Qi Liu. <br>
 <i>Thirty-third Conference on Neural Information Processing Systems, 2019</i>. 
-
+-->
 
 Highlights
 ======
