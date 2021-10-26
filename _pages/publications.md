@@ -7,11 +7,12 @@ author_profile: true
 
 
 
-## Conference Papers
+## Year of 2022
 <b>[xFraud: Explainable Fraud Transaction Detection]()</b> <br> 
 Susie Xi Rao, <b>Shuai Zhang</b>, Zhichao Han, Zitao Zhang, Wei Min, Zhiyao Chen, Yinan Shan, Yang Zhao, Ce Zhang.<br>
 <b>VLDB 2022 </b>. <i>The Proceedings of the VLDB Endowment</i>. <br> 
 
+## Year of 2021
 <b>[Self-Instantiated Recurrent Units with Dynamic Soft Recursion]()</b> <br> 
 Aston Zhang, Yi Tay, Yikang Shen, Alvin Chan,  <b>Shuai Zhang</b> <br>
 <b>NeurIPS 2021 </b>. <i>Thirty-fifth Conference on Neural Information Processing Systems</i>. <br> 
@@ -52,7 +53,25 @@ Aston Zhang, Yi Tay, <b>Shuai Zhang</b>, Alvin Chan, Anh Tuan Luu, Siu Hui, Jie 
 Aguilar, David Dao, Shaoduo Gan, Nezihe Merve Gurel, Nora Hollenstein, Jiawei Jiang, Bojan Karlas, Thomas Lemmin, Tian Li, Yang Li, Susie Rao, Johannes Rausch, Cedric Renggli, Luka Rimanic, Maurice Weber, <b>Shuai Zhang</b>, Zhikuan Zhao, Kevin Schawinski, Wentao Wu, Ce Zhang. <br>
 <b>CIDR 2021</b>.  <i>The Conference on Innovative Data Systems Research</i>.
 
+<b>[Recommender Systems](), 2021, to appear</b><br>
+<b>Shuai Zhang</b>, Aston Zhang, Lina Yao. <br>
+<i>Book Title: Handbook of Machine Learning for Data Science. </i> <br>
+<i>the 3rd edition of the the Data Mining and Knowledge Discovery Handbook.</i> <br>
+<i>Book Editors: Oded Z. Maimon, Lior Rokach. </i> <br>
+<i> Publisher: Springer. </i>
 
+<b>[Deep Learning for Recommender Systems](), 2021, to appear</b><br>
+<b>Shuai Zhang</b>, Yi Tay, Lina Yao, Aixin Sun, Ce Zhang. <br>
+<i>Book Title: [the 3rd edition of the recommender systems handbook](https://link.springer.com/book/10.1007/978-0-387-85820-3). </i> <br>
+<i>Book Editors: Francesco Ricci, Lior Rokach, Bracha Shapira. </i> <br>
+<i> Publisher: Springer. </i>
+
+
+<b>[Suspicious Massive Registration Detection via Dynamic Heterogeneous Graph Neural Networks](https://arxiv.org/abs/2012.10831)</b><br>
+Xi Rao, <b>Shuai Zhang</b>, Zhichao Han, Zitao Zhang, Wei Min, Mo Cheng, Yinan Shan, Yang Zhao, Ce Zhang. <br>
+<i>AAAI 2021 Workshop on Deep Learning on Graphs: Methods and Applications.</i> <b>DLG-AAAI'21</b>.
+
+## Year of 2020
 <b>[Symmetric Metric Learning with Adaptive Margin for Recommendation]()</b><br>
 Mingming Li, <b>Shuai Zhang</b>, Fuqing Zhu, Liangjun Zang, Wanhui Qian, Jizhong Han, Songlin Hu. <br>
 <b>AAAI 2020</b>. <i>The 34th AAAI Conference on Artificial Intelligence</i>.
@@ -61,6 +80,14 @@ Mingming Li, <b>Shuai Zhang</b>, Fuqing Zhu, Liangjun Zang, Wanhui Qian, Jizhong
 Lucas Vinh Tran,  Yi Tay, <b>Shuai Zhang</b>, Gao Cong, Xiaoli Li. <br>
 <b>WSDM 2020</b>. <i>The 13th ACM International Conference on Web Search and Data Mining</i>. <br>
 <b><span style="color:red">Best Paper Award Runner-up.</span></b>
+
+<b>[Recommender Systems](https://d2l.ai/chapter_recommender-systems/index.html), 2020</b><br>
+<b>Shuai Zhang</b>, Aston Zhang, Yi Tay. <br>
+<i>Book Title: [Dive into Deep Learning](https://d2l.ai/). </i> <br>
+<i>Book Authors: Aston Zhang, Zack C. Lipton, Mu Li, Alex J. Smola. </i>
+
+
+## Year of 2019
 
 <b>[Quaternion Knowledge Graph Embeddings](https://arxiv.org/abs/1904.10281)</b><br>
 <b>Shuai Zhang</b>\*, Yi Tay\*, Lina Yao, Qi Liu. <br>
@@ -87,35 +114,6 @@ Yi Tay, Aston Zhang, Anh Tuan Luu, Jinfeng Rao, <b>Shuai Zhang</b>, Shuohang Wan
 Xiang Zhang, Lina Yao, Xianzhi Wang, Wenjie Zhang, <b>Shuai Zhang</b>, and Yunhao Liu.<br>
 <b>ICDM 2019</b>. <i>The 19th IEEE International Conference on Data Mining</i>. 
 
-<b>[NeuRec: On Nonlinear Transformation for Personalized Ranking](https://www.ijcai.org/proceedings/2018/0510.pdf)</b> <br>
-<b>Shuai Zhang</b>, Lina Yao, Aixin Sun, Sen Wang. Guodong Long. Manqing Dong.<br>
-<b>IJCAI 2018</b>. <i>The 27th International Joint Conference on Artificial Intelligence</i>.
-
-<b>[AutoSVD++: An Efficient Hybrid Collaborative Filtering Model via Contractive Auto-encoders](http://shuaizhang.tech/publications/autosvdplusplus)</b> <br> 
-<b>Shuai Zhang</b>, Lina Yao, Xiwei Xu.<br>
-<b>SIGIR 2017 </b>. <i> The 40th International ACM SIGIR Conference on Research and Development in Information Retrieval</i>. 
-
-
-## Book Chapters
-
-<b>[Recommender Systems](), 2021, to appear</b><br>
-<b>Shuai Zhang</b>, Aston Zhang, Lina Yao. <br>
-<i>Book Title: Handbook of Machine Learning for Data Science. </i> <br>
-<i>the 3rd edition of the the Data Mining and Knowledge Discovery Handbook.</i> <br>
-<i>Book Editors: Oded Z. Maimon, Lior Rokach. </i> <br>
-<i> Publisher: Springer. </i>
-
-<b>[Deep Learning for Recommender Systems](), 2021, to appear</b><br>
-<b>Shuai Zhang</b>, Yi Tay, Lina Yao, Aixin Sun, Ce Zhang. <br>
-<i>Book Title: [the 3rd edition of the recommender systems handbook](https://link.springer.com/book/10.1007/978-0-387-85820-3). </i> <br>
-<i>Book Editors: Francesco Ricci, Lior Rokach, Bracha Shapira. </i> <br>
-<i> Publisher: Springer. </i>
-
-<b>[Recommender Systems](https://d2l.ai/chapter_recommender-systems/index.html), 2019</b><br>
-<b>Shuai Zhang</b>, Aston Zhang, Yi Tay. <br>
-<i>Book Title: [Dive into Deep Learning](https://d2l.ai/). </i> <br>
-<i>Book Authors: Aston Zhang, Zack C. Lipton, Mu Li, Alex J. Smola. </i>
-
 
 <b>[Deep Neural Networks meet Recommender Systems](https://digital-library.theiet.org/content/books/10.1049/pbpc035g_ch2), 2019</b><br>
 <b>Shuai Zhang</b>, Lina Yao, Aixin Sun, Guibing Guo, Xiwei Xu, Liming Zhu. <br>
@@ -123,7 +121,6 @@ Xiang Zhang, Lina Yao, Xianzhi Wang, Wenjie Zhang, <b>Shuai Zhang</b>, and Yunha
 <i>Book Editors: Osman Khalid, Samee U. Khan,  Albert Y. Zomaya . </i> <br>
 <i> Publisher: Institution of Engineering and Technology. </i>
 
-## Journal Papers
 
 <b>[Unraveling Metric Vector Spaces with Factorization for Recommendation](https://ieeexplore.ieee.org/abstract/document/8867947/)</b><br>
 <b>Shuai Zhang</b>, Lina Yao, Bin Wu, Xiwei Xu, Xiang Zhang, Liming Zhu. <br>
@@ -137,6 +134,15 @@ Xiang Zhang, Lina Yao, Xianzhi Wang, Wenjie Zhang, <b>Shuai Zhang</b>, and Yunha
 <b>Shuai Zhang</b>, Lina Yao, Aixin Sun, Yi Tay.<br>
 <i>ACM Computing surveys. 2019.</i>
 
+<b>[Next Item Recommendation with Self-Attentive Metric Learning](https://recnlp2019.github.io/papers/RecNLP2019_paper_21.pdf)</b><br>
+<b>Shuai Zhang</b>, Yi Tay,  Lina Yao,  Aixin Sun, Jake An. <br>
+<i>AAAI 2019 Workshop on Recommender Systems and Natural Language Processing.</i> <b>RecNLP 2019</b>.
+
+## Year of 2018
+<b>[NeuRec: On Nonlinear Transformation for Personalized Ranking](https://www.ijcai.org/proceedings/2018/0510.pdf)</b> <br>
+<b>Shuai Zhang</b>, Lina Yao, Aixin Sun, Sen Wang. Guodong Long. Manqing Dong.<br>
+<b>IJCAI 2018</b>. <i>The 27th International Joint Conference on Artificial Intelligence</i>.
+
 <b>[Prediction via Generative Convolutional Neural Networks based Regression](https://www.sciencedirect.com/science/article/abs/pii/S0167865518303325)</b><br>
 Xiaodong Ning, Lina Yao, Xianzhi Wang, Boualem Benatallah, Manqing Dong, <b>Shuai Zhang</b>. <br>
 <i>Pattern Recognition Letters. 2018.</i>
@@ -146,15 +152,14 @@ Cognitive Interactivity]()</b><br>
 Xiang Zhang, Lina Yao, <b>Shuai Zhang</b>, Salil S. Kanhere, Quan Z. Sheng, Yunhao Liu. <br>
 <i>IEEE Internet of Things Journal. 2018.</i>
 
+## Year of 2017
 
-## Workshop Papers
-<b>[Suspicious Massive Registration Detection via Dynamic Heterogeneous Graph Neural Networks](https://arxiv.org/abs/2012.10831)</b><br>
-Xi Rao, <b>Shuai Zhang</b>, Zhichao Han, Zitao Zhang, Wei Min, Mo Cheng, Yinan Shan, Yang Zhao, Ce Zhang. <br>
-<i>AAAI 2021 Workshop on Deep Learning on Graphs: Methods and Applications.</i> <b>DLG-AAAI'21</b>.
+<b>[AutoSVD++: An Efficient Hybrid Collaborative Filtering Model via Contractive Auto-encoders](http://shuaizhang.tech/publications/autosvdplusplus)</b> <br> 
+<b>Shuai Zhang</b>, Lina Yao, Xiwei Xu.<br>
+<b>SIGIR 2017 </b>. <i> The 40th International ACM SIGIR Conference on Research and Development in Information Retrieval</i>. 
 
-<b>[Next Item Recommendation with Self-Attentive Metric Learning](https://recnlp2019.github.io/papers/RecNLP2019_paper_21.pdf)</b><br>
-<b>Shuai Zhang</b>, Yi Tay,  Lina Yao,  Aixin Sun, Jake An. <br>
-<i>AAAI 2019 Workshop on Recommender Systems and Natural Language Processing.</i> <b>RecNLP 2019</b>.
+
+
 
 
 
