@@ -5,6 +5,9 @@ author_profile: true
 ---
 [(Google Scholar Profile)](https://scholar.google.com.au/citations?user=PPjdxlcAAAAJ&hl=en) [(Full List at DBLP)](https://dblp.uni-trier.de/pers/hd/z/Zhang_0007:Shuai)
 
+## Preprint
+<b>[Switch spaces: Learning product spaces with sparse gating]()</b> <br> 
+Shuai Zhang, Yi Tay, Wenqi Jiang, Da-cheng Juan, Ce Zhang.<br>
 
 
 ## Year of 2022
