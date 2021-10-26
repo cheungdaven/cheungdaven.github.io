@@ -156,9 +156,7 @@ Xi Rao, <b>Shuai Zhang</b>, Zhichao Han, Zitao Zhang, Wei Min, Mo Cheng, Yinan S
 <b>Shuai Zhang</b>, Yi Tay,  Lina Yao,  Aixin Sun, Jake An. <br>
 <i>AAAI 2019 Workshop on Recommender Systems and Natural Language Processing.</i> <b>RecNLP 2019</b>.
 
-## Work in Progress
-<b>[xFraud: Explainable Fraud Transaction Detection on Heterogeneous Graphs](https://arxiv.org/pdf/2011.12193.pdf)</b><br>
-Co-author, under review.<br>
+
 
 
 [Deadlines](https://aideadlin.es/?sub=ML,DM)
