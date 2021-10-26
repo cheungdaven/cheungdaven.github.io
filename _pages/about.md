@@ -21,6 +21,7 @@ Shuai Zhang is a postdoctoral researcher in the department of computer science a
 
 Latest News
 ======
+* 26-10-2021: one paper accepted to VLDB 2022.
 * 29-09-2021: one paper accepted to NeurIPS 2021.
 * 24-08-2021: give a talk at ANU.
 * 18-05-2021: Two papers accepted to KDD 2021.
