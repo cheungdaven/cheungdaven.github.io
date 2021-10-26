@@ -8,6 +8,10 @@ author_profile: true
 
 
 ## Conference Papers
+<b>[xFraud: Explainable Fraud Transaction Detection]()</b> <br> 
+Susie Xi Rao, <b>Shuai Zhang</b>, Zhichao Han, Zitao Zhang, Wei Min, Zhiyao Chen, Yinan Shan, Yang Zhao, Ce Zhang.<br>
+<b>VLDB 2022 </b>. <i>The Proceedings of the VLDB Endowment</i>. <br> 
+
 <b>[Self-Instantiated Recurrent Units with Dynamic Soft Recursion]()</b> <br> 
 Aston Zhang, Yi Tay, Yikang Shen, Alvin Chan,  <b>Shuai Zhang</b> <br>
 <b>NeurIPS 2021 </b>. <i>Thirty-fifth Conference on Neural Information Processing Systems</i>. <br> 
