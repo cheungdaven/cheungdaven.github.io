@@ -12,12 +12,12 @@ Shuai Zhang, Yi Tay, Wenqi Jiang, Da-cheng Juan, Ce Zhang.<br>
 
 
 ## Year of 2022
-<b>[xFraud: Explainable Fraud Transaction Detection]()</b> <br> 
+<b>[xFraud: Explainable Fraud Transaction Detection](https://shuaizhang.tech/files/Ebay_XFraud_VLDB_CRC.pdf)</b> <br> 
 Susie Xi Rao, <b>Shuai Zhang</b>, Zhichao Han, Zitao Zhang, Wei Min, Zhiyao Chen, Yinan Shan, Yang Zhao, Ce Zhang.<br>
 <i>VLDB 2022 </i>. <i>The Proceedings of the VLDB Endowment</i>. <br> 
 
 ## Year of 2021
-<b>[Self-Instantiated Recurrent Units with Dynamic Soft Recursion]()</b> <br> 
+<b>[Self-Instantiated Recurrent Units with Dynamic Soft Recursion](https://papers.nips.cc/paper/2021/file/3341f6f048384ec73a7ba2e77d2db48b-Paper.pdf)</b> <br> 
 Aston Zhang, Yi Tay, Yikang Shen, Alvin Chan,  <b>Shuai Zhang</b> <br>
 <i>NeurIPS 2021 </i>. <i>Thirty-fifth Conference on Neural Information Processing Systems</i>. <br> 
 
@@ -26,11 +26,11 @@ Wenqi Jiang*, Zhenhao He*, <b>Shuai Zhang</b>, Kai Zeng, Liang Feng, Jiansong Zh
 <i>KDD 2021 </i>(applied data science track). <i>The 27th ACM SIGKDD Conference on Knowledge Discovery and Data Mining</i>. <br> 
 
 
-<b>[DeGNN: Improving Graph Neural Networks with Graph Decomposition](https://arxiv.org/pdf/1910.04499.pdf)</b> <br> 
+<b>[DeGNN: Improving Graph Neural Networks with Graph Decomposition](https://dl.acm.org/doi/10.1145/3447548.3467312)</b> <br> 
 Xupeng Miao\*, Nezihe Merve Gurel\*, Wentao Zhang\*, Zhichao Han, Bo Li, Wei Min, Susie Xi Rao, Hansheng Ren, Yinan Shan, Yingxia Shao, Yujie Wang, Fan Wu, Hui Xue, Yaming Yang, Zitao Zhang, Yang Zhao, <b>Shuai Zhang</b>, Yujing Wang, Bin Cui, Ce Zhang.  <br>
 <i>KDD 2021 </i>(research track). <i>The 27th ACM SIGKDD Conference on Knowledge Discovery and Data Mining</i>. <br> 
 
-<b>[On Orthogonality Constraints of Transformers]()</b><br>
+<b>[On Orthogonality Constraints of Transformers](https://aclanthology.org/2021.acl-short.48.pdf)</b><br>
 Aston Zhang, Alvin Chan, Yi Tay, Jie Fu, Shuohang Wang, <b>Shuai Zhang</b>, Huajie Shao, Shuochao Yao, Roy Ka-Wei Lee. <br>
 <i>ACL 2021 (Short Paper)</i>. <i>The 59th Annual Meeting of the Association for Computational Linguistics</i>. <br>
 
