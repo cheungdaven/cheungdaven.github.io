@@ -21,6 +21,11 @@ Susie Xi Rao, <b>Shuai Zhang</b>, Zhichao Han, Zitao Zhang, Wei Min, Zhiyao Chen
 Aston Zhang, Yi Tay, Yikang Shen, Alvin Chan,  <b>Shuai Zhang</b> <br>
 <i>NeurIPS 2021 </i>. <i>Thirty-fifth Conference on Neural Information Processing Systems</i>. <br> 
 
+
+<b>[Gradient Boosted Neural Decision Forest](https://ieeexplore.ieee.org/document/9645204)</b> <br> 
+Manqing Dong, Lina Yao, Xianzhi Wang, Boualem Benatallah,  <b>Shuai Zhang</b>, Quan Z. Sheng. <br>
+<i>IEEE Transactions on Services Computing</i>. <br> 
+
 <b>[FleetRec: Large-Scale Recommendation Inference on Hybrid GPU-FPGA Clusters](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/485153/1/FleetRec_camera_ready.pdf)</b> <br> 
 Wenqi Jiang*, Zhenhao He*, <b>Shuai Zhang</b>, Kai Zeng, Liang Feng, Jiansong Zhang, Tongxuan Liu, Yong Li, Jingren Zhou, Ce Zhang, Gustavo Alonso.  <br>
 <i>KDD 2021 </i>(applied data science track). <i>The 27th ACM SIGKDD Conference on Knowledge Discovery and Data Mining</i>. <br> 
