@@ -12,6 +12,11 @@ Shuai Zhang, Yi Tay, Wenqi Jiang, Da-cheng Juan, Ce Zhang.<br>
 
 
 ## Year of 2022
+<b>[Neural Methods for Logical Reasoning over Knowledge Graphs]()</b> <br> 
+Alfonso Amayuelas, <b>Shuai Zhang</b>, Susie Xi Rao, Ce Zhang.<br>
+<i>ICLR 2022 </i>. <i>The International Conference on Learning Representations</i>. <br> 
+
+
 <b>[xFraud: Explainable Fraud Transaction Detection](https://shuaizhang.tech/files/Ebay_XFraud_VLDB_CRC.pdf)</b> <br> 
 Susie Xi Rao, <b>Shuai Zhang</b>, Zhichao Han, Zitao Zhang, Wei Min, Zhiyao Chen, Yinan Shan, Yang Zhao, Ce Zhang.<br>
 <i>VLDB 2022 </i>. <i>The Proceedings of the VLDB Endowment</i>. <br> 
