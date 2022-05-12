@@ -8,6 +8,14 @@ author_profile: true
 
 
 ## Year of 2022
+
+<b>[Deep Learning for Recommender Systems](https://link.springer.com/chapter/10.1007/978-1-0716-2197-4_5), 2022</b><br>
+<b>Shuai Zhang</b>, Yi Tay, Lina Yao, Aixin Sun, Ce Zhang. <br>
+<i>Book Title: [the 3rd edition of the recommender systems handbook](https://link.springer.com/book/10.1007/978-1-0716-2197-4). </i> <br>
+<i>Book Editors: Francesco Ricci, Lior Rokach, Bracha Shapira. </i> <br>
+<i> Publisher: Springer. </i>
+
+
 <b>[Neural Methods for Logical Reasoning over Knowledge Graphs]()</b> <br> 
 Alfonso Amayuelas, <b>Shuai Zhang</b>, Susie Xi Rao, Ce Zhang.<br>
 <i>ICLR 2022 </i>. <i>The International Conference on Learning Representations</i>. <br> 
@@ -68,12 +76,6 @@ Aguilar, David Dao, Shaoduo Gan, Nezihe Merve Gurel, Nora Hollenstein, Jiawei Ji
 <i>Book Title: Handbook of Machine Learning for Data Science. </i> <br>
 <i>the 3rd edition of the the Data Mining and Knowledge Discovery Handbook.</i> <br>
 <i>Book Editors: Oded Z. Maimon, Lior Rokach. </i> <br>
-<i> Publisher: Springer. </i>
-
-<b>[Deep Learning for Recommender Systems](), 2021, to appear</b><br>
-<b>Shuai Zhang</b>, Yi Tay, Lina Yao, Aixin Sun, Ce Zhang. <br>
-<i>Book Title: [the 3rd edition of the recommender systems handbook](https://link.springer.com/book/10.1007/978-0-387-85820-3). </i> <br>
-<i>Book Editors: Francesco Ricci, Lior Rokach, Bracha Shapira. </i> <br>
 <i> Publisher: Springer. </i>
 
 
