@@ -37,7 +37,7 @@ Manqing Dong, Lina Yao, Xianzhi Wang, Boualem Benatallah,  <b>Shuai Zhang</b>, Q
 
 <b>[FleetRec: Large-Scale Recommendation Inference on Hybrid GPU-FPGA Clusters](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/485153/1/FleetRec_camera_ready.pdf)</b> <br> 
 Wenqi Jiang*, Zhenhao He*, <b>Shuai Zhang</b>, Kai Zeng, Liang Feng, Jiansong Zhang, Tongxuan Liu, Yong Li, Jingren Zhou, Ce Zhang, Gustavo Alonso.  <br>
-<i>KDD 2021 </i>(applied data science track). <i>The 27th ACM SIGKDD Conference on Knowledge Discovery and Data Mining</i>. <br> 
+<i>KDD 2021 </i>(applied data science track). <i>The 27th ACM SIGKDD Conference on Knowledge Discovery and Data Mining</i>. [code](https://github.com/fpgasystems/GPU-FPGA-Recommendation-System)<br> 
 
 
 <b>[DeGNN: Improving Graph Neural Networks with Graph Decomposition](https://dl.acm.org/doi/10.1145/3447548.3467312)</b> <br> 
@@ -55,7 +55,7 @@ Aston Zhang, Alvin Chan, Yi Tay, Jie Fu, Shuohang Wang, <b>Shuai Zhang</b>, Huaj
 
 <b>[MicroRec: Accelerating Deep Recommendation Systems to Microseconds by Hardware and Data Structure Solutions](https://proceedings.mlsys.org/paper/2021/file/ec8956637a99787bd197eacd77acce5e-Paper.pdf)</b><br>
 Wenqi Jiang, Zhenhao He, <b>Shuai Zhang</b>, Thomas B. Preußer, Kai Zeng, Liang Feng, Jiansong Zhang, Tongxuan Liu, Yong Li, Jingren Zhou, Ce Zhang, Gustavo Alonso. <br>
-<i>MLSys 2021</i>. <i>Fourth Conference on Machine Learning and Systems</i>. <br>
+<i>MLSys 2021</i>. <i>Fourth Conference on Machine Learning and Systems</i>. [code](https://github.com/fpgasystems/FPGA-Recommendation-Accelerator)<br>
 
 
 <b>[Beyond Fully-Connected Layers with Quaternions: Parameterization of Hypercomplex Multiplications with 1/n Parameters](https://openreview.net/forum?id=rcQdycl0zyk)</b><br>
