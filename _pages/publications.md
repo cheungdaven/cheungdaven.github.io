@@ -23,12 +23,12 @@ Alfonso Amayuelas, <b>Shuai Zhang</b>, Susie Xi Rao, Ce Zhang.<br>
 
 <b>[xFraud: Explainable Fraud Transaction Detection](https://shuaizhang.tech/files/Ebay_XFraud_VLDB_CRC.pdf)</b> <br> 
 Susie Xi Rao, <b>Shuai Zhang</b>, Zhichao Han, Zitao Zhang, Wei Min, Zhiyao Chen, Yinan Shan, Yang Zhao, Ce Zhang.<br>
-<i>VLDB 2022 </i>. <i>The Proceedings of the VLDB Endowment</i>. <br> 
+<i>VLDB 2022 </i>. <i>The Proceedings of the VLDB Endowment</i>. [code](https://github.com/eBay/xFraud)<br> 
 
 ## Year of 2021
 <b>[Self-Instantiated Recurrent Units with Dynamic Soft Recursion](https://papers.nips.cc/paper/2021/file/3341f6f048384ec73a7ba2e77d2db48b-Paper.pdf)</b> <br> 
 Aston Zhang, Yi Tay, Yikang Shen, Alvin Chan,  <b>Shuai Zhang</b> <br>
-<i>NeurIPS 2021 </i>. <i>Thirty-fifth Conference on Neural Information Processing Systems</i>. <br> 
+<i>NeurIPS 2021 </i>. <i>Thirty-fifth Conference on Neural Information Processing Systems</i>. [code](https://github.com/astonzhang/Self-IRU) <br> 
 
 
 <b>[Gradient Boosted Neural Decision Forest](https://ieeexplore.ieee.org/document/9645204)</b> <br> 
@@ -60,7 +60,7 @@ Wenqi Jiang, Zhenhao He, <b>Shuai Zhang</b>, Thomas B. Preußer, Kai Zeng, Liang
 
 <b>[Beyond Fully-Connected Layers with Quaternions: Parameterization of Hypercomplex Multiplications with 1/n Parameters](https://openreview.net/forum?id=rcQdycl0zyk)</b><br>
 Aston Zhang, Yi Tay, <b>Shuai Zhang</b>, Alvin Chan, Anh Tuan Luu, Siu Hui, Jie Fu. <br>
-<i>ICLR 2021</i>. <i>The International Conference on Learning Representations</i>. <br>
+<i>ICLR 2021</i>. <i>The International Conference on Learning Representations</i>. [code](https://github.com/astonzhang/Parameterization-of-Hypercomplex-Multiplications)<br>
 <b><span style="color:red">Outstanding Paper Award.</span></b>
 
 <b>[Learning User Representations with Hypercuboids for Recommender Systems](https://dl.acm.org/doi/10.1145/3437963.3441768)</b><br>
@@ -69,7 +69,7 @@ Aston Zhang, Yi Tay, <b>Shuai Zhang</b>, Alvin Chan, Anh Tuan Luu, Siu Hui, Jie 
 
 <b>[Ease.ML: A Lifecycle Management System for Machine Learning](http://cidrdb.org/cidr2021/papers/cidr2021_paper26.pdf)</b><br>
 Aguilar, David Dao, Shaoduo Gan, Nezihe Merve Gurel, Nora Hollenstein, Jiawei Jiang, Bojan Karlas, Thomas Lemmin, Tian Li, Yang Li, Susie Rao, Johannes Rausch, Cedric Renggli, Luka Rimanic, Maurice Weber, <b>Shuai Zhang</b>, Zhikuan Zhao, Kevin Schawinski, Wentao Wu, Ce Zhang. <br>
-<i>CIDR 2021</i>.  <i>The Conference on Innovative Data Systems Research</i>.
+<i>CIDR 2021</i>.  <i>The Conference on Innovative Data Systems Research [code](https://ease.ml/)</i>.
 
 <b>[Recommender Systems](), 2021, to appear</b><br>
 <b>Shuai Zhang</b>, Aston Zhang, Lina Yao. <br>
@@ -86,7 +86,7 @@ Xi Rao, <b>Shuai Zhang</b>, Zhichao Han, Zitao Zhang, Wei Min, Mo Cheng, Yinan S
 ## Year of 2020
 <b>[Symmetric Metric Learning with Adaptive Margin for Recommendation]()</b><br>
 Mingming Li, <b>Shuai Zhang</b>, Fuqing Zhu, Liangjun Zang, Wanhui Qian, Jizhong Han, Songlin Hu. <br>
-<i>AAAI 2020</i>. <i>The 34th AAAI Conference on Artificial Intelligence</i>.
+<i>AAAI 2020</i>. <i>The 34th AAAI Conference on Artificial Intelligence [code](https://github.com/MingmingLie/SML)</i>.
 
 <b>[HyperML: A Boosting Metric Learning Approach in Hyperbolic Space for Recommender Systems](https://arxiv.org/abs/1809.01703)</b><br>
 Lucas Vinh Tran,  Yi Tay, <b>Shuai Zhang</b>, Gao Cong, Xiaoli Li. <br>
@@ -95,7 +95,7 @@ Lucas Vinh Tran,  Yi Tay, <b>Shuai Zhang</b>, Gao Cong, Xiaoli Li. <br>
 
 <b>[Recommender Systems](https://d2l.ai/chapter_recommender-systems/index.html), 2020</b><br>
 <b>Shuai Zhang</b>, Aston Zhang, Yi Tay. <br>
-<i>Book Title: [Dive into Deep Learning](https://d2l.ai/). </i> <br>
+<i>Book Title: [Dive into Deep Learning](https://d2l.ai/). [code](https://github.com/d2l-ai/d2l-en/tree/master/chapter_recommender-systems) </i> <br>
 <i>Book Authors: Aston Zhang, Zack C. Lipton, Mu Li, Alex J. Smola. </i>
 
 
@@ -103,16 +103,16 @@ Lucas Vinh Tran,  Yi Tay, <b>Shuai Zhang</b>, Gao Cong, Xiaoli Li. <br>
 
 <b>[Quaternion Knowledge Graph Embeddings](https://arxiv.org/abs/1904.10281)</b><br>
 <b>Shuai Zhang</b>\*, Yi Tay\*, Lina Yao, Qi Liu. <br>
-<i>NeurIPS 2019</i>. <i>Thirty-third Conference on Neural Information Processing Systems</i>. 
+<i>NeurIPS 2019</i>. <i>Thirty-third Conference on Neural Information Processing Systems [code](https://github.com/cheungdaven/QuatE)</i>. 
 
 <b>[DeepRec: An Open-source Toolkit for Deep Learning based Recommendation (Demo Track)](https://arxiv.org/abs/1905.10536)</b> <br>
 <b>Shuai Zhang</b>, Yi Tay, Lina Yao, Bin Wu, Aixin Sun. <br>
-<i>IJCAI 2019</i>. <i>The 28th International Joint Conference on Artificial Intelligence</i>. 
+<i>IJCAI 2019</i>. <i>The 28th International Joint Conference on Artificial Intelligence [code](https://github.com/cheungdaven/DeepRec)</i>. 
 
 
 <b>[Lightweight and Efficient Neural Natural Language Processing with Quaternion Networks](https://arxiv.org/abs/1906.04393)</b> <br>
 Yi Tay, Aston Zhang, Anh Tuan Luu, Jinfeng Rao, <b>Shuai Zhang</b>, Shuohang Wang, Jie Fu and Siu Cheung Hui.<br>
-<i>ACL 2019</i>. <i>The 57th Annual Meeting of the Association for Computational Linguistics </i>. 
+<i>ACL 2019</i>. <i>The 57th Annual Meeting of the Association for Computational Linguistics [code](https://github.com/vanzytay/QuaternionTransformers)</i>. 
 
 <b>[Quaternion Collaborative Filtering for Recommendation](https://arxiv.org/abs/1906.02594)</b> <br>
 <b>Shuai Zhang</b>, Lina Yao, Lucas Vinh Tran , Aston Zhang , Yi Tay.<br>
@@ -120,7 +120,7 @@ Yi Tay, Aston Zhang, Anh Tuan Luu, Jinfeng Rao, <b>Shuai Zhang</b>, Shuohang Wan
 
 <b>[Holographic Factorization Machines for Recommendation](https://www.researchgate.net/publication/330101551_Holographic_Factorization_Machines_for_Recommendation)</b> <br> 
 <b>Shuai Zhang</b>\*, Yi Tay\*, Anh Tuan Luu, Siu Cheung Hui, Lina Yao, Lucas Vinh Tran.<br>
-<i>AAAI 2019</i>. <i>The 33rd AAAI Conference on Artificial Intelligence</i>.
+<i>AAAI 2019</i>. <i>The 33rd AAAI Conference on Artificial Intelligence [code](https://github.com/SakigamiYang/holographic-factorization-machine)</i>.
 
 <b>[Adaptive Cognitive Activity Recognition with Reinforced Attentive CNN]()</b> <br> 
 Xiang Zhang, Lina Yao, Xianzhi Wang, Wenjie Zhang, <b>Shuai Zhang</b>, and Yunhao Liu.<br>
@@ -136,7 +136,7 @@ Xiang Zhang, Lina Yao, Xianzhi Wang, Wenjie Zhang, <b>Shuai Zhang</b>, and Yunha
 
 <b>[Unraveling Metric Vector Spaces with Factorization for Recommendation](https://ieeexplore.ieee.org/abstract/document/8867947/)</b><br>
 <b>Shuai Zhang</b>, Lina Yao, Bin Wu, Xiwei Xu, Xiang Zhang, Liming Zhu. <br>
- <i>IEEE Transactions on Industrial Informatics. 2019.</i>
+ <i>IEEE Transactions on Industrial Informatics. 2019. [code](https://github.com/cheungdaven/FML)</i>
  
 <b>[Thing-of-Interest Recommendation in the Internet of Things: Requirements, Challenges and Directions](https://ieeexplore.ieee.org/document/8766954?source=authoralert)</b><br>
  Lina Yao, Xianzhi Wang, Quan Z. Sheng, Schahram Dustdar, <b>Shuai Zhang</b>. <br>
@@ -148,7 +148,7 @@ Xiang Zhang, Lina Yao, Xianzhi Wang, Wenjie Zhang, <b>Shuai Zhang</b>, and Yunha
 
 <b>[Next Item Recommendation with Self-Attentive Metric Learning](https://recnlp2019.github.io/papers/RecNLP2019_paper_21.pdf)</b><br>
 <b>Shuai Zhang</b>, Yi Tay,  Lina Yao,  Aixin Sun, Jake An. <br>
-<i>AAAI 2019 Workshop on Recommender Systems and Natural Language Processing.</i> <b>RecNLP 2019</b>.
+<i>AAAI 2019 Workshop on Recommender Systems and Natural Language Processing. [code](https://github.com/cheungdaven/DeepRec/blob/master/models/seq_rec/AttRec.py)</i> <b>RecNLP 2019</b>.
 
 ## Year of 2018
 <b>[NeuRec: On Nonlinear Transformation for Personalized Ranking](https://www.ijcai.org/proceedings/2018/0510.pdf)</b> <br>
@@ -168,7 +168,7 @@ Xiang Zhang, Lina Yao, <b>Shuai Zhang</b>, Salil S. Kanhere, Quan Z. Sheng, Yunh
 
 <b>[AutoSVD++: An Efficient Hybrid Collaborative Filtering Model via Contractive Auto-encoders](http://shuaizhang.tech/publications/autosvdplusplus)</b> <br> 
 <b>Shuai Zhang</b>, Lina Yao, Xiwei Xu.<br>
-<i>SIGIR 2017 </i>. <i> The 40th International ACM SIGIR Conference on Research and Development in Information Retrieval</i>. 
+<i>SIGIR 2017 </i>. <i> The 40th International ACM SIGIR Conference on Research and Development in Information Retrieval [code](https://github.com/cheungdaven/autosvdpp)</i>. 
 
 
 
