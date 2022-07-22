@@ -18,7 +18,7 @@ author_profile: true
 
 <b>[Neural Methods for Logical Reasoning over Knowledge Graphs]()</b> <br> 
 Alfonso Amayuelas, <b>Shuai Zhang</b>, Susie Xi Rao, Ce Zhang.<br>
-<i>ICLR 2022 </i>. <i>The International Conference on Learning Representations</i>. <br> 
+<i>ICLR 2022 </i>. <i>The International Conference on Learning Representations</i>. [code](https://github.com/amayuelas/NNKGReasoning) <br> 
 
 
 <b>[xFraud: Explainable Fraud Transaction Detection](https://shuaizhang.tech/files/Ebay_XFraud_VLDB_CRC.pdf)</b> <br> 
