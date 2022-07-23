@@ -19,18 +19,6 @@ I am now working for Amazon. Prior to that, I was a postdoctoral researcher in t
 
 <!--Hi, I am Shuai Zhang, a postdoctoral researcher at the department of computer science in ETH Zurich. I received my PhD degree in computer science from UNSW Sydney and a bachelor degree from Nanjing University. My primary research interests lie in recommender systems, knowledge graphs, graph related applications, etc. My past internships were with Amazon AI and Tencent. I have won the ICLR 2021 outstanding paper award and best paper award (runner-up) at WSDM 2020. His research interests include but not limited to recommender systems, knowledge graph, and deep learning. He is PC member and reviewer for a number of top conferences and journals. You can find my publications on my [Google Scholar page](https://scholar.google.com.au/citations?user=PPjdxlcAAAAJ&hl=en).-->
 
-Latest News
-======
-* 26-04-2022: Our [book chapter](https://link.springer.com/chapter/10.1007/978-1-0716-2197-4_5) for the 3rd edition of [recommender system handbook](https://link.springer.com/book/10.1007/978-1-0716-2197-4) is published.
-* 20-01-2022: one paper accepted to ICLR 2022.
-* 26-10-2021: one paper accepted to VLDB 2022.
-* 29-09-2021: one paper accepted to NeurIPS 2021.
-* 24-08-2021: give a talk at ANU.
-* 18-05-2021: Two papers accepted to KDD 2021.
-* 06-05-2021: one short paper accepted to ACL 2021.
-* 30-04-2021: give a talk in the [CVG group](https://www.cvg.unibe.ch/home/) of Universität Bern.
-* 01-04-2021: Received the ICLR 2021 Outstanding Paper Award.
-
 
 Highlights
 ======
@@ -43,6 +31,17 @@ Wanna learn more about deep learning and recommender systems? You can: (1) Check
 His current research lies in representation learning and its applications in information filtering, knowledge graph completion and reasoning.
 Latest News
 ======
+Latest News
+======
+* 26-04-2022: Our [book chapter](https://link.springer.com/chapter/10.1007/978-1-0716-2197-4_5) for the 3rd edition of [recommender system handbook](https://link.springer.com/book/10.1007/978-1-0716-2197-4) is published.
+* 20-01-2022: one paper accepted to ICLR 2022.
+* 26-10-2021: one paper accepted to VLDB 2022.
+* 29-09-2021: one paper accepted to NeurIPS 2021.
+* 24-08-2021: give a talk at ANU.
+* 18-05-2021: Two papers accepted to KDD 2021.
+* 06-05-2021: one short paper accepted to ACL 2021.
+* 30-04-2021: give a talk in the [CVG group](https://www.cvg.unibe.ch/home/) of Universität Bern.
+* 01-04-2021: Received the ICLR 2021 Outstanding Paper Award.
 06-05-2021: will serve as the guest-editor for one section on recsys of frontiers of big data.
 19-04-2021: invited to be the senior PC member for CIKM short paper.
 10-3-2021: One paper is accepted by NAACL 2021.
