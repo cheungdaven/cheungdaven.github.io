@@ -18,6 +18,8 @@ I am now working for Amazon. Prior to that, I was a postdoctoral researcher in t
 
 I am a recipient of the [outstanding paper award](https://iclr-conf.medium.com/announcing-iclr-2021-outstanding-paper-awards-9ae0514734ab) at ICLR 2021 and the [best paper award runner-up](https://www.wsdm-conference.org/2020/#:~:text=WSDM%202020%20Best%20Paper%20Award,Seshadhri.) at WSDM 2020.  If you’d like to know more about my work or explore opportunities for collaboration, please get in touch! 
 
+Check out the opensource project I contributed to: <a class="github-button" href="https://github.com/cheungdaven/deeprec" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star cheungdaven/deeprec on GitHub">DeepRec</a> <a class="github-button" href="[https://github.com/cheungdaven/deeprec](https://github.com/d2l-ai/d2l-en)" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star d2l-ai/d2l-en on GitHub">D2L</a>
+
 
 <!--Hi, I am Shuai Zhang, a postdoctoral researcher at the department of computer science in ETH Zurich. I received my PhD degree in computer science from UNSW Sydney and a bachelor degree from Nanjing University. My primary research interests lie in recommender systems, knowledge graphs, graph related applications, etc. My past internships were with Amazon AI and Tencent. I have won the ICLR 2021 outstanding paper award and best paper award (runner-up) at WSDM 2020. His research interests include but not limited to recommender systems, knowledge graph, and deep learning. He is PC member and reviewer for a number of top conferences and journals. You can find my publications on my [Google Scholar page](https://scholar.google.com.au/citations?user=PPjdxlcAAAAJ&hl=en).-->
 
