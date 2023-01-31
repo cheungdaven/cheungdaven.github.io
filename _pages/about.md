@@ -13,12 +13,25 @@ redirect_from:
 <!--[Curriculum Vitae](files/Shuai_Curriculum.pdf). -->
 
 
-I am now working for Amazon. Prior to that, I was a postdoctoral researcher in the department of computer science at ETH Zurich, where I was supervised by [Prof. Ce Zhang](https://ds3lab.inf.ethz.ch/members/ce-zhang.html). I received my PhD degree from the school of computer science and engineering of the University of New South Wales, under the supervision of [Prof. Lina Yao](https://www.linayao.com/). I obtained my Bachelor degree from Nanjing University.  
+I am now at Amazon Web Services AI working on deep learning related research, opensource projects, and products. Prior to that, I was a postdoctoral researcher in the department of computer science at ETH Zurich, where I was supervised by [Prof. Ce Zhang](https://ds3lab.inf.ethz.ch/members/ce-zhang.html). I received my PhD degree from the school of computer science and engineering of the University of New South Wales, under the supervision of [Prof. Lina Yao](https://www.linayao.com/). I obtained my Bachelor degree from Nanjing University.  
 
 I am a recipient of the [outstanding paper award](https://iclr-conf.medium.com/announcing-iclr-2021-outstanding-paper-awards-9ae0514734ab) at ICLR 2021 and the [best paper award runner-up](https://www.wsdm-conference.org/2020/#:~:text=WSDM%202020%20Best%20Paper%20Award,Seshadhri.) at WSDM 2020.  If you’d like to know more about my work or explore opportunities for collaboration, please get in touch! 
 
-Check out the opensource projects I contributed to: <br>
+I am a contributor for the following opensource projects: <br>
 <a class="github-button" href="https://github.com/awslabs/autogluon" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star awslabs/autogluon on GitHub">AutoGluon</a> <a class="github-button" href="https://github.com/d2l-ai/d2l-en" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star d2l-ai/d2l-en on GitHub">Dive into Deep Learning</a> <a class="github-button" href="https://github.com/cheungdaven/deeprec" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star cheungdaven/deeprec on GitHub">DeepRec</a> 
+
+I am also actively serving as reviewer/program committe member for AI conferences (NeurIPS, ICML, ICLR, ACL, etc.) and journals.
+
+======
+Supervision Experience
+======
+Alfonso Amayuelas (Now PhD student at UCSB), master thesis (results are published at ICLR 2022), EPFL, co-supervised with Prof. Ce Zhang
+Maksimov Anton, master thesis, ETH zurich, co-supervised with Prof. Ce Zhang
+Yannick Wattenberg, bachelor thesis, ETH zurich, co-supervised with Prof. Ce Zhang
+Aurelio Negri, bachelor thesis, ETH zurich, co-supervised with Prof. Ce Zhang
+Clémence Lanfranchi, semester project, ETH zurich, co-supervised with Prof. Ce Zhang
+
+
 
 
 <!--Hi, I am Shuai Zhang, a postdoctoral researcher at the department of computer science in ETH Zurich. I received my PhD degree in computer science from UNSW Sydney and a bachelor degree from Nanjing University. My primary research interests lie in recommender systems, knowledge graphs, graph related applications, etc. My past internships were with Amazon AI and Tencent. I have won the ICLR 2021 outstanding paper award and best paper award (runner-up) at WSDM 2020. His research interests include but not limited to recommender systems, knowledge graph, and deep learning. He is PC member and reviewer for a number of top conferences and journals. You can find my publications on my [Google Scholar page](https://scholar.google.com.au/citations?user=PPjdxlcAAAAJ&hl=en).-->
