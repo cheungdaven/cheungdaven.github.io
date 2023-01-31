@@ -20,18 +20,15 @@ I am a recipient of the [outstanding paper award](https://iclr-conf.medium.com/a
 I am a contributor for the following opensource projects: <br>
 <a class="github-button" href="https://github.com/awslabs/autogluon" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star awslabs/autogluon on GitHub">AutoGluon</a> <a class="github-button" href="https://github.com/d2l-ai/d2l-en" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star d2l-ai/d2l-en on GitHub">Dive into Deep Learning</a> <a class="github-button" href="https://github.com/cheungdaven/deeprec" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star cheungdaven/deeprec on GitHub">DeepRec</a> 
 
+
+### Mentoring and Services
+* Alfonso Amayuelas (Now PhD student at UCSB), master thesis (results are published at ICLR 2022), EPFL, co-supervise with Prof. Ce Zhang
+* Maksimov Anton, master thesis, ETH zurich, co-supervise with Prof. Ce Zhang
+* Yannick Wattenberg, bachelor thesis, ETH zurich, co-supervise with Prof. Ce Zhang
+* Aurelio Negri, bachelor thesis, ETH zurich, co-supervise with Prof. Ce Zhang
+* Clémence Lanfranchi, semester project, ETH zurich, co-supervise with Prof. Ce Zhang
+
 I am also actively serving as reviewer/program committe member for AI conferences (NeurIPS, ICML, ICLR, ACL, etc.) and journals.
-
-======
-Supervision Experience
-======
-Alfonso Amayuelas (Now PhD student at UCSB), master thesis (results are published at ICLR 2022), EPFL, co-supervised with Prof. Ce Zhang
-Maksimov Anton, master thesis, ETH zurich, co-supervised with Prof. Ce Zhang
-Yannick Wattenberg, bachelor thesis, ETH zurich, co-supervised with Prof. Ce Zhang
-Aurelio Negri, bachelor thesis, ETH zurich, co-supervised with Prof. Ce Zhang
-Clémence Lanfranchi, semester project, ETH zurich, co-supervised with Prof. Ce Zhang
-
-
 
 
 <!--Hi, I am Shuai Zhang, a postdoctoral researcher at the department of computer science in ETH Zurich. I received my PhD degree in computer science from UNSW Sydney and a bachelor degree from Nanjing University. My primary research interests lie in recommender systems, knowledge graphs, graph related applications, etc. My past internships were with Amazon AI and Tencent. I have won the ICLR 2021 outstanding paper award and best paper award (runner-up) at WSDM 2020. His research interests include but not limited to recommender systems, knowledge graph, and deep learning. He is PC member and reviewer for a number of top conferences and journals. You can find my publications on my [Google Scholar page](https://scholar.google.com.au/citations?user=PPjdxlcAAAAJ&hl=en).-->
