@@ -22,7 +22,7 @@ I am a contributor for the following opensource projects: <br>
 
 
 ### Mentoring and Services
-* Shuhuai Ren, PhD intern at AWS, PKU, co-advisor with Aston Zhang, Yi Zhu, Shuai Zheng.
+* Shuhuai Ren, PhD intern at AWS, PKU.
 * Alfonso Amayuelas (Now PhD student at UCSB), master thesis (results are published at ICLR 2022), EPFL, co-advisor with Prof. Ce Zhang
 * Maksimov Anton, master thesis, ETH zurich, co-advisor with Prof. Ce Zhang
 * Yannick Wattenberg, bachelor thesis, ETH zurich, co-advisor with Prof. Ce Zhang
