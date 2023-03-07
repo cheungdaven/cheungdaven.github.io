@@ -23,6 +23,7 @@ I am a contributor for the following opensource projects: <br>
 
 ### Mentoring and Services
 * Yixin Chen, PhD intern at AWS, The Chinese University of Hong Kong.
+* Zihan Zhong, Graduate intern at AWS, Tsinghua University. 
 * Shuhuai Ren, PhD intern at AWS, Peking University.
 * Alfonso Amayuelas (Now PhD student at UCSB), master thesis (results are published at ICLR 2022), EPFL, co-advisor with Prof. Ce Zhang
 * Maksimov Anton, master thesis, ETH zurich, co-advisor with Prof. Ce Zhang
