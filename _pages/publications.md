@@ -26,6 +26,19 @@ Aston Zhang, Yi Tay, <b>Shuai Zhang</b>, Alvin Chan, Anh Tuan Luu, Siu Hui, Jie 
 <b>Shuai Zhang</b>\*, Yi Tay\*, Lina Yao, Qi Liu. <br>
 <i>NeurIPS 2019</i>. <i>Thirty-third Conference on Neural Information Processing Systems [code](https://github.com/cheungdaven/QuatE)</i>. 
 
+## Natural Language Processing
+
+<b>[On Orthogonality Constraints of Transformers](https://aclanthology.org/2021.acl-short.48.pdf)</b><br>
+Aston Zhang, Alvin Chan, Yi Tay, Jie Fu, Shuohang Wang, <b>Shuai Zhang</b>, Huajie Shao, Shuochao Yao, Roy Ka-Wei Lee. <br>
+<i>ACL 2021 (Short Paper)</i>. <i>The 59th Annual Meeting of the Association for Computational Linguistics</i>. <br>
+
+<b>[Knowledge Router: Learning Disentangled Representations for Knowledge Graphs](https://www.aclweb.org/anthology/2021.naacl-main.1/)</b><br>
+<b>Shuai Zhang</b>, Xi Rao, Yi Tay and Ce Zhang. <br>
+<i>NAACL 2021</i>. <i>Annual Conference of the North American Chapter of the Association for Computational Linguistics</i>. <br>
+
+<b>[Lightweight and Efficient Neural Natural Language Processing with Quaternion Networks](https://arxiv.org/abs/1906.04393)</b> <br>
+Yi Tay, Aston Zhang, Anh Tuan Luu, Jinfeng Rao, <b>Shuai Zhang</b>, Shuohang Wang, Jie Fu and Siu Cheung Hui.<br>
+<i>ACL 2019</i>. <i>The 57th Annual Meeting of the Association for Computational Linguistics [code](https://github.com/vanzytay/QuaternionTransformers)</i>. 
 
 ## Data Mining and Web Search
 
@@ -93,20 +106,7 @@ Mingming Li, <b>Shuai Zhang</b>, Fuqing Zhu, Liangjun Zang, Wanhui Qian, Jizhong
 <b>Shuai Zhang</b>, Lina Yao, Aixin Sun, Sen Wang. Guodong Long. Manqing Dong.<br>
 <i>IJCAI 2018</i>. <i>The 27th International Joint Conference on Artificial Intelligence</i>.
 
-## Natural Language Processing
 
-<b>[On Orthogonality Constraints of Transformers](https://aclanthology.org/2021.acl-short.48.pdf)</b><br>
-Aston Zhang, Alvin Chan, Yi Tay, Jie Fu, Shuohang Wang, <b>Shuai Zhang</b>, Huajie Shao, Shuochao Yao, Roy Ka-Wei Lee. <br>
-<i>ACL 2021 (Short Paper)</i>. <i>The 59th Annual Meeting of the Association for Computational Linguistics</i>. <br>
-
-
-<b>[Knowledge Router: Learning Disentangled Representations for Knowledge Graphs](https://www.aclweb.org/anthology/2021.naacl-main.1/)</b><br>
-<b>Shuai Zhang</b>, Xi Rao, Yi Tay and Ce Zhang. <br>
-<i>NAACL 2021</i>. <i>Annual Conference of the North American Chapter of the Association for Computational Linguistics</i>. <br>
-
-<b>[Lightweight and Efficient Neural Natural Language Processing with Quaternion Networks](https://arxiv.org/abs/1906.04393)</b> <br>
-Yi Tay, Aston Zhang, Anh Tuan Luu, Jinfeng Rao, <b>Shuai Zhang</b>, Shuohang Wang, Jie Fu and Siu Cheung Hui.<br>
-<i>ACL 2019</i>. <i>The 57th Annual Meeting of the Association for Computational Linguistics [code](https://github.com/vanzytay/QuaternionTransformers)</i>. 
 
 ## Journal Publications
 <b>[Gradient Boosted Neural Decision Forest](https://ieeexplore.ieee.org/document/9645204)</b> <br> 
@@ -138,19 +138,20 @@ Xiang Zhang, Lina Yao, <b>Shuai Zhang</b>, Salil S. Kanhere, Quan Z. Sheng, Yunh
 
 
 ## Book Chapters
+
+<b>[Recommender Systems](), 2023, to appear</b><br>
+<b>Shuai Zhang</b>, Aston Zhang, Lina Yao. <br>
+<i>Book Title: Handbook of Machine Learning for Data Science. </i> <br>
+<i>the 3rd edition of the the Data Mining and Knowledge Discovery Handbook.</i> <br>
+<i>Book Editors: Oded Z. Maimon, Lior Rokach. </i> <br>
+<i> Publisher: Springer. </i>
+
 <b>[Deep Learning for Recommender Systems](https://link.springer.com/chapter/10.1007/978-1-0716-2197-4_5), 2022</b><br>
 <b>Shuai Zhang</b>, Yi Tay, Lina Yao, Aixin Sun, Ce Zhang. <br>
 <i>Book Title: [the 3rd edition of the recommender systems handbook](https://link.springer.com/book/10.1007/978-1-0716-2197-4). </i> <br>
 <i>Book Editors: Francesco Ricci, Lior Rokach, Bracha Shapira. </i> <br>
 <i> Publisher: Springer. </i>
 
-
-<b>[Recommender Systems](), 2021, to appear</b><br>
-<b>Shuai Zhang</b>, Aston Zhang, Lina Yao. <br>
-<i>Book Title: Handbook of Machine Learning for Data Science. </i> <br>
-<i>the 3rd edition of the the Data Mining and Knowledge Discovery Handbook.</i> <br>
-<i>Book Editors: Oded Z. Maimon, Lior Rokach. </i> <br>
-<i> Publisher: Springer. </i>
 
 <b>[Deep Neural Networks meet Recommender Systems](https://digital-library.theiet.org/content/books/10.1049/pbpc035g_ch2), 2019</b><br>
 <b>Shuai Zhang</b>, Lina Yao, Aixin Sun, Guibing Guo, Xiwei Xu, Liming Zhu. <br>
