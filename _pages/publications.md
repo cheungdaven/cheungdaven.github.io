@@ -48,7 +48,7 @@ Aston Zhang, Yi Tay, Yikang Shen, Alvin Chan,  <b>Shuai Zhang</b> <br>
 <i>NAACL 2021</i>. <i>Annual Conference of the North American Chapter of the Association for Computational Linguistics</i>. <br>
 
 <b>[Quaternion Knowledge Graph Embeddings](https://arxiv.org/abs/1904.10281)</b><br>
-<b>Shuai Zhang</b>\*, Yi Tay\*, Lina Yao, Qi Liu. <br>
+<b>Shuai Zhang</b>, Yi Tay, Lina Yao, Qi Liu. <br>
 <i>NeurIPS 2019</i>. <i>Thirty-third Conference on Neural Information Processing Systems [code](https://github.com/cheungdaven/QuatE)</i>. 
 
 
