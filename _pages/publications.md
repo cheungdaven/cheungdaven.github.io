@@ -54,7 +54,7 @@ Aston Zhang, Yi Tay, Yikang Shen, Alvin Chan,  <b>Shuai Zhang</b> <br>
 
 
 
-## Web Search and Recommender Systems
+## Recommender Systems
 
 <b>[Recommender Systems](), 2023, to appear</b><br>
 <b>Shuai Zhang</b>, Aston Zhang, Lina Yao. <br>
