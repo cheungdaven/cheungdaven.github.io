@@ -24,7 +24,7 @@ Yi Tay, Aston Zhang, Anh Tuan Luu, Jinfeng Rao, <b>Shuai Zhang</b>, Shuohang Wan
 <i>ACL 2019</i>. <i>The 57th Annual Meeting of the Association for Computational Linguistics [code](https://github.com/vanzytay/QuaternionTransformers)</i>. 
 
 
-## Graphs and Sequences Representation Learning
+## Graphs and Sequences Modeling
 
 <b>[xFraud: Explainable Fraud Transaction Detection](https://shuaizhang.tech/files/Ebay_XFraud_VLDB_CRC.pdf)</b> <br> 
 Susie Xi Rao, <b>Shuai Zhang</b>, Zhichao Han, Zitao Zhang, Wei Min, Zhiyao Chen, Yinan Shan, Yang Zhao, Ce Zhang.<br>
