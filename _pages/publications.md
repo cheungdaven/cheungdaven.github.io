@@ -12,7 +12,7 @@ Shuhuai Ren, Aston Zhang, Yi Zhu, <b>Shuai Zhang</b>, Shuai Zheng, Mu Li, Alex S
 
 <b>[Rethinking Document-Level Relation Extraction: A Reality Check]() </b> <br> 
 Jing Li, Yequan Wang, <b>Shuai Zhang</b>, Min Zhang.<br>
-<i>ACL 2023 Findings</i>. <i>The 61st Annual Meeting of the Association for Computational Linguistics</i> <br>
+<i>ACL 2023 Findings</i>. <i>The 61st Annual Meeting of the Association for Computational Linguistics.</i> <br>
 
 <b>[Beyond Fully-Connected Layers with Quaternions: Parameterization of Hypercomplex Multiplications with 1/n Parameters](https://openreview.net/forum?id=rcQdycl0zyk)</b><br>
 Aston Zhang, Yi Tay, <b>Shuai Zhang</b>, Alvin Chan, Anh Tuan Luu, Siu Hui, Jie Fu. <br>
