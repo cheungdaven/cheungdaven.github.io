@@ -21,7 +21,7 @@ I am a recipient of the [outstanding paper award](https://iclr-conf.medium.com/a
 
 
 ### Mentoring and Services
-* Pei Chen, PhD intern at AWS, Texas A\&M University.
+* Pei Chen, PhD intern at AWS, Texas A&M University.
 * Yixin Chen, PhD intern at AWS, The Chinese University of Hong Kong.
 * Shuhuai Ren, PhD intern at AWS, Peking University.
 * Alfonso Amayuelas (Now PhD student at UCSB), master thesis (results are published at ICLR 2022), EPFL, co-advisor with Prof. Ce Zhang
