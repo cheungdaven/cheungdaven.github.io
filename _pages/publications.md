@@ -46,7 +46,6 @@ Xupeng Miao\*, Nezihe Merve Gurel\*, Wentao Zhang\*, Zhichao Han, Bo Li, Wei Min
 Aston Zhang, Yi Tay, Yikang Shen, Alvin Chan,  <b>Shuai Zhang</b> <br>
 <i>NeurIPS 2021 </i>. <i>Thirty-fifth Conference on Neural Information Processing Systems</i>. [code](https://github.com/astonzhang/Self-IRU) <br> 
 
-
 <b>[Knowledge Router: Learning Disentangled Representations for Knowledge Graphs](https://www.aclweb.org/anthology/2021.naacl-main.1/)</b><br>
 <b>Shuai Zhang</b>, Xi Rao, Yi Tay and Ce Zhang. <br>
 <i>NAACL 2021</i>. <i>Annual Conference of the North American Chapter of the Association for Computational Linguistics</i>. <br>
@@ -58,7 +57,11 @@ Aston Zhang, Yi Tay, Yikang Shen, Alvin Chan,  <b>Shuai Zhang</b> <br>
 
 
 
-## Recommender Systems
+## Information Retrieval and Recommender Systems
+<b>[Co-design Hardware and Algorithm for Vector Search]()</b> <br> 
+Wenqi Jiang*, Shigang Li, Yu Zhu, Johannes de Fine Licht, Zhenhao He, Runbin Shi, Cedric Renggli, <b>Shuai Zhang</b>, Theodoros Rekatsinas, Torsten Hoefler, Gustavo Alonso.  <br>
+<i>SC 2023 </i> <i>International Conference for High Performance Computing, Networking, Storage, and Analysis</i>. <br> 
+
 
 <b>[Recommender Systems](), 2023, to appear</b><br>
 <b>Shuai Zhang</b>, Aston Zhang, Lina Yao. <br>
