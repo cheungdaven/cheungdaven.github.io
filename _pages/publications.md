@@ -60,7 +60,7 @@ Aston Zhang, Yi Tay, Yikang Shen, Alvin Chan,  <b>Shuai Zhang</b> <br>
 ## Information Retrieval and Recommender Systems
 <b>[Co-design Hardware and Algorithm for Vector Search]()</b> <br> 
 Wenqi Jiang*, Shigang Li, Yu Zhu, Johannes de Fine Licht, Zhenhao He, Runbin Shi, Cedric Renggli, <b>Shuai Zhang</b>, Theodoros Rekatsinas, Torsten Hoefler, Gustavo Alonso.  <br>
-<i>SC 2023 </i> <i>International Conference for High Performance Computing, Networking, Storage, and Analysis</i>. <br> 
+<i>SC 2023 </i>. <i>International Conference for High Performance Computing, Networking, Storage, and Analysis</i>. <br> 
 
 
 <b>[Recommender Systems](), 2023, to appear</b><br>
