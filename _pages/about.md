@@ -18,7 +18,7 @@ I am now at Amazon Web Services AI working on deep learning related research, op
 I am a recipient of the 
 * [Best paper award runner-up](https://www.wsdm-conference.org/2020/#:~:text=WSDM%202020%20Best%20Paper%20Award,Seshadhri.) at WSDM 2020
 * [Outstanding paper award](https://iclr-conf.medium.com/announcing-iclr-2021-outstanding-paper-awards-9ae0514734ab) at ICLR 2021
-* Best conference paper award at Global Marketing Conference ([GMC](https://2023gmc.imweb.me/)) 2023.
+* [Best of the Best conference paper award](https://shuaizhang.tech/images/gmc_best_paper_award.jpg) at Global Marketing Conference ([GMC](https://2023gmc.imweb.me/)) 2023.
 
 
 
