@@ -15,7 +15,10 @@ redirect_from:
 
 I am now at Amazon Web Services AI working on deep learning related research, opensource projects, and products. Prior to that, I was a postdoctoral researcher in the department of computer science at ETH Zurich, where I was advised by [Prof. Ce Zhang](https://zhangce.github.io/). I received my PhD degree from the school of computer science and engineering of the University of New South Wales, advised by [Prof. Lina Yao](https://www.linayao.com/). I obtained a Bachelor degree from Nanjing University.  
 
-I am a recipient of the [outstanding paper award](https://iclr-conf.medium.com/announcing-iclr-2021-outstanding-paper-awards-9ae0514734ab) at ICLR 2021 and the [best paper award runner-up](https://www.wsdm-conference.org/2020/#:~:text=WSDM%202020%20Best%20Paper%20Award,Seshadhri.) at WSDM 2020.  
+I am a recipient of the 
+* [Best paper award runner-up](https://www.wsdm-conference.org/2020/#:~:text=WSDM%202020%20Best%20Paper%20Award,Seshadhri.) at WSDM 2020
+* [Outstanding paper award](https://iclr-conf.medium.com/announcing-iclr-2021-outstanding-paper-awards-9ae0514734ab) at ICLR 2021
+* [Best conference paper award] at Global Marketing Conference ([GMC](https://2023gmc.imweb.me/)) 2023.
 
 
 
