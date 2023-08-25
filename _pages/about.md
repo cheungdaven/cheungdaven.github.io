@@ -25,7 +25,7 @@ I am a recipient of the
 
 ### Mentoring and Services
 * Bingqing Song, applied scientist intern, PhD student from University of Minnesota.
-* Shikai Qiu, applied scientist intern, PhD student from NYU.
+* Shikai Qiu, applied scientist intern, PhD student from New York University.
 * Zitian Chen,  applied scientist intern, PhD student from University of Massachusetts Amherst.
 * Pei Chen, applied scientist intern, PhD student from Texas A&M University.
 * Yixin Chen, applied scientist intern, PhD student from The Chinese University of Hong Kong.
