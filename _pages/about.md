@@ -24,9 +24,12 @@ I am a recipient of the
 
 
 ### Mentoring and Services
-* Pei Chen, PhD intern at AWS, Texas A&M University.
-* Yixin Chen, PhD intern at AWS, The Chinese University of Hong Kong.
-* Shuhuai Ren, PhD intern at AWS, Peking University.
+* Bingqing Song, applied scientist intern, PhD student from University of Minnesota.
+* Shikai Qiu, applied scientist intern, PhD student from NYU.
+* Zitian Chen,  applied scientist intern, PhD student from University of Massachusetts Amherst.
+* Pei Chen, applied scientist intern, PhD student from Texas A&M University.
+* Yixin Chen, applied scientist intern, PhD student from The Chinese University of Hong Kong.
+* Shuhuai Ren, applied scientist intern, PhD student from Peking University.
 * Alfonso Amayuelas (Now PhD student at UCSB), master thesis (results are published at ICLR 2022), EPFL, co-advisor with Prof. Ce Zhang
 * Maksimov Anton, master thesis, ETH zurich, co-advisor with Prof. Ce Zhang
 * Yannick Wattenberg, bachelor thesis, ETH zurich, co-advisor with Prof. Ce Zhang
