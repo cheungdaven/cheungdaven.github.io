@@ -22,37 +22,37 @@ I am a recipient of the
 
 
 ### Selected Publications
-<b>[Prompt Pre-Training with Twenty-Thousand Classes for Open-Vocabulary Visual Recognition](https://arxiv.org/abs/2304.04704)</b> <br> 
+[Prompt Pre-Training with Twenty-Thousand Classes for Open-Vocabulary Visual Recognition](https://arxiv.org/abs/2304.04704) <br> 
 Shuhuai Ren, Aston Zhang, Yi Zhu, <b>Shuai Zhang</b>, Shuai Zheng, Mu Li, Alex Smola, Xu Sun.<br>
 <i>Preprint 2023 </i>. [code](https://github.com/amazon-science/prompt-pretraining) <br> 
 
-<b>[xFraud: Explainable Fraud Transaction Detection](https://shuaizhang.tech/files/Ebay_XFraud_VLDB_CRC.pdf)</b> <br> 
+[xFraud: Explainable Fraud Transaction Detection](https://shuaizhang.tech/files/Ebay_XFraud_VLDB_CRC.pdf) <br> 
 Susie Xi Rao, <b>Shuai Zhang</b>, Zhichao Han, Zitao Zhang, Wei Min, Zhiyao Chen, Yinan Shan, Yang Zhao, Ce Zhang.<br>
 <i>VLDB 2022 </i>. <i>The Proceedings of the VLDB Endowment</i>. [code](https://github.com/eBay/xFraud)<br> 
 
-<b>[Neural Methods for Logical Reasoning over Knowledge Graphs]()</b> <br> 
+[Neural Methods for Logical Reasoning over Knowledge Graphs]() <br> 
 Alfonso Amayuelas, <b>Shuai Zhang</b>, Susie Xi Rao, Ce Zhang.<br>
 <i>ICLR 2022 </i>. <i>The International Conference on Learning Representations</i>. [code](https://github.com/amayuelas/NNKGReasoning) <br> 
 
-<b>[Beyond Fully-Connected Layers with Quaternions: Parameterization of Hypercomplex Multiplications with 1/n Parameters](https://openreview.net/forum?id=rcQdycl0zyk)</b><br>
+[Beyond Fully-Connected Layers with Quaternions: Parameterization of Hypercomplex Multiplications with 1/n Parameters](https://openreview.net/forum?id=rcQdycl0zyk)<br>
 Aston Zhang, Yi Tay, <b>Shuai Zhang</b>, Alvin Chan, Anh Tuan Luu, Siu Hui, Jie Fu. <br>
 <i>ICLR 2021</i>. <i>The International Conference on Learning Representations</i>. [code](https://github.com/astonzhang/Parameterization-of-Hypercomplex-Multiplications)<br>
 <b><span style="color:red">Outstanding Paper Award.</span></b>
 
-<b>[Self-Instantiated Recurrent Units with Dynamic Soft Recursion](https://papers.nips.cc/paper/2021/file/3341f6f048384ec73a7ba2e77d2db48b-Paper.pdf)</b> <br> 
+[Self-Instantiated Recurrent Units with Dynamic Soft Recursion](https://papers.nips.cc/paper/2021/file/3341f6f048384ec73a7ba2e77d2db48b-Paper.pdf) <br> 
 Aston Zhang, Yi Tay, Yikang Shen, Alvin Chan,  <b>Shuai Zhang</b> <br>
 <i>NeurIPS 2021 </i>. <i>Thirty-fifth Conference on Neural Information Processing Systems</i>. [code](https://github.com/astonzhang/Self-IRU) <br> 
 
-<b>[HyperML: A Boosting Metric Learning Approach in Hyperbolic Space for Recommender Systems](https://arxiv.org/abs/1809.01703)</b><br>
+[HyperML: A Boosting Metric Learning Approach in Hyperbolic Space for Recommender Systems](https://arxiv.org/abs/1809.01703)<br>
 Lucas Vinh Tran,  Yi Tay, <b>Shuai Zhang</b>, Gao Cong, Xiaoli Li. <br>
 <i>WSDM 2020</i>. <i>The 13th ACM International Conference on Web Search and Data Mining</i>. <br>
 <b><span style="color:red">Best Paper Award Runner-up.</span></b>
 
-<b>[Quaternion Knowledge Graph Embeddings](https://arxiv.org/abs/1904.10281)</b><br>
+[Quaternion Knowledge Graph Embeddings](https://arxiv.org/abs/1904.10281)<br>
 <b>Shuai Zhang</b>, Yi Tay, Lina Yao, Qi Liu. <br>
 <i>NeurIPS 2019</i>. <i>Thirty-third Conference on Neural Information Processing Systems [code](https://github.com/cheungdaven/QuatE)</i>. 
 
-<b>[Lightweight and Efficient Neural Natural Language Processing with Quaternion Networks](https://arxiv.org/abs/1906.04393)</b> <br>
+[Lightweight and Efficient Neural Natural Language Processing with Quaternion Networks](https://arxiv.org/abs/1906.04393) <br>
 Yi Tay, Aston Zhang, Anh Tuan Luu, Jinfeng Rao, <b>Shuai Zhang</b>, Shuohang Wang, Jie Fu and Siu Cheung Hui.<br>
 <i>ACL 2019</i>. <i>The 57th Annual Meeting of the Association for Computational Linguistics [code](https://github.com/vanzytay/QuaternionTransformers)</i>. 
 
