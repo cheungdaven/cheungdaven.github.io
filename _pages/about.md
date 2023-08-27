@@ -12,7 +12,7 @@ redirect_from:
 
 <!--[Curriculum Vitae](files/Shuai_Curriculum.pdf). -->
 
-I am currently employed at Amazon Web Services AI, focusing on foundation models related research, opensource projects, and products. Before this role, I was a postdoctoral researcher in the Department of Computer Science at [ETH Zurich](https://ethz.ch/en.html), under the guidance of [Prof. Ce Zhang](https://zhangce.github.io/). I received a PhD degree from the school of computer science and engineering of [UNSW Sydney](https://www.unsw.edu.au/homepage/), advised by [Prof. Lina Yao](https://www.linayao.com/), and my PhD study is also supported by the [CSIRO](https://www.csiro.au/en/)'s Data61 PhD Scholarship. I obtained a Bachelor degree from Nanjing University.  
+I am currently employed at Amazon Web Services AI, focusing on foundation models related research, opensource projects, and products. Before this role, I was a postdoctoral researcher in the Department of Computer Science at [ETH Zurich](https://ethz.ch/en.html), under the guidance of [Prof. Ce Zhang](https://zhangce.github.io/). I received a PhD degree from the school of computer science and engineering of [UNSW Sydney](https://www.unsw.edu.au/homepage/), advised by [Prof. Lina Yao](https://www.linayao.com/), and my PhD study is also supported by [CSIRO](https://www.csiro.au/en/)'s Data61 PhD Scholarship. I obtained a Bachelor degree from Nanjing University.  
 
 I am a recipient of the 
 * [Best paper award runner-up](https://www.wsdm-conference.org/2020/#:~:text=WSDM%202020%20Best%20Paper%20Award,Seshadhri.) at WSDM 2020
