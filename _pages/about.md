@@ -21,9 +21,15 @@ I am a recipient of the
 
 
 ### Selected Publications
+
 [Prompt Pre-Training with Twenty-Thousand Classes for Open-Vocabulary Visual Recognition](https://arxiv.org/abs/2304.04704) <br> 
 Shuhuai Ren, Aston Zhang, Yi Zhu, <b>Shuai Zhang</b>, Shuai Zheng, Mu Li, Alex Smola, Xu Sun.<br>
-<i>Preprint 2023 </i>. [code](https://github.com/amazon-science/prompt-pretraining) <br> 
+<i>NeurIPS 2023 </i>. <i>Thirty-seventh Conference on Neural Information Processing Systems</i>. [code](https://github.com/amazon-science/prompt-pretraining) <br> 
+
+
+[Data-Informed Geometric Space Selection]() <br> 
+<b>Shuai Zhang</b>, Wenqi Jiang.<br>
+<i>NeurIPS 2023 </i>. <i>Thirty-seventh Conference on Neural Information Processing Systems</i>. <br> 
 
 [xFraud: Explainable Fraud Transaction Detection](https://shuaizhang.tech/files/Ebay_XFraud_VLDB_CRC.pdf) <br> 
 Susie Xi Rao, <b>Shuai Zhang</b>, Zhichao Han, Zitao Zhang, Wei Min, Zhiyao Chen, Yinan Shan, Yang Zhao, Ce Zhang.<br>
