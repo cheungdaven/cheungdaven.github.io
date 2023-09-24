@@ -65,6 +65,7 @@ Yi Tay, Aston Zhang, Anh Tuan Luu, Jinfeng Rao, <b>Shuai Zhang</b>, Shuohang Wan
 
 
 ### Mentoring and Services
+* Dyah Adila, applied scientist intern, PhD student from UW-Madison.
 * Zitian Chen,  applied scientist intern, PhD student from University of Massachusetts Amherst.
 * Pei Chen, applied scientist intern, PhD student from Texas A&M University.
 * Yixin Chen, applied scientist intern, PhD student from the Chinese University of Hong Kong.
