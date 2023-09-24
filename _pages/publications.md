@@ -31,7 +31,7 @@ Yi Tay, Aston Zhang, Anh Tuan Luu, Jinfeng Rao, <b>Shuai Zhang</b>, Shuohang Wan
 ## Graphs and Sequences Modeling
 
 
-<b>[Data-Informed Geometric Space Selection]() <br> 
+<b>[Data-Informed Geometric Space Selection]() </b> <br> 
 <b>Shuai Zhang</b>, Wenqi Jiang.<br>
 <i>NeurIPS 2023 </i>. <i>Thirty-seventh Conference on Neural Information Processing Systems</i>. <br> 
 
