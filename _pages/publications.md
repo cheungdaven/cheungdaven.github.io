@@ -8,7 +8,7 @@ author_profile: true
 ## Transformers and Foundation Models
 <b>[Prompt Pre-Training with Twenty-Thousand Classes for Open-Vocabulary Visual Recognition](https://arxiv.org/abs/2304.04704)</b> <br> 
 Shuhuai Ren, Aston Zhang, Yi Zhu, <b>Shuai Zhang</b>, Shuai Zheng, Mu Li, Alex Smola, Xu Sun.<br>
-<i>Preprint 2023 </i>. [code](https://github.com/amazon-science/prompt-pretraining) <br> 
+<i>NeurIPS 2023 </i>. <i>Thirty-seventh Conference on Neural Information Processing Systems</i>. [code](https://github.com/amazon-science/prompt-pretraining) <br> 
 
 <b>[Rethinking Document-Level Relation Extraction: A Reality Check](https://arxiv.org/abs/2306.08953) </b> <br> 
 Jing Li, Yequan Wang, <b>Shuai Zhang</b>, Min Zhang.<br>
