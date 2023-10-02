@@ -8,9 +8,9 @@ redirect_from:
 ---
 
 
+I am fortunate to have hosted/co-hosted or mentored with the following interns and students.
 
 ## Interns
-I am fortunate to have hosted/co-hosted or mentored with the following interns and students.
 * Wenqi Jiang, applied scientist intern, PhD student from ETH Zurich.
 * Dyah Adila, applied scientist intern, PhD student from UW-Madison.
 * Zitian Chen,  applied scientist intern, PhD student from University of Massachusetts Amherst.
