@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am fortunate to have hosted/co-hosted or mentored with the following interns and students.
+I am fortunate to have hosted/co-hosted or mentored the following interns and students.
 
 ## Interns
 * Wenqi Jiang, applied scientist intern, PhD student from ETH Zurich.
