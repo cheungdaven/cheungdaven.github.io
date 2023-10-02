@@ -8,6 +8,9 @@ main:
   
   - title: "Services"
     url: /services/
+
+  - title: "Mentoring"
+     url: /mentoring/
     
  # - title: "Projects"
  #   url: /projects/
