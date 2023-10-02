@@ -26,11 +26,6 @@ I am a recipient of the
 Shuhuai Ren, Aston Zhang, Yi Zhu, <b>Shuai Zhang</b>, Shuai Zheng, Mu Li, Alex Smola, Xu Sun.<br>
 <i>NeurIPS 2023 </i>. <i>Thirty-seventh Conference on Neural Information Processing Systems</i>. [code](https://github.com/amazon-science/prompt-pretraining) <br> 
 
-
-[Data-Informed Geometric Space Selection]() <br> 
-<b>Shuai Zhang</b>, Wenqi Jiang.<br>
-<i>NeurIPS 2023 </i>. <i>Thirty-seventh Conference on Neural Information Processing Systems</i>. <br> 
-
 [xFraud: Explainable Fraud Transaction Detection](https://shuaizhang.tech/files/Ebay_XFraud_VLDB_CRC.pdf) <br> 
 Susie Xi Rao, <b>Shuai Zhang</b>, Zhichao Han, Zitao Zhang, Wei Min, Zhiyao Chen, Yinan Shan, Yang Zhao, Ce Zhang.<br>
 <i>VLDB 2022 </i>. <i>The Proceedings of the VLDB Endowment</i>. [code](https://github.com/eBay/xFraud)<br> 
@@ -64,24 +59,16 @@ Yi Tay, Aston Zhang, Anh Tuan Luu, Jinfeng Rao, <b>Shuai Zhang</b>, Shuohang Wan
 
 
 
-### Mentoring and Services
-* Dyah Adila, applied scientist intern, PhD student from UW-Madison.
-* Zitian Chen,  applied scientist intern, PhD student from University of Massachusetts Amherst.
-* Pei Chen, applied scientist intern, PhD student from Texas A&M University.
-* Yixin Chen, applied scientist intern, PhD student from the Chinese University of Hong Kong.
-* Bingqing Song, applied scientist intern, PhD student from University of Minnesota.
-* Shikai Qiu, applied scientist intern, PhD student from New York University.
-* Shuhuai Ren, applied scientist intern, PhD student from Peking University.
-* Alfonso Amayuelas (Now PhD student at UCSB), master thesis (results are published at ICLR 2022), EPFL, co-advisor with Prof. Ce Zhang
-* Maksimov Anton, master thesis, ETH zurich, co-advisor with Prof. Ce Zhang
-* Yannick Wattenberg, bachelor thesis, ETH zurich, co-advisor with Prof. Ce Zhang
-* Aurelio Negri, bachelor thesis, ETH zurich, co-advisor with Prof. Ce Zhang
-* Clémence Lanfranchi, semester project, ETH zurich, co-advisor with Prof. Ce Zhang
-
-I am actively serving as reviewer/program committe member for AI conferences (NeurIPS, ICML, ICLR, ACL, etc.) and journals.
 
 
 <!--Hi, I am Shuai Zhang, a postdoctoral researcher at the department of computer science in ETH Zurich. I received my PhD degree in computer science from UNSW Sydney and a bachelor degree from Nanjing University. My primary research interests lie in recommender systems, knowledge graphs, graph related applications, etc. My past internships were with Amazon AI and Tencent. I have won the ICLR 2021 outstanding paper award and best paper award (runner-up) at WSDM 2020. His research interests include but not limited to recommender systems, knowledge graph, and deep learning. He is PC member and reviewer for a number of top conferences and journals. You can find my publications on my [Google Scholar page](https://scholar.google.com.au/citations?user=PPjdxlcAAAAJ&hl=en).
+
+[Data-Informed Geometric Space Selection]() <br> 
+<b>Shuai Zhang</b>, Wenqi Jiang.<br>
+<i>NeurIPS 2023 </i>. <i>Thirty-seventh Conference on Neural Information Processing Systems</i>. <br> 
+
+
+I am actively serving as reviewer/program committe member for AI conferences (NeurIPS, ICML, ICLR, ACL, etc.) and journals.
 
 I am a contributor for the following opensource projects: <br>
 <a class="github-button" href="https://github.com/awslabs/autogluon" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star awslabs/autogluon on GitHub">AutoGluon</a> <a class="github-button" href="https://github.com/d2l-ai/d2l-en" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star d2l-ai/d2l-en on GitHub">Dive into Deep Learning</a> <a class="github-button" href="https://github.com/cheungdaven/deeprec" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star cheungdaven/deeprec on GitHub">DeepRec</a> 
