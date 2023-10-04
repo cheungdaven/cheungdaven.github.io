@@ -10,8 +10,9 @@ redirect_from:
 
 I am fortunate to have hosted/co-hosted or mentored the following interns and students.
 
-## Interns
+## AWS Interns
 * Wenqi Jiang, applied scientist intern, PhD student from ETH Zurich.
+* Dheeraj Baby, applied scientist intern, PhD student from UC Santa Barbara.
 * Dyah Adila, applied scientist intern, PhD student from UW-Madison.
 * Zitian Chen,  applied scientist intern, PhD student from University of Massachusetts Amherst.
 * Pei Chen, applied scientist intern, PhD student from Texas A&M University.
