@@ -6,7 +6,7 @@ author_profile: true
 [(Google Scholar Profile)](https://scholar.google.com.au/citations?user=PPjdxlcAAAAJ&hl=en) [(Full List at DBLP)](https://dblp.uni-trier.de/pers/hd/z/Zhang_0007:Shuai)
 
 ## Transformers and Foundation Models
-<b>[Lightweight In-Context Tuning for Multimodal Unified Models]([https://arxiv.org/abs/2304.04704](https://arxiv.org/abs/2310.05109)</b> <br> 
+<b>[Lightweight In-Context Tuning for Multimodal Unified Models](https://arxiv.org/abs/2310.05109)</b> <br> 
 Yixin Chen, <b>Shuai Zhang</b>, Boran Han, Jiaya Jia.<br>
 <i>Preprint</i>. <br> 
 
