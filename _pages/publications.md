@@ -6,6 +6,10 @@ author_profile: true
 [(Google Scholar Profile)](https://scholar.google.com.au/citations?user=PPjdxlcAAAAJ&hl=en) [(Full List at DBLP)](https://dblp.uni-trier.de/pers/hd/z/Zhang_0007:Shuai)
 
 ## Transformers and Foundation Models
+<b>[Lightweight In-Context Tuning for Multimodal Unified Models]([https://arxiv.org/abs/2304.04704](https://arxiv.org/abs/2310.05109))</b> <br> 
+Yixin Chen, <b>Shuai Zhang</b>, Boran Han, Jiaya Jia.<br>
+<i>Preprint</i>. <br> 
+
 <b>[Prompt Pre-Training with Twenty-Thousand Classes for Open-Vocabulary Visual Recognition](https://arxiv.org/abs/2304.04704)</b> <br> 
 Shuhuai Ren, Aston Zhang, Yi Zhu, <b>Shuai Zhang</b>, Shuai Zheng, Mu Li, Alex Smola, Xu Sun.<br>
 <i>NeurIPS 2023 </i>. <i>Thirty-seventh Conference on Neural Information Processing Systems</i>. [code](https://github.com/amazon-science/prompt-pretraining) <br> 
