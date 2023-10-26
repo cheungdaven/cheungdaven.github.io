@@ -62,10 +62,6 @@ Lucas Vinh Tran,  Yi Tay, <b>Shuai Zhang</b>, Gao Cong, Xiaoli Li. <br>
 <b>Shuai Zhang</b>, Yi Tay, Lina Yao, Qi Liu. <br>
 <i>NeurIPS 2019</i>. <i>Thirty-third Conference on Neural Information Processing Systems [code](https://github.com/cheungdaven/QuatE)</i>. 
 
-[Lightweight and Efficient Neural Natural Language Processing with Quaternion Networks](https://arxiv.org/abs/1906.04393) <br>
-Yi Tay, Aston Zhang, Anh Tuan Luu, Jinfeng Rao, <b>Shuai Zhang</b>, Shuohang Wang, Jie Fu and Siu Cheung Hui.<br>
-<i>ACL 2019</i>. <i>The 57th Annual Meeting of the Association for Computational Linguistics [code](https://github.com/vanzytay/QuaternionTransformers)</i>. 
-
 
 
 
