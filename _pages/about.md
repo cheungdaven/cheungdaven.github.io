@@ -31,7 +31,7 @@ Yixin Chen, <b>Shuai Zhang</b>, Boran Han, Jiaya Jia.<br>
 Shuhuai Ren, Aston Zhang, Yi Zhu, <b>Shuai Zhang</b>, Shuai Zheng, Mu Li, Alex Smola, Xu Sun.<br>
 <i>NeurIPS 2023 </i>. <i>Thirty-seventh Conference on Neural Information Processing Systems</i>. [code](https://github.com/amazon-science/prompt-pretraining) <br> 
 
-<b>[Data-Informed Geometric Space Selection]() </b> <br> 
+[Data-Informed Geometric Space Selection]() <br> 
 <b>Shuai Zhang</b>, Wenqi Jiang.<br>
 <i>NeurIPS 2023 </i>. <i>Thirty-seventh Conference on Neural Information Processing Systems</i>. <br> 
 
