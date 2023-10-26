@@ -31,6 +31,11 @@ Yixin Chen, <b>Shuai Zhang</b>, Boran Han, Jiaya Jia.<br>
 Shuhuai Ren, Aston Zhang, Yi Zhu, <b>Shuai Zhang</b>, Shuai Zheng, Mu Li, Alex Smola, Xu Sun.<br>
 <i>NeurIPS 2023 </i>. <i>Thirty-seventh Conference on Neural Information Processing Systems</i>. [code](https://github.com/amazon-science/prompt-pretraining) <br> 
 
+<b>[Data-Informed Geometric Space Selection]() </b> <br> 
+<b>Shuai Zhang</b>, Wenqi Jiang.<br>
+<i>NeurIPS 2023 </i>. <i>Thirty-seventh Conference on Neural Information Processing Systems</i>. <br> 
+
+
 [xFraud: Explainable Fraud Transaction Detection](https://shuaizhang.tech/files/Ebay_XFraud_VLDB_CRC.pdf) <br> 
 Susie Xi Rao, <b>Shuai Zhang</b>, Zhichao Han, Zitao Zhang, Wei Min, Zhiyao Chen, Yinan Shan, Yang Zhao, Ce Zhang.<br>
 <i>VLDB 2022 </i>. <i>The Proceedings of the VLDB Endowment</i>. [code](https://github.com/eBay/xFraud)<br> 
