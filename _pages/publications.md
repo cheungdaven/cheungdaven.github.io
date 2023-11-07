@@ -13,7 +13,7 @@ Yixin Chen, <b>Shuai Zhang</b>, Boran Han, Jiaya Jia.<br>
 
 <b>[Data Augmentation for Object Detection via Controllable Diffusion Models]()</b> <br>
 Haoyang Fang, Boran Han*, <b>Shuai Zhang*</b>, Su Zhou*, Cuixiong Hu, Wen-Ming Ye. <br>
-<i>WACV 2024 </i>. <i>TIEEE/CVF Winter Conference on Applications of Computer Vision.</i>. 
+<i>WACV 2024 </i>. <i>TIEEE/CVF Winter Conference on Applications of Computer Vision.</i><br>
 
 <b>[Prompt Pre-Training with Twenty-Thousand Classes for Open-Vocabulary Visual Recognition](https://arxiv.org/abs/2304.04704)</b> <br> 
 Shuhuai Ren, Aston Zhang, Yi Zhu, <b>Shuai Zhang</b>, Shuai Zheng, Mu Li, Alex Smola, Xu Sun.<br>
