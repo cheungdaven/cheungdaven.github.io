@@ -22,6 +22,9 @@ I am a recipient of the
 
 ### Selected Publications
 
+[CaMML: Context-Aware Multimodal Learner for Large Models](https://arxiv.org/abs/2401.03149) <br> 
+Yixin Chen*, <b>Shuai Zhang*</b>, Boran Han, Tong He, Bo Li.<br>
+<i>Preprint</i>. <br> 
 
 [Lightweight In-Context Tuning for Multimodal Unified Models](https://arxiv.org/abs/2310.05109) <br> 
 Yixin Chen, <b>Shuai Zhang</b>, Boran Han, Jiaya Jia.<br>
