@@ -6,6 +6,11 @@ author_profile: true
 [(Google Scholar Profile)](https://scholar.google.com.au/citations?user=PPjdxlcAAAAJ&hl=en) [(Full List at DBLP)](https://dblp.uni-trier.de/pers/hd/z/Zhang_0007:Shuai)
 
 ## Transformers and Foundation Models
+
+[CaMML: Context-Aware Multimodal Learner for Large Models](https://arxiv.org/abs/2401.03149) <br> 
+Yixin Chen*, <b>Shuai Zhang*</b>, Boran Han, Tong He, Bo Li.<br>
+<i>Preprint</i>. [website](https://camml-project.github.io/) <br> 
+
 <b>[Lightweight In-Context Tuning for Multimodal Unified Models](https://arxiv.org/abs/2310.05109)</b> <br> 
 Yixin Chen, <b>Shuai Zhang</b>, Boran Han, Jiaya Jia.<br>
 <i>Preprint</i>. <br> 
