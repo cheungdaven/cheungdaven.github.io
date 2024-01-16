@@ -7,7 +7,7 @@ author_profile: true
 
 ## Transformers and Foundation Models
 
-[CaMML: Context-Aware Multimodal Learner for Large Models](https://arxiv.org/abs/2401.03149) <br> 
+<b>[CaMML: Context-Aware Multimodal Learner for Large Models](https://arxiv.org/abs/2401.03149)</b> <br> 
 Yixin Chen*, <b>Shuai Zhang*</b>, Boran Han, Tong He, Bo Li.<br>
 <i>Preprint</i>. [website](https://camml-project.github.io/) <br> 
 
