@@ -38,7 +38,7 @@ Shuhuai Ren, Aston Zhang, Yi Zhu, <b>Shuai Zhang</b>, Shuai Zheng, Mu Li, Alex S
 
 [Data-Informed Geometric Space Selection]() <br> 
 <b>Shuai Zhang</b>, Wenqi Jiang.<br>
-<i>NeurIPS 2023 </i>. <i>Thirty-seventh Conference on Neural Information Processing Systems</i>. <br> 
+<i>NeurIPS 2023 </i>. <i>Thirty-seventh Conference on Neural Information Processing Systems [code](https://openreview.net/attachment?id=fpElyckKkd&name=supplementary_material)</i>. <br> 
 
 
 [xFraud: Explainable Fraud Transaction Detection](https://shuaizhang.tech/files/Ebay_XFraud_VLDB_CRC.pdf) <br> 
@@ -60,8 +60,11 @@ Aston Zhang, Yi Tay, Yikang Shen, Alvin Chan,  <b>Shuai Zhang</b> <br>
 
 [HyperML: A Boosting Metric Learning Approach in Hyperbolic Space for Recommender Systems](https://arxiv.org/abs/1809.01703)<br>
 Lucas Vinh Tran,  Yi Tay, <b>Shuai Zhang</b>, Gao Cong, Xiaoli Li. <br>
-<i>WSDM 2020</i>. <i>The 13th ACM International Conference on Web Search and Data Mining</i>. <br>
+<i>WSDM 2020</i>. <i>The 13th ACM International Conference on Web Search and Data Mining [code](https://github.com/alibaba/Curvature-Learning-Framework/tree/main/examples/hyperml)</i>. <br>
 <b><span style="color:red">Best Paper Award Runner-up.</span></b>
+
+
+
 
 [Quaternion Knowledge Graph Embeddings](https://arxiv.org/abs/1904.10281)<br>
 <b>Shuai Zhang</b>, Yi Tay, Lina Yao, Qi Liu. <br>
