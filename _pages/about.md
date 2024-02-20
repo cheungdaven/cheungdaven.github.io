@@ -31,10 +31,6 @@ My primary areas of focus include LLMs, multimodal foundation models, informatio
 Yixin Chen*, <b>Shuai Zhang*</b>, Boran Han, Tong He, Bo Li.<br>
 <i>Preprint</i>. [website](https://camml-project.github.io/) <br> 
 
-[Foundation Models for Recommender Systems: A Survey and New Perspectives](https://arxiv.org/abs/2402.11143) <br> 
-Chengkai Huang, Tong Yu, Kaige Xie, <b>Shuai Zhang</b>, Lina Yao, Julian McAuley.<br>
-<i>Preprint</i>.<br> 
-
 
 [Lightweight In-Context Tuning for Multimodal Unified Models](https://arxiv.org/abs/2310.05109) <br> 
 Yixin Chen, <b>Shuai Zhang</b>, Boran Han, Jiaya Jia.<br>
