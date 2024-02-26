@@ -20,6 +20,9 @@ Chengkai Huang, Tong Yu, Kaige Xie, <b>Shuai Zhang</b>, Lina Yao, Julian McAuley
 Yixin Chen, <b>Shuai Zhang</b>, Boran Han, Jiaya Jia.<br>
 <i>Preprint</i>. <br> 
 
+<b>[Bridging Sources in Geospatial Sensing with Cross Sensor Pretraining]() </b> <br> 
+Boran Han, <b>Shuai Zhang*</b>, Xingjian Shi, Markus Reichstein<br>
+<i>CVPR 2024</i>. The IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR) <br> 
 
 <b>[Data Augmentation for Object Detection via Controllable Diffusion Models]()</b> <br>
 Haoyang Fang, Boran Han*, <b>Shuai Zhang*</b>, Su Zhou*, Cuixiong Hu, Wen-Ming Ye. <br>
