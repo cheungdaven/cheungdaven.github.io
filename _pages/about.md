@@ -32,7 +32,7 @@ Yixin Chen*, <b>Shuai Zhang*</b>, Boran Han, Tong He, Bo Li.<br>
 <i>Preprint</i>. [website](https://camml-project.github.io/) <br> 
 
 [Bridging Sources in Geospatial Sensing with Cross Sensor Pretraining]() <br> 
-Boran Han, <b>Shuai Zhang*</b>, Xingjian Shi, Markus Reichstein<br>
+Boran Han, <b>Shuai Zhang</b>, Xingjian Shi, Markus Reichstein<br>
 <i>CVPR 2024</i>. The IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR) <br> 
 
 [Prompt Pre-Training with Twenty-Thousand Classes for Open-Vocabulary Visual Recognition](https://arxiv.org/abs/2304.04704) <br> 
