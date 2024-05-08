@@ -13,12 +13,12 @@ I am fortunate to have hosted/co-hosted or mentored the following interns and st
 ## AWS Interns
 * Wenqi Jiang, applied scientist intern, PhD student from ETH Zurich.
 * Dheeraj Baby, applied scientist intern, PhD student from UC Santa Barbara.
-* Dyah Adila, applied scientist intern, PhD student from UW-Madison.
+* Dyah Adila, applied scientist intern, PhD student from UW-Madison. (Results published at ICML 2024).
 * Zitian Chen,  applied scientist intern, PhD student from University of Massachusetts Amherst.
-* Pei Chen, applied scientist intern, PhD student from Texas A&M University.
+* Pei Chen, applied scientist intern, PhD student from Texas A&M University. (Results published at NAACL 2024).
 * Yixin Chen, applied scientist intern, PhD student from the Chinese University of Hong Kong.
 * Bingqing Song, applied scientist intern, PhD student from University of Minnesota.
-* Shikai Qiu, applied scientist intern, PhD student from New York University.
+* Shikai Qiu, applied scientist intern, PhD student from New York University. (Results published at ICML 2024).
 * Shuhuai Ren, applied scientist intern, PhD student from Peking University. (Results published at NeurIPS 2023).
 
 ## Thesis Mentor
