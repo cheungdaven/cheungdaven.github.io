@@ -29,11 +29,11 @@ My primary areas of focus include LLMs, multimodal foundation models, informatio
 
 [CaMML: Context-Aware Multimodal Learner for Large Models](https://arxiv.org/abs/2401.03149) <br> 
 Yixin Chen*, <b>Shuai Zhang*</b>, Boran Han, Tong He, Bo Li.<br>
-<i>Preprint</i>. [website](https://camml-project.github.io/) <br> 
+<i>Preprint</i>. [website](https://camml-project.github.io/) <be> 
 
 [Bridging Sources in Geospatial Sensing with Cross Sensor Pretraining]() <br> 
 Boran Han, <b>Shuai Zhang</b>, Xingjian Shi, Markus Reichstein<br>
-<i>CVPR 2024</i>. The IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR) <br> 
+<i>CVPR 2024</i>. The IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR) <br>  
 
 [Prompt Pre-Training with Twenty-Thousand Classes for Open-Vocabulary Visual Recognition](https://arxiv.org/abs/2304.04704) <br> 
 Shuhuai Ren, Aston Zhang, Yi Zhu, <b>Shuai Zhang</b>, Shuai Zheng, Mu Li, Alex Smola, Xu Sun.<br>
@@ -89,6 +89,14 @@ I am actively serving as reviewer/program committe member for AI conferences (Ne
 
 I am a contributor for the following opensource projects: <br>
 <a class="github-button" href="https://github.com/awslabs/autogluon" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star awslabs/autogluon on GitHub">AutoGluon</a> <a class="github-button" href="https://github.com/d2l-ai/d2l-en" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star d2l-ai/d2l-en on GitHub">Dive into Deep Learning</a> <a class="github-button" href="https://github.com/cheungdaven/deeprec" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star cheungdaven/deeprec on GitHub">DeepRec</a> 
+
+[Discovering Bias in Latent Space: An Unsupervised Debiasing Approach]() <br> 
+Dyah Adila,<b>Shuai Zhang</b>, Boran Han, Bernie Wang<br>
+<i>ICML 2024</i>. Forty-first International Conference on Machine Learning <br> 
+
+[Transferring Knowledge From Large Foundation Models to Small Downstream Models]() <br> 
+Shikai Qiu, Boran Han, Danielle C. Maddix,  <b>Shuai Zhang</b>, Bernie Wang, Andrew Gordon Wilson<br>
+<i>ICML 2024</i>. Forty-first International Conference on Machine Learning <br> 
 
 -->
 
