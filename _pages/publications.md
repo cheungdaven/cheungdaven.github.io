@@ -9,16 +9,7 @@ author_profile: true
 
 <b>[CaMML: Context-Aware Multimodal Learner for Large Models](https://arxiv.org/abs/2401.03149)</b> <br> 
 Yixin Chen*, <b>Shuai Zhang*</b>, Boran Han, Tong He, Bo Li.<br>
-<i>Preprint</i>. [website](https://camml-project.github.io/) <br> 
-
-
-<b>[Foundation Models for Recommender Systems: A Survey and New Perspectives](https://arxiv.org/abs/2402.11143)</b> <br> 
-Chengkai Huang, Tong Yu, Kaige Xie, <b>Shuai Zhang</b>, Lina Yao, Julian McAuley.<br>
-<i>Preprint</i>.<br> 
-
-<b>[Lightweight In-Context Tuning for Multimodal Unified Models](https://arxiv.org/abs/2310.05109)</b> <br> 
-Yixin Chen, <b>Shuai Zhang</b>, Boran Han, Jiaya Jia.<br>
-<i>Preprint</i>. <br> 
+<i>ACL 2024</i> The 62nd Annual Meeting of the Association for Computational Linguistics. [website](https://camml-project.github.io/) <br> 
 
 <b>[Bridging Sources in Geospatial Sensing with Cross Sensor Pretraining]() </b> <br> 
 Boran Han, <b>Shuai Zhang</b>, Xingjian Shi, Markus Reichstein<br>
@@ -48,6 +39,14 @@ Aston Zhang, Alvin Chan, Yi Tay, Jie Fu, Shuohang Wang, <b>Shuai Zhang</b>, Huaj
 <b>[Lightweight and Efficient Neural Natural Language Processing with Quaternion Networks](https://arxiv.org/abs/1906.04393)</b> <br>
 Yi Tay, Aston Zhang, Anh Tuan Luu, Jinfeng Rao, <b>Shuai Zhang</b>, Shuohang Wang, Jie Fu and Siu Cheung Hui.<br>
 <i>ACL 2019</i>. <i>The 57th Annual Meeting of the Association for Computational Linguistics [code](https://github.com/vanzytay/QuaternionTransformers)</i>. 
+
+<b>[Foundation Models for Recommender Systems: A Survey and New Perspectives](https://arxiv.org/abs/2402.11143)</b> <br> 
+Chengkai Huang, Tong Yu, Kaige Xie, <b>Shuai Zhang</b>, Lina Yao, Julian McAuley.<br>
+<i>Preprint</i>.<br> 
+
+<b>[Lightweight In-Context Tuning for Multimodal Unified Models](https://arxiv.org/abs/2310.05109)</b> <br> 
+Yixin Chen, <b>Shuai Zhang</b>, Boran Han, Jiaya Jia.<br>
+<i>Preprint</i>. <br> 
 
 
 ## Graphs and Sequences Modeling
