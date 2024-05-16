@@ -29,7 +29,7 @@ My primary areas of focus include LLMs, multimodal foundation models, informatio
 
 [CaMML: Context-Aware Multimodal Learner for Large Models](https://arxiv.org/abs/2401.03149) <br> 
 Yixin Chen*, <b>Shuai Zhang*</b>, Boran Han, Tong He, Bo Li.<br>
-<i>Preprint</i>. [website](https://camml-project.github.io/) <be> 
+<i>ACL 2024</i>. The 62nd Annual Meeting of the Association for Computational Linguistics. [website](https://camml-project.github.io/) <br> 
 
 [Bridging Sources in Geospatial Sensing with Cross Sensor Pretraining]() <br> 
 Boran Han, <b>Shuai Zhang</b>, Xingjian Shi, Markus Reichstein<br>
