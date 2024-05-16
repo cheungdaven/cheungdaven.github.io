@@ -16,7 +16,7 @@ I am fortunate to have hosted/co-hosted or mentored the following interns and st
 * Dyah Adila, applied scientist intern, PhD student from UW-Madison. (Results published at ICML 2024).
 * Zitian Chen,  applied scientist intern, PhD student from University of Massachusetts Amherst.
 * Pei Chen, applied scientist intern, PhD student from Texas A&M University. (Results published at NAACL 2024).
-* Yixin Chen, applied scientist intern, PhD student from the Chinese University of Hong Kong.
+* Yixin Chen, applied scientist intern, PhD student from the Chinese University of Hong Kong. (Results published at ACL 2024).
 * Bingqing Song, applied scientist intern, PhD student from University of Minnesota.
 * Shikai Qiu, applied scientist intern, PhD student from New York University. (Results published at ICML 2024).
 * Shuhuai Ren, applied scientist intern, PhD student from Peking University. (Results published at NeurIPS 2023).
