@@ -7,9 +7,15 @@ author_profile: true
 
 ## Transformers and Foundation Models
 
+
 <b>[CaMML: Context-Aware Multimodal Learner for Large Models](https://arxiv.org/abs/2401.03149)</b> <br> 
 Yixin Chen*, <b>Shuai Zhang*</b>, Boran Han, Tong He, Bo Li.<br>
 <i>ACL 2024</i>. The 62nd Annual Meeting of the Association for Computational Linguistics. [website](https://camml-project.github.io/) <br> 
+
+
+<b>[Transferring Knowledge From Large Foundation Models to Small Downstream Models]()</b> <br> 
+Shikai Qiu, Boran Han, Danielle C. Maddix, <b>Shuai Zhang</b>, Bernie Wang, Andrew Gordon Wilson .<br>
+<i>ICML 2024</i>. Forty-first International Conference on Machine Learning.<br> 
 
 <b>[Bridging Sources in Geospatial Sensing with Cross Sensor Pretraining]() </b> <br> 
 Boran Han, <b>Shuai Zhang</b>, Xingjian Shi, Markus Reichstein<br>
