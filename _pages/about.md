@@ -31,6 +31,10 @@ My primary areas of focus include LLMs, multimodal foundation models, informatio
 Yixin Chen*, <b>Shuai Zhang*</b>, Boran Han, Tong He, Bo Li.<br>
 <i>ACL 2024</i>. The 62nd Annual Meeting of the Association for Computational Linguistics. [website](https://camml-project.github.io/) <br> 
 
+[Transferring Knowledge From Large Foundation Models to Small Downstream Models]() <br> 
+Shikai Qiu, Boran Han, Danielle C. Maddix, <b>Shuai Zhang</b>, Bernie Wang, Andrew Gordon Wilson.<br>
+<i>ICML 2024</i>. Forty-first International Conference on Machine Learning.<br> 
+
 [Bridging Sources in Geospatial Sensing with Cross Sensor Pretraining]() <br> 
 Boran Han, <b>Shuai Zhang</b>, Xingjian Shi, Markus Reichstein<br>
 <i>CVPR 2024</i>. The IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR) <br>  
