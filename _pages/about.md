@@ -27,6 +27,11 @@ My primary areas of focus include LLMs, multimodal foundation models, informatio
 
 ### Selected Publications
 
+[PipeRAG: Fast Retrieval-Augmented Generation via Algorithm-System Co-design](https://arxiv.org/abs/2403.05676) <br> 
+Wenqi Jiang, <b>Shuai Zhang</b>, Boran Han, Jie Wang, Bernie Wang, Tim Kraska.<br>
+<i>Preprint, https://arxiv.org/abs/2403.05676</i>.
+
+
 [CaMML: Context-Aware Multimodal Learner for Large Models](https://arxiv.org/abs/2401.03149) <br> 
 Yixin Chen*, <b>Shuai Zhang*</b>, Boran Han, Tong He, Bo Li.<br>
 <i>ACL 2024</i>. The 62nd Annual Meeting of the Association for Computational Linguistics. [website](https://camml-project.github.io/) <br> 
