@@ -31,6 +31,9 @@ My primary areas of focus include LLMs, multimodal foundation models, informatio
 Wenqi Jiang, <b>Shuai Zhang</b>, Boran Han, Jie Wang, Bernie Wang, Tim Kraska.<br>
 <i>Preprint, 2024</i>.
 
+[Discovering Bias in Latent Space: An Unsupervised Debiasing Approach]() <br> 
+Dyah Adila, <b>Shuai Zhang</b>, Boran Han, Bernie Wang.<br>
+<i>ICML 2024</i>. Forty-first International Conference on Machine Learning.<br> 
 
 [CaMML: Context-Aware Multimodal Learner for Large Models](https://arxiv.org/abs/2401.03149) <br> 
 Yixin Chen*, <b>Shuai Zhang*</b>, Boran Han, Tong He, Bo Li.<br>
