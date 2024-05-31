@@ -15,6 +15,9 @@ Wenqi Jiang, <b>Shuai Zhang</b>, Boran Han, Jie Wang, Bernie Wang, Tim Kraska.<b
 Yixin Chen*, <b>Shuai Zhang*</b>, Boran Han, Tong He, Bo Li.<br>
 <i>ACL 2024</i>. The 62nd Annual Meeting of the Association for Computational Linguistics. [website](https://camml-project.github.io/) <br> 
 
+<b>[CoMM: Collaborative Multi-Agent, Multi-Reasoning-Path Prompting for Complex Problem Solving](https://arxiv.org/pdf/2404.17729)</b> <br> 
+Pei (Patrick) Chen,Boran Han, <b>Shuai Zhang</b> (Corresponding Author).<br>
+<i>NAACL 2024 Findings</i>. 2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics . [code](https://github.com/amazon-science/comm-prompt) <br> 
 
 <b>[Transferring Knowledge From Large Foundation Models to Small Downstream Models]()</b> <br> 
 Shikai Qiu, Boran Han, Danielle C. Maddix, <b>Shuai Zhang</b>, Bernie Wang, Andrew Gordon Wilson .<br>
