@@ -45,7 +45,10 @@ Shikai Qiu, Boran Han, Danielle C. Maddix, <b>Shuai Zhang</b>, Bernie Wang, Andr
 
 [Bridging Sources in Geospatial Sensing with Cross Sensor Pretraining]() <br> 
 Boran Han, <b>Shuai Zhang</b>, Xingjian Shi, Markus Reichstein<br>
-<i>CVPR 2024</i>. The IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR) <br>  
+<i>CVPR 2024</i>. The IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR), [code](https://github.com/boranhan/geospatial_foundation_models) <br> 
+
+
+
 
 [Prompt Pre-Training with Twenty-Thousand Classes for Open-Vocabulary Visual Recognition](https://arxiv.org/abs/2304.04704) <br> 
 Shuhuai Ren, Aston Zhang, Yi Zhu, <b>Shuai Zhang</b>, Shuai Zheng, Mu Li, Alex Smola, Xu Sun.<br>
