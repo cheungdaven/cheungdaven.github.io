@@ -106,6 +106,13 @@ Aston Zhang, Yi Tay, Yikang Shen, Alvin Chan,  <b>Shuai Zhang</b> <br>
 
 
 ## Information Retrieval and Recommender Systems
+<b>[Recommending the “right” Product to the “right” Customer with the “right” Message via Structural Neural Recommender](https://db.koreascholar.com/Article/Detail/422329)</b> <br> 
+<b>Shuai Zhang</b>, Lina Yao, Tianying Song, Jake An, Steven Lu <br>
+<i>GMC 2023 </i>. <i>Global Marketing Conference</i>. <br> 
+<b><span style="color:red">Best of the Best conference Paper Award.</span></b>
+
+
+
 <b>[Co-design Hardware and Algorithm for Vector Search]()</b> <br> 
 Wenqi Jiang*, Shigang Li, Yu Zhu, Johannes de Fine Licht, Zhenhao He, Runbin Shi, Cedric Renggli, <b>Shuai Zhang</b>, Theodoros Rekatsinas, Torsten Hoefler, Gustavo Alonso.  <br>
 <i>SC 2023 </i>. <i>International Conference for High Performance Computing, Networking, Storage, and Analysis</i>. <br> 
