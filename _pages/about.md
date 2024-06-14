@@ -31,7 +31,7 @@ My primary areas of focus include LLMs, multimodal foundation models, informatio
 Wenqi Jiang, <b>Shuai Zhang</b>, Boran Han, Jie Wang, Bernie Wang, Tim Kraska.<br>
 <i>Preprint, 2024</i>.
 
-[Discovering Bias in Latent Space: An Unsupervised Debiasing Approach]() <br> 
+[Discovering Bias in Latent Space: An Unsupervised Debiasing Approach](https://arxiv.org/abs/2406.03631) <br> 
 Dyah Adila, <b>Shuai Zhang</b>, Boran Han, Bernie Wang.<br>
 <i>ICML 2024</i>. Forty-first International Conference on Machine Learning.<br> 
 
@@ -39,9 +39,9 @@ Dyah Adila, <b>Shuai Zhang</b>, Boran Han, Bernie Wang.<br>
 Yixin Chen*, <b>Shuai Zhang*</b>, Boran Han, Tong He, Bo Li.<br>
 <i>ACL 2024</i>. The 62nd Annual Meeting of the Association for Computational Linguistics. [code](https://github.com/amazon-science/camml), [website](https://camml-project.github.io/) <br> 
 
-[Transferring Knowledge From Large Foundation Models to Small Downstream Models]() <br> 
+[Transferring Knowledge From Large Foundation Models to Small Downstream Models](https://arxiv.org/html/2406.07337v1) <br> 
 Shikai Qiu, Boran Han, Danielle C. Maddix, <b>Shuai Zhang</b>, Bernie Wang, Andrew Gordon Wilson.<br>
-<i>ICML 2024</i>. Forty-first International Conference on Machine Learning.<br> 
+<i>ICML 2024</i>. Forty-first International Conference on Machine Learning.[code](https://github.com/amazon-science/adaptive-feature-transfer) <br> 
 
 [Bridging Sources in Geospatial Sensing with Cross Sensor Pretraining]() <br> 
 Boran Han, <b>Shuai Zhang</b>, Xingjian Shi, Markus Reichstein<br>
