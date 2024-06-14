@@ -41,11 +41,11 @@ Yixin Chen*, <b>Shuai Zhang*</b>, Boran Han, Tong He, Bo Li.<br>
 
 [Transferring Knowledge From Large Foundation Models to Small Downstream Models](https://arxiv.org/html/2406.07337v1) <br> 
 Shikai Qiu, Boran Han, Danielle C. Maddix, <b>Shuai Zhang</b>, Bernie Wang, Andrew Gordon Wilson.<br>
-<i>ICML 2024</i>. Forty-first International Conference on Machine Learning.[code](https://github.com/amazon-science/adaptive-feature-transfer) <br> 
+<i>ICML 2024</i>. Forty-first International Conference on Machine Learning. [code](https://github.com/amazon-science/adaptive-feature-transfer) <br> 
 
 [Bridging Sources in Geospatial Sensing with Cross Sensor Pretraining]() <br> 
 Boran Han, <b>Shuai Zhang</b>, Xingjian Shi, Markus Reichstein<br>
-<i>CVPR 2024</i>. The IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR), [code](https://github.com/boranhan/geospatial_foundation_models) <br> 
+<i>CVPR 2024</i>. The IEEE / CVF Computer Vision and Pattern Recognition Conference. [code](https://github.com/boranhan/geospatial_foundation_models) <br> 
 
 
 
