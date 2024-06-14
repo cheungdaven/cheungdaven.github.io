@@ -16,24 +16,29 @@ Dyah Adila, <b>Shuai Zhang</b>, Boran Han, Bernie Wang.<br>
 
 <b>[CaMML: Context-Aware Multimodal Learner for Large Models](https://arxiv.org/abs/2401.03149)</b> <br> 
 Yixin Chen*, <b>Shuai Zhang*</b>, Boran Han, Tong He, Bo Li.<br>
-<i>ACL 2024</i>. The 62nd Annual Meeting of the Association for Computational Linguistics. [website](https://camml-project.github.io/) <br> 
+<i>ACL 2024</i>. The 62nd Annual Meeting of the Association for Computational Linguistics. [code](https://github.com/amazon-science/camml), [website](https://camml-project.github.io/) <br> 
 
 <b>[CoMM: Collaborative Multi-Agent, Multi-Reasoning-Path Prompting for Complex Problem Solving](https://arxiv.org/pdf/2404.17729)</b> <br> 
 Pei (Patrick) Chen,Boran Han, <b>Shuai Zhang</b> (Corresponding Author).<br>
 <i>NAACL 2024 Findings</i>. 2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics . [code](https://github.com/amazon-science/comm-prompt) <br> 
 
+https://github.com/amazon-science/comm-prompt
+
 <b>[Transferring Knowledge From Large Foundation Models to Small Downstream Models]()</b> <br> 
 Shikai Qiu, Boran Han, Danielle C. Maddix, <b>Shuai Zhang</b>, Bernie Wang, Andrew Gordon Wilson .<br>
-<i>ICML 2024</i>. Forty-first International Conference on Machine Learning.<br> 
+<i>ICML 2024</i>. Forty-first International Conference on Machine Learning. [code](https://github.com/amazon-science/adaptive-feature-transfer) <br> 
+
 
 <b>[Bridging Sources in Geospatial Sensing with Cross Sensor Pretraining]() </b> <br> 
 Boran Han, <b>Shuai Zhang</b>, Xingjian Shi, Markus Reichstein<br>
-<i>CVPR 2024</i>. The IEEE / CVF Computer Vision and Pattern Recognition Conference [code](https://github.com/boranhan/geospatial_foundation_models) <br> 
+<i>CVPR 2024</i>. The IEEE / CVF Computer Vision and Pattern Recognition Conference. [code](https://github.com/boranhan/geospatial_foundation_models) <br> 
 
 
 <b>[Data Augmentation for Object Detection via Controllable Diffusion Models]()</b> <br>
 Haoyang Fang, Boran Han*, <b>Shuai Zhang*</b>, Su Zhou*, Cuixiong Hu, Wen-Ming Ye. <br>
-<i>WACV 2024 </i>. <i>TIEEE/CVF Winter Conference on Applications of Computer Vision.</i><br>
+<i>WACV 2024 </i>. TIEEE/CVF Winter Conference on Applications of Computer Vision. [code](https://github.com/FANGAreNotGnu/ControlAug) <br> 
+
+
 
 <b>[Prompt Pre-Training with Twenty-Thousand Classes for Open-Vocabulary Visual Recognition](https://arxiv.org/abs/2304.04704)</b> <br> 
 Shuhuai Ren, Aston Zhang, Yi Zhu, <b>Shuai Zhang</b>, Shuai Zheng, Mu Li, Alex Smola, Xu Sun.<br>
