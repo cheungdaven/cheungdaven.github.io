@@ -22,7 +22,7 @@ Yixin Chen*, <b>Shuai Zhang*</b>, Boran Han, Tong He, Bo Li.<br>
 Pei (Patrick) Chen,Boran Han, <b>Shuai Zhang</b> (Corresponding Author).<br>
 <i>NAACL 2024 Findings</i>. 2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics . [code](https://github.com/amazon-science/comm-prompt) <br> 
 
-https://github.com/amazon-science/comm-prompt
+
 
 <b>[Transferring Knowledge From Large Foundation Models to Small Downstream Models]()</b> <br> 
 Shikai Qiu, Boran Han, Danielle C. Maddix, <b>Shuai Zhang</b>, Bernie Wang, Andrew Gordon Wilson .<br>
