@@ -21,7 +21,7 @@ My primary areas of focus include LLMs, multimodal foundation models, informatio
 * [Outstanding paper award](https://iclr-conf.medium.com/announcing-iclr-2021-outstanding-paper-awards-9ae0514734ab) at ICLR 2021
 * [Best of the Best conference paper award](https://shuaizhang.tech/images/gmc_best_paper_award.jpg) at Global Marketing Conference ([GMC](https://2023gmc.imweb.me/)) 2023.-->
 
-  
+  <!--
 #### Research Highlights
 
 ##### FM & Transformers: 
@@ -32,7 +32,7 @@ My primary areas of focus include LLMs, multimodal foundation models, informatio
 [HyperML](https://arxiv.org/abs/1809.01703) (WSDM 2020), [AttRec](https://github.com/cheungdaven/DeepRec).
 
 
-<!--
+
 ### Selected Publications
 
 [PipeRAG: Fast Retrieval-Augmented Generation via Algorithm-System Co-design](https://arxiv.org/abs/2403.05676) <br> 
