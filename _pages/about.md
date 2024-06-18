@@ -26,10 +26,10 @@ My primary areas of focus include LLMs, multimodal foundation models, informatio
 
 ##### FM & Transformers: 
 [CaMML](https://arxiv.org/abs/2401.03149) (ACL 2024), [SteerFair](https://arxiv.org/html/2406.03631v1) (ICML 2024), [PipeRAG](https://github.com/amazon-science/piperag), [AFT](https://arxiv.org/html/2406.07337v1) (ICML 2024), [prompt-pretraining](https://github.com/amazon-science/prompt-pretraining) (NeurIPS 2023), [PHM](https://arxiv.org/pdf/2102.08597) (ICLR 2021).
-##### Graph ML: 
-[QuatE](https://arxiv.org/abs/1904.10281) (NeurIPS 2019), [Switch Space](https://openreview.net/pdf?id=fpElyckKkd) (NeurIPS 2023), [xFraud](https://shuaizhang.tech/files/Ebay_XFraud_VLDB_CRC.pdf) (VLDB 2022), [NNKGReasoning](https://github.com/amayuelas/NNKGReasoning) (ICLR 2022).
+##### Graph & Sequence ML: 
+[QuatE](https://arxiv.org/abs/1904.10281) (NeurIPS 2019), [Switch Space](https://openreview.net/pdf?id=fpElyckKkd) (NeurIPS 2023), [xFraud](https://shuaizhang.tech/files/Ebay_XFraud_VLDB_CRC.pdf) (VLDB 2022), [NNKGReasoning](https://github.com/amayuelas/NNKGReasoning) (ICLR 2022), [Self-IRU](https://papers.nips.cc/paper/2021/file/3341f6f048384ec73a7ba2e77d2db48b-Paper.pdf) (NeurIPS 2021).
 ##### RecSys: 
-[HyperML](https://arxiv.org/abs/1809.01703) (WSDM 2020), [AttRec](https://github.com/cheungdaven/DeepRec)
+[HyperML](https://arxiv.org/abs/1809.01703) (WSDM 2020), [AttRec](https://github.com/cheungdaven/DeepRec).
 
 
 <!--
