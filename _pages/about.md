@@ -22,9 +22,12 @@ My primary areas of focus include LLMs, multimodal foundation models, informatio
 * [Best of the Best conference paper award](https://shuaizhang.tech/images/gmc_best_paper_award.jpg) at Global Marketing Conference ([GMC](https://2023gmc.imweb.me/)) 2023.-->
 
   
+#### Research Highlights
+
+##### RAG: [CaMML](https://arxiv.org/abs/2401.03149) (ACL 2024)
 
 
-
+<!--
 ### Selected Publications
 
 [PipeRAG: Fast Retrieval-Augmented Generation via Algorithm-System Co-design](https://arxiv.org/abs/2403.05676) <br> 
@@ -86,7 +89,7 @@ Lucas Vinh Tran,  Yi Tay, <b>Shuai Zhang</b>, Gao Cong, Xiaoli Li. <br>
 <i>NeurIPS 2019</i>. <i>Thirty-third Conference on Neural Information Processing Systems [code](https://github.com/cheungdaven/QuatE)</i>. 
 
 
-
+-->
 
 
 
