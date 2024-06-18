@@ -21,7 +21,7 @@ My primary areas of focus include LLMs, multimodal foundation models, informatio
 * [Outstanding paper award](https://iclr-conf.medium.com/announcing-iclr-2021-outstanding-paper-awards-9ae0514734ab) at ICLR 2021
 * [Best of the Best conference paper award](https://shuaizhang.tech/images/gmc_best_paper_award.jpg) at Global Marketing Conference ([GMC](https://2023gmc.imweb.me/)) 2023.-->
 
-  <!--
+<!--
 #### Research Highlights
 
 ##### FM & Transformers: 
@@ -30,9 +30,9 @@ My primary areas of focus include LLMs, multimodal foundation models, informatio
 [QuatE](https://arxiv.org/abs/1904.10281) (NeurIPS 2019), [Switch Space](https://openreview.net/pdf?id=fpElyckKkd) (NeurIPS 2023), [xFraud](https://shuaizhang.tech/files/Ebay_XFraud_VLDB_CRC.pdf) (VLDB 2022), [NNKGReasoning](https://github.com/amayuelas/NNKGReasoning) (ICLR 2022), [Self-IRU](https://papers.nips.cc/paper/2021/file/3341f6f048384ec73a7ba2e77d2db48b-Paper.pdf) (NeurIPS 2021).
 ##### RecSys: 
 [HyperML](https://arxiv.org/abs/1809.01703) (WSDM 2020), [AttRec](https://github.com/cheungdaven/DeepRec).
+-->
 
-
-
+<!--
 ### Selected Publications
 
 [PipeRAG: Fast Retrieval-Augmented Generation via Algorithm-System Co-design](https://arxiv.org/abs/2403.05676) <br> 
