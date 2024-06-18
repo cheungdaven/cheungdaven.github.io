@@ -19,8 +19,8 @@ My primary areas of focus include LLMs, multimodal foundation models, informatio
 
 Latest News
 ======
-* CFP: Risks, Opportunities, and Evaluation of Generative Models in Recommender Systems [ROEGEN@RecSys2024](https://roegen-recsys2024.github.io/)
-* [SteerFair](https://arxiv.org/html/2406.03631v1) and [AFT](https://arxiv.org/html/2406.07337v1) accepted at ICML 2024
+* CFP: Risks, Opportunities, and Evaluation of Generative Models in Recommender Systems [ROEGEN@RecSys2024](https://roegen-recsys2024.github.io/).
+* [SteerFair](https://arxiv.org/html/2406.03631v1) and [AFT](https://arxiv.org/html/2406.07337v1) accepted at ICML 2024.
 * [CaMML](https://arxiv.org/abs/2401.03149) is accepted at ACL 2024, check the [code](https://github.com/amazon-science/camml) out.
 
 
