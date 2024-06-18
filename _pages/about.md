@@ -16,6 +16,16 @@ I am currently employed at Amazon Web Services AI, focusing on foundation models
 
 My primary areas of focus include LLMs, multimodal foundation models, information retrieval, graph machine learning, etc. I am a recipient of the [Best Paper Award runner-up](https://www.wsdm-conference.org/2020/#:~:text=WSDM%202020%20Best%20Paper%20Award,Seshadhri.) at WSDM 2020, the [Outstanding Paper Award](https://iclr-conf.medium.com/announcing-iclr-2021-outstanding-paper-awards-9ae0514734ab) at ICLR 2021, and the [Best of the Best conference Paper Award](https://shuaizhang.tech/images/gmc_best_paper_award.jpg) at the Global Marketing Conference ([GMC](https://2023gmc.imweb.me/)) 2023. I have served as the area chair for ACL Rolling Review 2024, area chair for [WiML](https://sites.google.com/view/wiml2022/home) (Women in Machine Learning) Workshop at NeurIPS 2022, senior PC for IJCAI 2021 and CIKM 2021, session chair for CIKM 2021, and guest editor for Frontiers in Big Data. At Amazon, I have contributed to projects such as [Amazon Titan](https://aws.amazon.com/bedrock/titan/), [AutoGluon](https://auto.gluon.ai/), [D2L](https://d2l.ai/), and [OpenSearch](https://opensearch.org/). My research has garnered attention from the media, including coverage by outlets like [Australian Fintech](https://australianfintech.com.au/raiz-invest-partners-with-unsw-to-power-rewards-with-machine-learning/).
 
+
+Latest News
+======
+* CFP: Risks, Opportunities, and Evaluation of Generative Models in Recommender Systems [ROEGEN@RecSys2024](https://roegen-recsys2024.github.io/)
+* [SteerFair](https://arxiv.org/html/2406.03631v1) and [AFT](https://arxiv.org/html/2406.07337v1) accepted at ICML 2024
+* [CaMML](https://arxiv.org/abs/2401.03149) is accepted at ACL 2024, check the [code](https://github.com/amazon-science/camml) out.
+
+
+
+
 <!--I am a recipient of the 
 * [Best paper award runner-up](https://www.wsdm-conference.org/2020/#:~:text=WSDM%202020%20Best%20Paper%20Award,Seshadhri.) at WSDM 2020
 * [Outstanding paper award](https://iclr-conf.medium.com/announcing-iclr-2021-outstanding-paper-awards-9ae0514734ab) at ICLR 2021
