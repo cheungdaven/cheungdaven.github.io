@@ -17,6 +17,7 @@ Dyah Adila, <b>Shuai Zhang</b>, Boran Han, Bernie Wang.<br>
 <b>[CaMML: Context-Aware Multimodal Learner for Large Models](https://arxiv.org/abs/2401.03149)</b> <br> 
 Yixin Chen*, <b>Shuai Zhang*</b>, Boran Han, Tong He, Bo Li.<br>
 <i>ACL 2024</i>. The 62nd Annual Meeting of the Association for Computational Linguistics. [code](https://github.com/amazon-science/camml), [website](https://camml-project.github.io/) <br> 
+<b><span style="color:red">Area Chair Award.</span></b>
 
 <b>[CoMM: Collaborative Multi-Agent, Multi-Reasoning-Path Prompting for Complex Problem Solving](https://arxiv.org/pdf/2404.17729)</b> <br> 
 Pei (Patrick) Chen,Boran Han, <b>Shuai Zhang</b> (Corresponding Author).<br>
