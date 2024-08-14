@@ -14,9 +14,9 @@ Wenqi Jiang, <b>Shuai Zhang</b>, Boran Han, Jie Wang, Bernie Wang, Tim Kraska.<b
 Dyah Adila, <b>Shuai Zhang</b>, Boran Han, Bernie Wang.<br>
 <i>ICML 2024</i>. Forty-first International Conference on Machine Learning.<br> 
 
-<b>[CaMML: Context-Aware Multimodal Learner for Large Models](https://arxiv.org/abs/2401.03149)</b> [code](https://github.com/amazon-science/camml), [website](https://camml-project.github.io/) <br> 
+<b>[CaMML: Context-Aware Multimodal Learner for Large Models](https://arxiv.org/abs/2401.03149)</b> [website](https://camml-project.github.io/) <br> 
 Yixin Chen*, <b>Shuai Zhang*</b>, Boran Han, Tong He, Bo Li. <br>
-<i>ACL 2024</i>. The 62nd Annual Meeting of the Association for Computational Linguistics.  <br> 
+<i>ACL 2024</i>. The 62nd Annual Meeting of the Association for Computational Linguistics.  [code](https://github.com/amazon-science/camml) <br> 
 <b><span style="color:red">Area Chair Award.</span></b>
 
 <b>[CoMM: Collaborative Multi-Agent, Multi-Reasoning-Path Prompting for Complex Problem Solving](https://arxiv.org/pdf/2404.17729)</b> <br> 
