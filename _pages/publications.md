@@ -156,7 +156,11 @@ Mingming Li, <b>Shuai Zhang</b>, Fuqing Zhu, Liangjun Zang, Wanhui Qian, Jizhong
 
 <b>[Deep Learning based Recommender System: A Survey and New Perspectives](https://arxiv.org/abs/1707.07435v7)</b><br>
 <b>Shuai Zhang</b>, Lina Yao, Aixin Sun, Yi Tay.<br>
-<i>ACM Computing surveys. 2019.</i>
+<i>ACM Computing surveys. 2019.</i> <br>
+<b><span style="color:red">[The Most-Cited paper in CSUR 2019](https://dl.acm.org/action/doSearch?SeriesKey=csur&sortBy=cited&AfterYear=2019&BeforeYear=2019&queryID=58/7471214204).</span></b><br>
+
+
+
 
 <b>[DeepRec: An Open-source Toolkit for Deep Learning based Recommendation (Demo Track)](https://arxiv.org/abs/1905.10536)</b> <br>
 <b>Shuai Zhang</b>, Yi Tay, Lina Yao, Bin Wu, Aixin Sun. <br>
