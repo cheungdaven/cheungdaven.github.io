@@ -22,6 +22,7 @@ Selected Honors and Awards
 * [Best of the Best conference Paper Award](https://shuaizhang.tech/images/gmc_best_paper_award.jpg), Global Marketing Conference ([GMC](https://2023gmc.imweb.me/)) 2023
 * [Outstanding Paper Award](https://iclr-conf.medium.com/announcing-iclr-2021-outstanding-paper-awards-9ae0514734ab), ICLR 2021
 * [Best Paper Award runner-up](https://www.wsdm-conference.org/2020/#:~:text=WSDM%202020%20Best%20Paper%20Award,Seshadhri.), WSDM 2020
+* World's Top 2% Most Cited Scientists, [2021](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/4?fbclid=IwAR0GawO-pjz7CCKvp3o-B2Fj1v-2oijv3oJ_ORYKYO4i8P6-xveyYYJMKag), [2022](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/6), [2023](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/7)
 
 
 
