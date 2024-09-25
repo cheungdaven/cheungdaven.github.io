@@ -6,7 +6,7 @@ author_profile: true
 [(Google Scholar Profile)](https://scholar.google.com.au/citations?user=PPjdxlcAAAAJ&hl=en) [(Full List at DBLP)](https://dblp.uni-trier.de/pers/hd/z/Zhang_0007:Shuai)
 
 ## Transformers and Foundation Models
-<b>[PUnraveling the Gradient Descent Dynamics of Transformers]()</b> <br> 
+<b>[Unraveling the Gradient Descent Dynamics of Transformers]()</b> <br> 
 Bingqing Song, Boran Han, <b>Shuai Zhang</b>, Jie Ding, Mingyi Hong <br>
 <i>NeurIPS 2024 </i>. <i>Thirty-seventh Conference on Neural Information Processing Systems</i>.  <br> 
 
