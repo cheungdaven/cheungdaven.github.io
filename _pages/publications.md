@@ -8,7 +8,7 @@ author_profile: true
 ## Transformers and Foundation Models
 <b>[PUnraveling the Gradient Descent Dynamics of Transformers]()</b> <br> 
 Bingqing Song, Boran Han, <b>Shuai Zhang</b>, Jie Ding, Mingyi Hong <br>
-<i>NeurIPS 2024 </i>. <i>Thirty-seventh Conference on Neural Information Processing Systems</i>. [code](https://github.com/amazon-science/prompt-pretraining) <br> 
+<i>NeurIPS 2024 </i>. <i>Thirty-seventh Conference on Neural Information Processing Systems</i>.  <br> 
 
 <b>[PipeRAG: Fast Retrieval-Augmented Generation via Algorithm-System Co-design](https://arxiv.org/abs/2403.05676)</b> <br> 
 Wenqi Jiang, <b>Shuai Zhang</b>, Boran Han, Jie Wang, Bernie Wang, Tim Kraska.<br>
