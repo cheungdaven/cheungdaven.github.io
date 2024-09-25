@@ -16,7 +16,7 @@ I am currently employed at Amazon Web Services AI, focusing on foundation models
 
 My primary areas of focus include LLMs, multimodal foundation models, information retrieval, graph machine learning, etc.  I have served as the area chair for ACL Rolling Review 2024, organizer for [ROEGEN](https://roegen-recsys2024.github.io/) of RecSys2024, area chair for [WiML](https://sites.google.com/view/wiml2022/home) (Women in Machine Learning) Workshop at NeurIPS 2022, senior PC for IJCAI 2021 and CIKM 2021, session chair for CIKM 2021, and guest editor for Frontiers in Big Data. At Amazon, I have contributed to projects such as [Amazon Titan](https://aws.amazon.com/bedrock/titan/), [AutoGluon](https://auto.gluon.ai/), [D2L](https://d2l.ai/), and [OpenSearch](https://opensearch.org/). My research has garnered attention from the media, including coverage by outlets like [Australian Fintech](https://australianfintech.com.au/raiz-invest-partners-with-unsw-to-power-rewards-with-machine-learning/).
 
-You can find more on my [CV](https://shuaizhang.tech/files/shuai_cv_2024-09.pdf).
+You can find more about me on my [CV](https://shuaizhang.tech/files/shuai_cv_2024-09.pdf).
 
 Selected Honors and Awards
 ======
