@@ -20,7 +20,7 @@ You can find more about me on my [CV](https://shuaizhang.tech/files/shuai_cv_202
 
 Selected Honors and Awards
 ======
-* [Area Chair Award](https://x.com/aclmeeting/status/1823665870717247869), ACL 2024
+* [Area Chair's Award](https://x.com/aclmeeting/status/1823665870717247869), ACL 2024
 * [Best of the Best conference Paper Award](https://shuaizhang.tech/images/gmc_best_paper_award.jpg), Global Marketing Conference ([GMC](https://2023gmc.imweb.me/)) 2023
 * [Outstanding Paper Award](https://iclr-conf.medium.com/announcing-iclr-2021-outstanding-paper-awards-9ae0514734ab), ICLR 2021
 * [Best Paper Award runner-up](https://www.wsdm-conference.org/2020/#:~:text=WSDM%202020%20Best%20Paper%20Award,Seshadhri.), WSDM 2020
