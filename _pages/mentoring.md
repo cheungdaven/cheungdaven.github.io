@@ -19,7 +19,7 @@ I am fortunate to have hosted/co-hosted or mentored the following interns and st
 * Jianing Zhou (2024 Summer), applied scientist intern, PhD student from the University of Illinois at Urbana-Champaign.
 * Michal Golovanevsky (2024 Summer), applied scientist intern, PhD student from Brown University.
 * Jiaming Liang (2024 Summer), applied scientist intern, PhD student from the University of Pennsylvania.
-* Wenqi Jiang (2023 Fall), applied scientist intern, PhD student from ETH Zurich.
+* Wenqi Jiang (2023 Fall), applied scientist intern, PhD student from ETH Zurich. (Results published at KDD 2025).
 * Dheeraj Baby (2023 Fall), applied scientist intern, PhD student from UC Santa Barbara.
 * Dyah Adila (2023 Fall & 2024 Summer), applied scientist intern, PhD student from UW-Madison. (Results published at ICML 2024).
 * Zitian Chen (2023 Summer),  applied scientist intern, PhD student from University of Massachusetts Amherst.
