@@ -31,7 +31,13 @@ Selected Honors and Awards
 
 Latest News
 ======
+* [PipeRAG](https://arxiv.org/abs/2403.05676) accepted at KDD 2025.
 * One paper accepted by NeurIPS 2024.
+
+
+
+
+<!--
 * CFP: Risks, Opportunities, and Evaluation of Generative Models in Recommender Systems [ROEGEN@RecSys2024](https://roegen-recsys2024.github.io/).
 * [SteerFair](https://arxiv.org/html/2406.03631v1) and [AFT](https://arxiv.org/html/2406.07337v1) accepted at ICML 2024.
 * [CaMML](https://arxiv.org/abs/2401.03149) is accepted at ACL 2024, check the [code](https://github.com/amazon-science/camml) out.
@@ -39,7 +45,7 @@ Latest News
 
 
 
-<!--I am a recipient of the 
+I am a recipient of the 
 * [Best paper award runner-up](https://www.wsdm-conference.org/2020/#:~:text=WSDM%202020%20Best%20Paper%20Award,Seshadhri.) at WSDM 2020
 * [Outstanding paper award](https://iclr-conf.medium.com/announcing-iclr-2021-outstanding-paper-awards-9ae0514734ab) at ICLR 2021
 * [Best of the Best conference paper award](https://shuaizhang.tech/images/gmc_best_paper_award.jpg) at Global Marketing Conference ([GMC](https://2023gmc.imweb.me/)) 2023.-->
