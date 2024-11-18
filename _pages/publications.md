@@ -9,7 +9,7 @@ author_profile: true
 
 <b>[PipeRAG: Fast Retrieval-Augmented Generation via Algorithm-System Co-design](https://arxiv.org/abs/2403.05676)</b> <br> 
 Wenqi Jiang, <b>Shuai Zhang</b>, Boran Han, Jie Wang, Bernie Wang, Tim Kraska.<br>
-<i>KDD, 2025</i>. [code]([https://github.com/amazon-science/camml](https://github.com/amazon-science/piperag) <br> 
+<i>KDD, 2025</i>. [code](https://github.com/amazon-science/piperag) <br> 
 
 <b>[Unraveling the Gradient Descent Dynamics of Transformers]()</b> <br> 
 Bingqing Song, Boran Han, <b>Shuai Zhang</b>, Jie Ding, Mingyi Hong <br>
