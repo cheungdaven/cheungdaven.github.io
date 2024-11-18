@@ -6,13 +6,16 @@ author_profile: true
 [(Google Scholar Profile)](https://scholar.google.com.au/citations?user=PPjdxlcAAAAJ&hl=en) [(Full List at DBLP)](https://dblp.uni-trier.de/pers/hd/z/Zhang_0007:Shuai)
 
 ## Transformers and Foundation Models
+
+<b>[PipeRAG: Fast Retrieval-Augmented Generation via Algorithm-System Co-design](https://arxiv.org/abs/2403.05676)</b> <br> 
+Wenqi Jiang, <b>Shuai Zhang</b>, Boran Han, Jie Wang, Bernie Wang, Tim Kraska.<br>
+<i>KDD, 2025</i>. [code]([https://github.com/amazon-science/camml](https://github.com/amazon-science/piperag) <br> 
+
 <b>[Unraveling the Gradient Descent Dynamics of Transformers]()</b> <br> 
 Bingqing Song, Boran Han, <b>Shuai Zhang</b>, Jie Ding, Mingyi Hong <br>
 <i>NeurIPS 2024 </i>. <i>Thirty-seventh Conference on Neural Information Processing Systems</i>.  <br> 
 
-<b>[PipeRAG: Fast Retrieval-Augmented Generation via Algorithm-System Co-design](https://arxiv.org/abs/2403.05676)</b> <br> 
-Wenqi Jiang, <b>Shuai Zhang</b>, Boran Han, Jie Wang, Bernie Wang, Tim Kraska.<br>
-<i>Preprint, 2024</i>.
+
 
 <b>[Discovering Bias in Latent Space: An Unsupervised Debiasing Approach]() </b> <br> 
 Dyah Adila, <b>Shuai Zhang</b>, Boran Han, Bernie Wang.<br>
