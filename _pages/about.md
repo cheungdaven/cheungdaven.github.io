@@ -20,7 +20,7 @@ Selected Honors and Awards
 * [Best of the Best conference Paper Award](https://shuaizhang.tech/images/gmc_best_paper_award.jpg), Global Marketing Conference ([GMC](https://2023gmc.imweb.me/)) 2023
 * [Outstanding Paper Award](https://iclr-conf.medium.com/announcing-iclr-2021-outstanding-paper-awards-9ae0514734ab), ICLR 2021
 * [Best Paper Award runner-up](https://www.wsdm-conference.org/2020/#:~:text=WSDM%202020%20Best%20Paper%20Award,Seshadhri.), WSDM 2020
-* World's Top 2% Most Cited Scientist, [2021](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/4?fbclid=IwAR0GawO-pjz7CCKvp3o-B2Fj1v-2oijv3oJ_ORYKYO4i8P6-xveyYYJMKag), [2022](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/6), [2023](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/7)
+
 
 
 Latest News
@@ -32,7 +32,7 @@ Latest News
 
 
 <!--
-
+* World's Top 2% Most Cited Scientist, [2021](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/4?fbclid=IwAR0GawO-pjz7CCKvp3o-B2Fj1v-2oijv3oJ_ORYKYO4i8P6-xveyYYJMKag), [2022](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/6), [2023](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/7)
 
 I have served as the area chair for ACL Rolling Review, organizer for [ROEGEN](https://roegen-recsys2024.github.io/) of RecSys2024, and reviewer for leading AI/ML conferences/journals. At Amazon, I have contributed to products & projects such as [Amazon Titan](https://aws.amazon.com/bedrock/titan/), [AWS Glue](https://aws.amazon.com/glue/), [AutoGluon](https://auto.gluon.ai/), [D2L](https://d2l.ai/), and [OpenSearch](https://opensearch.org/), and led the project [AutoGluon-RAG](https://github.com/autogluon/autogluon-rag). My research has garnered attention from the media, including coverage by outlets like [Australian Fintech](https://australianfintech.com.au/raiz-invest-partners-with-unsw-to-power-rewards-with-machine-learning/).
 
