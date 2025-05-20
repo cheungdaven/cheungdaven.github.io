@@ -12,11 +12,8 @@ redirect_from:
 
 <!--[Curriculum Vitae](files/Shuai_Curriculum.pdf). -->
 
-I am currently an applied scientist at Amazon Web Services AI, focusing on foundation models related research, opensource projects, and products. Before this role, I was a postdoctoral researcher in the Department of Computer Science at [ETH Zurich](https://ethz.ch/en.html), under the guidance of [Prof. Ce Zhang](https://zhangce.github.io/). I received a PhD degree from the school of computer science and engineering of [UNSW Sydney](https://www.unsw.edu.au/homepage/), advised by [Prof. Lina Yao](https://www.linayao.com/), and my PhD study was also supported by [CSIRO](https://www.csiro.au/en/)'s Data61 PhD Scholarship. I obtained a Bachelor's degree from Nanjing University. 
+I am currently a senior applied scientist at Amazon Web Services AI, focusing on foundation models related research, product, and opensource projects. Before this role, I was a postdoctoral researcher in the Department of Computer Science at [ETH Zurich](https://ethz.ch/en.html), under the guidance of [Prof. Ce Zhang](https://zhangce.github.io/). I received a PhD degree from the school of computer science and engineering of [UNSW Sydney](https://www.unsw.edu.au/homepage/), advised by [Prof. Lina Yao](https://www.linayao.com/), and my PhD study was also supported by [CSIRO](https://www.csiro.au/en/)'s Data61 PhD Scholarship. I obtained a Bachelor's degree from Nanjing University. 
 
-My primary areas of focus include LLMs, multimodal foundation models, information retrieval, graph machine learning, etc.  I have served as the area chair for ACL Rolling Review 2024, organizer for [ROEGEN](https://roegen-recsys2024.github.io/) of RecSys2024, and reviewer for leading AI/ML conferences/journals. At Amazon, I have contributed to products & projects such as [Amazon Titan](https://aws.amazon.com/bedrock/titan/), [AWS Glue](https://aws.amazon.com/glue/), [AutoGluon](https://auto.gluon.ai/), [D2L](https://d2l.ai/), and [OpenSearch](https://opensearch.org/), and led the project [AutoGluon-RAG](https://github.com/autogluon/autogluon-rag). My research has garnered attention from the media, including coverage by outlets like [Australian Fintech](https://australianfintech.com.au/raiz-invest-partners-with-unsw-to-power-rewards-with-machine-learning/).
-
-You can find more about me on my [CV](https://shuaizhang.tech/files/shuai_cv_2024-09.pdf).
 
 Selected Honors and Awards
 ======
@@ -27,17 +24,22 @@ Selected Honors and Awards
 * World's Top 2% Most Cited Scientist, [2021](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/4?fbclid=IwAR0GawO-pjz7CCKvp3o-B2Fj1v-2oijv3oJ_ORYKYO4i8P6-xveyYYJMKag), [2022](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/6), [2023](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/7)
 
 
-
-
 Latest News
 ======
-* [PipeRAG](https://arxiv.org/abs/2403.05676) accepted at KDD 2025.
-* One paper accepted by NeurIPS 2024.
+* [Special Issue](https://dl.acm.org/pb-assets/static_journal_pages/tors/pdf/TORS-CFP-SI_GenRecSys-1737063510647.pdf) on Generative Models for Recommender Systems: Opportunities, Risks, and Evaluation of ACM Transactions on Recommender Systems is calling for submissions.
+
 
 
 
 
 <!--
+
+
+
+My primary areas of focus include LLMs, multimodal foundation models, information retrieval, graph machine learning, etc.  I have served as the area chair for ACL Rolling Review 2024, organizer for [ROEGEN](https://roegen-recsys2024.github.io/) of RecSys2024, and reviewer for leading AI/ML conferences/journals. At Amazon, I have contributed to products & projects such as [Amazon Titan](https://aws.amazon.com/bedrock/titan/), [AWS Glue](https://aws.amazon.com/glue/), [AutoGluon](https://auto.gluon.ai/), [D2L](https://d2l.ai/), and [OpenSearch](https://opensearch.org/), and led the project [AutoGluon-RAG](https://github.com/autogluon/autogluon-rag). My research has garnered attention from the media, including coverage by outlets like [Australian Fintech](https://australianfintech.com.au/raiz-invest-partners-with-unsw-to-power-rewards-with-machine-learning/).
+
+You can find more about me on my [CV](https://shuaizhang.tech/files/shuai_cv_2024-09.pdf).
+
 * CFP: Risks, Opportunities, and Evaluation of Generative Models in Recommender Systems [ROEGEN@RecSys2024](https://roegen-recsys2024.github.io/).
 * [SteerFair](https://arxiv.org/html/2406.03631v1) and [AFT](https://arxiv.org/html/2406.07337v1) accepted at ICML 2024.
 * [CaMML](https://arxiv.org/abs/2401.03149) is accepted at ACL 2024, check the [code](https://github.com/amazon-science/camml) out.
