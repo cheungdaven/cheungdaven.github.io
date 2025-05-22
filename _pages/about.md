@@ -12,9 +12,9 @@ redirect_from:
 
 <!--[Curriculum Vitae](files/Shuai_Curriculum.pdf). -->
 
-I am currently a senior applied scientist at Amazon Web Services AI, focusing on foundation models related research, product, and opensource projects. Before this role, I was a postdoctoral researcher in the Department of Computer Science at [ETH Zurich](https://ethz.ch/en.html), under the guidance of [Prof. Ce Zhang](https://zhangce.github.io/). I received a PhD degree from the school of computer science and engineering of [UNSW Sydney](https://www.unsw.edu.au/homepage/), advised by [Prof. Lina Yao](https://www.linayao.com/), and my PhD study was also supported by [CSIRO](https://www.csiro.au/en/)'s Data61 PhD Scholarship. I obtained a Bachelor's degree from Nanjing University. My primary areas of focus include LLMs, multimodal foundation models, information retrieval, time series forecasting,  graph machine learning, etc.  
+I am currently a senior applied scientist at Amazon Web Services AI, focusing on foundation models related research, product, and opensource projects. Before this role, I was a postdoctoral researcher in the Department of Computer Science at [ETH Zurich](https://ethz.ch/en.html), under the guidance of [Prof. Ce Zhang](https://zhangce.github.io/). I received a PhD degree from the school of computer science and engineering of [UNSW Sydney](https://www.unsw.edu.au/homepage/), advised by [Prof. Lina Yao](https://www.linayao.com/), and my PhD study was also supported by [CSIRO](https://www.csiro.au/en/)'s Data61 PhD Scholarship. I obtained a Bachelor's degree from Nanjing University. My primary areas of focus include LLMs, multimodal foundation models, information retrieval, time series forecasting,  graph machine learning, etc.  At Amazon, I have contributed to products such as [Amazon Titan](https://aws.amazon.com/bedrock/titan/), [AWS Glue](https://aws.amazon.com/glue/), [AutoGluon](https://auto.gluon.ai/), etc.
 
-Selected Honors and Awards
+Awards
 ======
 * [Area Chair's Award](https://x.com/aclmeeting/status/1823665870717247869), ACL 2024
 * [Best of the Best conference Paper Award](https://shuaizhang.tech/images/gmc_best_paper_award.jpg), Global Marketing Conference ([GMC](https://2023gmc.imweb.me/)) 2023
