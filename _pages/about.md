@@ -25,6 +25,8 @@ Awards
 
 Latest News
 ======
+* [SIGIR Workshop GENNEXT](https://sigirgennext.github.io/GENNEXT-SIGIR-25/) on Next Generation of IR and Recommender Systems with Language Agents, Generative Models, and Conversational AI will take place on July 17.
+
 * [Special Issue](https://dl.acm.org/pb-assets/static_journal_pages/tors/pdf/TORS-CFP-SI_GenRecSys-1737063510647.pdf) on Generative Models for Recommender Systems: Opportunities, Risks, and Evaluation of ACM Transactions on Recommender Systems is calling for submissions.
 
 
