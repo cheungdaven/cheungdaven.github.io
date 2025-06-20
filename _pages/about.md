@@ -12,7 +12,7 @@ redirect_from:
 
 <!--[Curriculum Vitae](files/Shuai_Curriculum.pdf). -->
 
-I am currently a senior applied scientist at Amazon Web Services AI, focusing on foundation models related research, product, and opensource projects. Before this role, I was a postdoctoral researcher in the Department of Computer Science at [ETH Zurich](https://ethz.ch/en.html), under the guidance of [Prof. Ce Zhang](https://zhangce.github.io/). I received a PhD degree from the school of computer science and engineering of [UNSW Sydney](https://www.unsw.edu.au/homepage/), advised by [Prof. Lina Yao](https://www.linayao.com/), and my PhD study was also supported by [CSIRO](https://www.csiro.au/en/)'s Data61 PhD Scholarship. I obtained a Bachelor's degree from Nanjing University. My primary areas of focus include LLMs, multimodal foundation models, information retrieval, time series forecasting,  graph machine learning, etc.  At Amazon, I have contributed to products such as [Amazon Titan](https://aws.amazon.com/bedrock/titan/), [AWS Glue](https://aws.amazon.com/glue/), [Amazon Q](https://aws.amazon.com/q/), [AutoGluon](https://auto.gluon.ai/), etc. I have served as the area chair for ACL Rolling Review, reviewer/guest editor/senior PC for a few leading AI/ML conferences/journals, and organizers for workshops in leading AI conferences.
+I am currently a senior applied scientist at Amazon Web Services AI, focusing on foundation models related research, product, and opensource projects. Before this role, I was a postdoctoral researcher in the Department of Computer Science at [ETH Zurich](https://ethz.ch/en.html), under the guidance of [Prof. Ce Zhang](https://zhangce.github.io/). I received a PhD degree from the school of computer science and engineering of [UNSW Sydney](https://www.unsw.edu.au/homepage/), advised by [Prof. Lina Yao](https://www.linayao.com/), and my PhD study was also supported by [CSIRO](https://www.csiro.au/en/)'s Data61 PhD Scholarship. I obtained a Bachelor's degree from Nanjing University. My primary areas of focus include LLMs, multimodal foundation models, information retrieval, time series forecasting,  graph machine learning, etc.  At Amazon, I have contributed to products such as [Amazon Titan](https://aws.amazon.com/bedrock/titan/), [AWS Glue](https://aws.amazon.com/glue/), [Amazon Q](https://aws.amazon.com/q/), [AutoGluon](https://auto.gluon.ai/), etc. I have served as an Area Chair for ACL Rolling Review, as a reviewer, guest editor, or senior program committee member for several leading AI/ML conferences and journals, and as an organizer for workshops at top-tier AI conferences.
 
 Awards
 ======
@@ -27,7 +27,6 @@ Latest News
 ======
 * Keynote Talk at the LLM4Good Workshop of the 33rd ACM International Conference on User Modeling, Adaptation and Personalization [UMAP'25](https://www.um.org/umap2025/workshops/).
 * [SIGIR Workshop GENNEXT](https://sigirgennext.github.io/GENNEXT-SIGIR-25/) on Next Generation of IR and Recommender Systems with Language Agents, Generative Models, and Conversational AI will take place on July 17.
-
 * [Special Issue](https://dl.acm.org/pb-assets/static_journal_pages/tors/pdf/TORS-CFP-SI_GenRecSys-1737063510647.pdf) on Generative Models for Recommender Systems: Opportunities, Risks, and Evaluation of ACM Transactions on Recommender Systems is calling for submissions.
 
 
