@@ -11,8 +11,12 @@ redirect_from:
 I am fortunate to have hosted/co-hosted or mentored the following interns and students.
 
 ## AWS Interns
+* [Yongjun He](https://yongjunhe.github.io/) (2025 Summer), applied scientist intern, PhD student from ETH Zurich.
+* [Hengyi Wang](https://carbonated-law-fad.notion.site/Hengyi-Wang-76cf0e03fa5648cdaf45218e69e840cc) (2025 Summer), applied scientist intern, PhD student from Rutgers University.
+* [Zelin He](https://zlhe0.github.io/zelinhe.github.io/) (2025 Summer), applied scientist intern, PhD student from Penn State University.
+* [Chengwei Qin](https://qcwthu.github.io/) (2025 Spring), applied scientist intern, PhD student from Nanyang Technological University. 
 * Yan Liu (2024 Fall), applied scientist intern, PhD student from the University of Edinburgh.
-* Zhuoyan Xu (2024 Summer), applied scientist intern, PhD student from the UW-Madison.
+* [Zhuoyan Xu](https://pages.cs.wisc.edu/~zxu444/home/) (2024 Summer), applied scientist intern, PhD student from the UW-Madison.
 * Xiaoxuan Wang (2024 Summer), applied scientist intern,  PhD student from the University of California, Los Angeles.
 * Derek Xu (2024 Summer), applied scientist intern, PhD student from the University of California, Los Angeles.
 * Wenhao Wu (2024 Summer), applied scientist intern, PhD student from the University of Sydney.
