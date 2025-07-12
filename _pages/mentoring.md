@@ -10,7 +10,7 @@ redirect_from:
 
 I am fortunate to have hosted/co-hosted or mentored the following interns and students.
 
-## AWS Interns
+## Amazon Interns
 Many of them have become full-time Applied Scientists at Amazon (marked with **★**).
 * [Yongjun He](https://yongjunhe.github.io/) (2025 Summer), applied scientist intern, PhD student from ETH Zurich.
 * [Hengyi Wang](https://carbonated-law-fad.notion.site/Hengyi-Wang-76cf0e03fa5648cdaf45218e69e840cc) (2025 Summer), applied scientist intern, PhD student from Rutgers University.
