@@ -28,7 +28,7 @@ Many of them have become full-time Applied Scientists at Amazon (marked with **�
 * [Jiaming Liang](https://scholar.google.com/citations?user=1yD7heAAAAAJ&hl=en) (2024 Summer), applied scientist intern, PhD student from the University of Pennsylvania.
 * [Shreyash Sridhar Iyengar](https://github.com/shreyash2106) (2024 Summer), Machine Learning Engineering Intern, Master student from Purdue University. Developed [AutoGluon-RAG](https://auto.gluon.ai/rag/dev/index.html).
 * [Wenqi Jiang](https://wenqijiang.github.io/) (2023 Fall), applied scientist intern, PhD student from ETH Zurich. (Results published at KDD 2025).
-* [Dheeraj Baby](https://dheeraj-b.github.io/home/) (2023 Fall) **★**, applied scientist intern, PhD student from UC Santa Barbara.
+* [Dheeraj Baby](https://dheeraj-b.github.io/home/) (2023 Fall) **★**, applied scientist intern, PhD student from UC Santa Barbara. (Results published at AISTATS 2025).
 * [Dyah Adila](https://dyahadila.github.io/) (2023 Fall & 2024 Summer), applied scientist intern, PhD student from UW-Madison. (Results published at ICML 2024).
 * [Zitian Chen](http://chenzt.net/) (2023 Summer),  applied scientist intern, PhD student from University of Massachusetts Amherst.
 * [Pei Chen](https://brickee.github.io/) (2023 Summer) **★**, applied scientist intern, PhD student from Texas A&M University. (Results published at NAACL 2024).
