@@ -7,9 +7,24 @@ author_profile: true
 
 ## Transformers and Foundation Models
 
+<b>[Mitra: Mixed synthetic priors for enhancing tabular foundation models](https://arxiv.org/pdf/2504.07261?)</b> <br> 
+Xiyuan Zhang, Danielle C Maddix, Junming Yin, Nick Erickson, Abdul Fatir Ansari, Boran Han, <b>Shuai Zhang</b>, Leman Akoglu, Christos Faloutsos, Michael W Mahoney, Cuixiong Hu, Huzefa Rangwala, George Karypis, Bernie Wang.<br>
+<i>NeurIPS, 2025</i>. <i>The Thirty-ninth Annual Conference on Neural Information Processing Systems</i><br> 
+
+<b>[Adapting to Online Distribution Shifts in Deep Learning: A Black-Box Approach](https://arxiv.org/pdf/2504.07261?)</b> <br> 
+Dheeraj Baby, Boran Han, <b>Shuai Zhang</b>, Cuixiong Hu, Bernie Wang, Yu-Xiang Wang.<br>
+<i>AISTATS, 2025</i>. <i>The 28th International Conference on Artificial Intelligence and Statistics</i><br> 
+
+
 <b>[PipeRAG: Fast Retrieval-Augmented Generation via Algorithm-System Co-design](https://arxiv.org/abs/2403.05676)</b> <br> 
 Wenqi Jiang, <b>Shuai Zhang</b>, Boran Han, Jie Wang, Bernie Wang, Tim Kraska.<br>
 <i>KDD, 2025</i>. [code](https://github.com/amazon-science/piperag) <br> 
+
+
+<b>[PalmBench: A Comprehensive Benchmark of Compressed Large Language Models on Mobile Platforms]()</b> <br> 
+Yilong Li, Jingyu Liu, Hao Zhang, M Badri Narayanan, Utkarsh Sharma, <b>Shuai Zhang</b>, Pan Hu, Yijing Zeng, Jayaram Raghuram, Suman Banerjee.<br>
+<i>ICLR, 2025</i>.<br> 
+
 
 <b>[Unraveling the Gradient Descent Dynamics of Transformers]()</b> <br> 
 Bingqing Song, Boran Han, <b>Shuai Zhang</b>, Jie Ding, Mingyi Hong <br>
