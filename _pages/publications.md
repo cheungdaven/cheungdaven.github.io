@@ -114,6 +114,14 @@ Aston Zhang, Yi Tay, Yikang Shen, Alvin Chan,  <b>Shuai Zhang</b> <br>
 
 
 ## Information Retrieval and Recommender Systems
+
+
+<b>[Toward Holistic Evaluation of Recommender Systems Powered by Generative Models]()</b> <br> 
+Yashar Deldjoo, Nikhil Mehta, Maheswaran Sathiamoorthy, <b>Shuai Zhang</b>, Pablo Castells, Julian McAuley.  <br>
+<i>SIGIR 2025 </i>. <i>: Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval</i>. <br> 
+
+
+
 <b>[Recommending the “right” Product to the “right” Customer with the “right” Message via Structural Neural Recommender](https://db.koreascholar.com/Article/Detail/422329)</b> <br> 
 <b>Shuai Zhang</b>, Lina Yao, Tianying Song, Jake An, Steven Lu <br>
 <i>GMC 2023 </i>. <i>Global Marketing Conference</i>. <br> 
