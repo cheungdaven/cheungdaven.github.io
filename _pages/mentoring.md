@@ -12,14 +12,16 @@ I am fortunate to have hosted/co-hosted or mentored the following interns and st
 
 ## Amazon Interns
 Many of them have become full-time Applied Scientists at Amazon (marked with **★**).
+* [Jason Yoo](https://jason-yoo-108.github.io/) (2025 Fall), applied scientist intern, PhD student from University of British Columbia.
+* [Seere Pan] (2025 Fall), applied scientist intern, PhD student from Northwestern University.
 * [Yongjun He](https://yongjunhe.github.io/) (2025 Summer), applied scientist intern, PhD student from ETH Zurich.
 * [Jiefu Ou](https://jefferyo.github.io/) (2025 Summer), applied scientist intern, PhD student from  Johns Hopkins University
 * [Kehan Guo](https://kehanguo2.github.io/KehanGuo/) (2025 Summer), applied scientist intern, PhD student from University of Notre Dame.
 * [Hengyi Wang](https://carbonated-law-fad.notion.site/Hengyi-Wang-76cf0e03fa5648cdaf45218e69e840cc) (2025 Summer), applied scientist intern, PhD student from Rutgers University.
-* [Zelin He](https://zlhe0.github.io/zelinhe.github.io/) (2025 Summer), applied scientist intern, PhD student from Penn State University.
+* [Zelin He](https://zlhe0.github.io/zelinhe.github.io/) (2025 Summer), applied scientist intern, PhD student from Penn State University. (Results published at AISTATS 2026).
 * [Chengwei Qin](https://qcwthu.github.io/) (2025 Spring), applied scientist intern, PhD student from Nanyang Technological University. 
 * Yan Liu (2024 Fall), applied scientist intern, PhD student from the University of Edinburgh.
-* [Zhuoyan Xu](https://pages.cs.wisc.edu/~zxu444/home/) (2024 Summer), applied scientist intern, PhD student from the UW-Madison.
+* [Zhuoyan Xu](https://pages.cs.wisc.edu/~zxu444/home/) (2024 Summer), applied scientist intern, PhD student from the UW-Madison. (Results published at EACL 2026).
 * [Xiaoxuan Wang](https://mandyyyyii.github.io/) (2024 Summer), applied scientist intern,  PhD student from the University of California, Los Angeles.
 * [Derek Xu](https://derekqxu.github.io/) (2024 Summer), applied scientist intern, PhD student from the University of California, Los Angeles.
 * [Wenhao Wu](https://whwu95.github.io/) (2024 Summer) **★**, applied scientist intern, PhD student from the University of Sydney.
