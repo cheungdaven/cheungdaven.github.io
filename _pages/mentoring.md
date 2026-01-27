@@ -13,8 +13,8 @@ I am fortunate to have hosted/co-hosted or mentored the following interns and st
 ## Amazon Interns
 Many of them have become full-time Applied Scientists at Amazon (marked with **★**).
 * [Jason Yoo](https://jason-yoo-108.github.io/) (2025 Fall), applied scientist intern, PhD student from University of British Columbia.
-* [Seere Pan] (2025 Fall), applied scientist intern, PhD student from Northwestern University.
-* [Yongjun He](https://yongjunhe.github.io/) (2025 Summer), applied scientist intern, PhD student from ETH Zurich.
+* Seere Pan (2025 Fall), applied scientist intern, PhD student from Northwestern University.
+* [Yongjun He](https://yongjunhe.github.io/) (2025 Summer), applied scientist intern, PhD student from ETH Zurich. (Results published at MLSys 2026).
 * [Jiefu Ou](https://jefferyo.github.io/) (2025 Summer), applied scientist intern, PhD student from  Johns Hopkins University
 * [Kehan Guo](https://kehanguo2.github.io/KehanGuo/) (2025 Summer), applied scientist intern, PhD student from University of Notre Dame.
 * [Hengyi Wang](https://carbonated-law-fad.notion.site/Hengyi-Wang-76cf0e03fa5648cdaf45218e69e840cc) (2025 Summer), applied scientist intern, PhD student from Rutgers University.
