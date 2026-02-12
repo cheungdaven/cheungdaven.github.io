@@ -21,7 +21,7 @@ Many of them have become full-time Applied Scientists at Amazon (marked with **�
 * [Zelin He](https://zlhe0.github.io/zelinhe.github.io/) (2025 Summer), applied scientist intern, PhD student from Penn State University. (Results published at AISTATS 2026).
 * [Chengwei Qin](https://qcwthu.github.io/) (2025 Spring), applied scientist intern, PhD student from Nanyang Technological University. 
 * Yan Liu (2024 Fall), applied scientist intern, PhD student from the University of Edinburgh.
-* [Zhuoyan Xu](https://pages.cs.wisc.edu/~zxu444/home/) (2024 Summer), applied scientist intern, PhD student from the UW-Madison. (Results published at EACL 2026).
+* [Zhuoyan Xu](https://pages.cs.wisc.edu/~zxu444/home/) (2024 Summer) **★**, applied scientist intern, PhD student from the UW-Madison. (Results published at EACL 2026).
 * [Xiaoxuan Wang](https://mandyyyyii.github.io/) (2024 Summer), applied scientist intern,  PhD student from the University of California, Los Angeles.
 * [Derek Xu](https://derekqxu.github.io/) (2024 Summer), applied scientist intern, PhD student from the University of California, Los Angeles.
 * [Wenhao Wu](https://whwu95.github.io/) (2024 Summer) **★**, applied scientist intern, PhD student from the University of Sydney.
