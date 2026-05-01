@@ -12,11 +12,11 @@ redirect_from:
 
 <!--[Curriculum Vitae](files/Shuai_Curriculum.pdf). -->
 
-He is a Senior Applied Scientist at Amazon Web Services (AWS) AI, where he works on research, product development, and open-source initiatives in foundation models. His research interests span large language models, multimodal learning, information retrieval, recommender systems, forecasting, and graph machine learning.
+I am a Senior Applied Scientist at Amazon Web Services (AWS) AI, where I work on research, product development, and open-source initiatives in foundation models. My research interests span large language models, multimodal learning, information retrieval, recommender systems, forecasting, and graph machine learning.
 
-Prior to joining AWS, he was a postdoctoral researcher at ETH Zurich, working with Prof. Ce Zhang. He received his Ph.D. in Computer Science and Engineering from the University of New South Wales (UNSW Sydney), advised by Prof. Lina Yao and supported by the CSIRO Data61 PhD Scholarship. He obtained his Bachelor’s degree from Nanjing University.
+Prior to joining AWS, I was a postdoctoral researcher at ETH Zurich, working with Prof. Ce Zhang. I received my Ph.D. in Computer Science and Engineering from the University of New South Wales (UNSW Sydney), advised by Prof. Lina Yao, and supported by the CSIRO Data61 PhD Scholarship. I obtained my Bachelor’s degree from Nanjing University.
 
-His work has been recognized with several awards, including an Area Chair Award at ACL 2024, the Best of the Best Paper Award at the Global Marketing Conference (GMC) 2023, the Outstanding Paper Award at ICLR 2021, and a Best Paper Award runner-up at WSDM 2020. He is actively involved in the research community, serving as an Area Chair for NeurIPS and ACL Rolling Review, as well as a reviewer, senior program committee member, and guest editor for leading AI/ML conferences and journals. He has also organized workshops at major AI conferences.
+My work has been recognized with several awards, including an Area Chair Award at ACL 2024, the Best of the Best Paper Award at the Global Marketing Conference (GMC) 2023, the Outstanding Paper Award at ICLR 2021, and a Best Paper Award runner-up at WSDM 2020. I am actively involved in the research community, serving as an Area Chair for NeurIPS and ACL Rolling Review, as well as a reviewer, senior program committee member, and guest editor for leading AI/ML conferences and journals. I have also organized workshops at major AI conferences.
 
 
 
