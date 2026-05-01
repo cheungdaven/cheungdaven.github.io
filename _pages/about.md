@@ -16,7 +16,9 @@ I am a Senior Applied Scientist at Amazon Web Services (AWS) AI, where I work on
 
 Prior to joining AWS, I was a postdoctoral researcher at ETH Zurich, working with Prof. Ce Zhang. I received my Ph.D. in Computer Science and Engineering from the University of New South Wales (UNSW Sydney), advised by Prof. Lina Yao, and supported by the CSIRO Data61 PhD Scholarship. I obtained my Bachelor’s degree from Nanjing University.
 
-My work has been recognized with several awards, including an Area Chair Award at ACL 2024, the Best of the Best Paper Award at the Global Marketing Conference (GMC) 2023, the Outstanding Paper Award at ICLR 2021, and a Best Paper Award runner-up at WSDM 2020. I am actively involved in the research community, serving as an Area Chair for NeurIPS and ACL Rolling Review, as well as a reviewer, senior program committee member, and guest editor for leading AI/ML conferences and journals. I have also organized workshops at major AI conferences.
+My work has been recognized with several awards, including the Outstanding Paper Award at ICLR 2021, and a Best Paper Award runner-up at WSDM 2020, an Area Chair Award at ACL 2024, the Best of the Best Paper Award at the Global Marketing Conference (GMC) 2023.
+
+I am also actively involved in the research community, serving as an Area Chair for NeurIPS and ACL Rolling Review, as well as a reviewer, senior program committee member, and guest editor for leading AI/ML conferences and journals. I have also organized workshops at major AI conferences.
 
 
 
