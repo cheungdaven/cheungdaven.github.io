@@ -12,14 +12,12 @@ redirect_from:
 
 <!--[Curriculum Vitae](files/Shuai_Curriculum.pdf). -->
 
-I am currently a senior applied scientist at Amazon Web Services AI, focusing on foundation models related research, product, and opensource projects. Before this role, I was a postdoctoral researcher in the Department of Computer Science at [ETH Zurich](https://ethz.ch/en.html), under the guidance of [Prof. Ce Zhang](https://zhangce.github.io/). I received a PhD degree from the school of computer science and engineering of [UNSW Sydney](https://www.unsw.edu.au/homepage/), advised by [Prof. Lina Yao](https://www.linayao.com/), and my PhD study was also supported by [CSIRO](https://www.csiro.au/en/)'s Data61 PhD Scholarship. I obtained a Bachelor's degree from Nanjing University. My primary areas of focus include LLMs, multimodal foundation models, information retrieval, time series forecasting,  graph machine learning, etc.  At Amazon, I have contributed to products such as [Amazon Titan](https://aws.amazon.com/bedrock/titan/), [AWS Glue](https://aws.amazon.com/glue/), [Amazon Q](https://aws.amazon.com/q/), [AutoGluon](https://auto.gluon.ai/), etc. I have served as an Area Chair for NeurIPS and ACL Rolling Review, as a reviewer, guest editor, or senior program committee member for several leading AI/ML conferences and journals, and as an organizer for workshops at top-tier AI conferences.
+He is a Senior Applied Scientist at Amazon Web Services (AWS) AI, where he works on research, product development, and open-source initiatives in foundation models. His research interests span large language models, multimodal learning, information retrieval, recommender systems, forecasting, and graph machine learning.
 
-Awards
-======
-* [Area Chair's Award](https://2024.aclweb.org/program/best_papers/#sac-awards), ACL 2024
-* [Best of the Best conference Paper Award](https://shuaizhang.tech/images/gmc_best_paper_award.jpg), Global Marketing Conference ([GMC](https://2023gmc.imweb.me/)) 2023
-* [Outstanding Paper Award](https://iclr-conf.medium.com/announcing-iclr-2021-outstanding-paper-awards-9ae0514734ab), ICLR 2021
-* [Best Paper Award runner-up](https://www.wsdm-conference.org/2020/#:~:text=WSDM%202020%20Best%20Paper%20Award,Seshadhri.), WSDM 2020
+Prior to joining AWS, he was a postdoctoral researcher at ETH Zurich, working with Prof. Ce Zhang. He received his Ph.D. in Computer Science and Engineering from the University of New South Wales (UNSW Sydney), advised by Prof. Lina Yao and supported by the CSIRO Data61 PhD Scholarship. He obtained his Bachelor’s degree from Nanjing University.
+
+His work has been recognized with several awards, including an Area Chair Award at ACL 2024, the Best of the Best Paper Award at the Global Marketing Conference (GMC) 2023, the Outstanding Paper Award at ICLR 2021, and a Best Paper Award runner-up at WSDM 2020. He is actively involved in the research community, serving as an Area Chair for NeurIPS and ACL Rolling Review, as well as a reviewer, senior program committee member, and guest editor for leading AI/ML conferences and journals. He has also organized workshops at major AI conferences.
+
 
 
 
@@ -34,6 +32,17 @@ Latest News
 
 
 <!--
+
+I am currently a senior applied scientist at Amazon Web Services AI, focusing on foundation models related research, product, and opensource projects. Before this role, I was a postdoctoral researcher in the Department of Computer Science at [ETH Zurich](https://ethz.ch/en.html), under the guidance of [Prof. Ce Zhang](https://zhangce.github.io/). I received a PhD degree from the school of computer science and engineering of [UNSW Sydney](https://www.unsw.edu.au/homepage/), advised by [Prof. Lina Yao](https://www.linayao.com/), and my PhD study was also supported by [CSIRO](https://www.csiro.au/en/)'s Data61 PhD Scholarship. I obtained a Bachelor's degree from Nanjing University. My primary areas of focus include LLMs, multimodal foundation models, information retrieval, time series forecasting,  graph machine learning, etc.  At Amazon, I have contributed to products such as [Amazon Titan](https://aws.amazon.com/bedrock/titan/), [AWS Glue](https://aws.amazon.com/glue/), [Amazon Q](https://aws.amazon.com/q/), [AutoGluon](https://auto.gluon.ai/), etc. I have served as an Area Chair for NeurIPS and ACL Rolling Review, as a reviewer, guest editor, or senior program committee member for several leading AI/ML conferences and journals, and as an organizer for workshops at top-tier AI conferences.
+
+Awards
+======
+* [Area Chair's Award](https://2024.aclweb.org/program/best_papers/#sac-awards), ACL 2024
+* [Best of the Best conference Paper Award](https://shuaizhang.tech/images/gmc_best_paper_award.jpg), Global Marketing Conference ([GMC](https://2023gmc.imweb.me/)) 2023
+* [Outstanding Paper Award](https://iclr-conf.medium.com/announcing-iclr-2021-outstanding-paper-awards-9ae0514734ab), ICLR 2021
+* [Best Paper Award runner-up](https://www.wsdm-conference.org/2020/#:~:text=WSDM%202020%20Best%20Paper%20Award,Seshadhri.), WSDM 2020
+
+
 * World's Top 2% Most Cited Scientist, [2021](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/4?fbclid=IwAR0GawO-pjz7CCKvp3o-B2Fj1v-2oijv3oJ_ORYKYO4i8P6-xveyYYJMKag), [2022](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/6), [2023](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/7)
 
 I have served as the area chair for ACL Rolling Review, organizer for [ROEGEN](https://roegen-recsys2024.github.io/) of RecSys2024, and reviewer for leading AI/ML conferences/journals. At Amazon, I have contributed to products & projects such as [Amazon Titan](https://aws.amazon.com/bedrock/titan/), [AWS Glue](https://aws.amazon.com/glue/), [AutoGluon](https://auto.gluon.ai/), [D2L](https://d2l.ai/), and [OpenSearch](https://opensearch.org/), and led the project [AutoGluon-RAG](https://github.com/autogluon/autogluon-rag). My research has garnered attention from the media, including coverage by outlets like [Australian Fintech](https://australianfintech.com.au/raiz-invest-partners-with-unsw-to-power-rewards-with-machine-learning/).
