@@ -9,7 +9,7 @@ author_profile: true
 
 <b>[HetRL: Efficient Reinforcement Learning for LLMs in Heterogeneous Environments](https://arxiv.org/pdf/2512.12476)</b> <br> 
 Yongjun He\*, <b>Shuai Zhang\*</b>, Jiading Gai, Xiyuan Zhang, Boran Han, Bernie Wang, Huzefa Rangwala, George Karypis.<br>
-<i>MLSys, 2026</i>. <i>FNinth Annual Conference on Machine Learning and Systems</i><br> 
+<i>MLSys, 2026</i>. <i>Ninth Annual Conference on Machine Learning and Systems</i><br> 
 
 
 <b>[Efficient Table Retrieval and Understanding with Multimodal Large Language Models](https://aclanthology.org/2026.findings-eacl.226.pdf)</b> <br> 
