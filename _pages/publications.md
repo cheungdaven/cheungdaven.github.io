@@ -7,6 +7,24 @@ author_profile: true
 
 ## Transformers and Foundation Models
 
+<b>[HetRL: Efficient Reinforcement Learning for LLMs in Heterogeneous Environments](https://arxiv.org/pdf/2512.12476)</b> <br> 
+Yongjun He\*, <b>Shuai Zhang\*</b>, Jiading Gai, Xiyuan Zhang, Boran Han, Bernie Wang, Huzefa Rangwala, George Karypis.<br>
+<i>MLSys, 2026</i>. <i>FNinth Annual Conference on Machine Learning and Systems</i><br> 
+
+
+<b>[Efficient Table Retrieval and Understanding with Multimodal Large Language Models](https://aclanthology.org/2026.findings-eacl.226.pdf)</b> <br> 
+Zhuoyan Xu, Haoyang Fang, Boran Han, Bonan Min, Bernie Wang, Cuixiong Hu, <b>Shuai Zhang</b>.<br>
+<i>EACL Findings, 2026</i>. <i>Findings of the Association for Computational Linguistics: EACL 2026</i><br> 
+
+
+<b>[Tiny but Mighty: A Software-Hardware Co-Design Approach for Efficient Multimodal Inference on Battery-Powered Small Devices](https://aclanthology.org/2026.findings-eacl.226.pdf)</b> <br> 
+Yilong Li, <b>Shuai Zhang</b>, Yijing Zeng, Hao Zhang, Xinmiao Xiong, Jingyu Liu, Pan Hu, Suman Banerjee.<br>
+<i>ICLR, 2026</i>. <i>The Fourteenth International Conference on Learning Representations</i><br> 
+
+<b>[SenTSR-Bench: Thinking with Injected Knowledge for Time-Series Reasoning](https://arxiv.org/pdf/2602.19455)</b> <br> 
+Zelin He, Boran Han, Xiyuan Zhang, <b>Shuai Zhang</b>, Haotian Lin, Qi Zhu, Haoyang Fang, Danielle C Maddix, Abdul Fatir Ansari, Akash Chandrayan, Abhinav Pradhan, Bernie Wang, Matthew Reimherr.<br>
+<i>AISTATS, 2026</i>. <i>The 28th International Conference on Artificial Intelligence and Statistics</i><br> 
+
 <b>[Mitra: Mixed synthetic priors for enhancing tabular foundation models](https://arxiv.org/pdf/2504.07261?)</b> <br> 
 Xiyuan Zhang, Danielle C Maddix, Junming Yin, Nick Erickson, Abdul Fatir Ansari, Boran Han, <b>Shuai Zhang</b>, Leman Akoglu, Christos Faloutsos, Michael W Mahoney, Cuixiong Hu, Huzefa Rangwala, George Karypis, Bernie Wang.<br>
 <i>NeurIPS, 2025</i>. <i>The Thirty-ninth Annual Conference on Neural Information Processing Systems</i><br> 
