@@ -20,9 +20,9 @@ redirect_from:
 * AWS Big Data Blog, Introducing generative AI upgrades for Apache Spark in AWS Glue (preview), [Link](https://aws.amazon.com/blogs/big-data/introducing-generative-ai-upgrades-for-apache-spark-in-aws-glue-preview/)
 * Amazon Science Blog, Mitra: Mixed synthetic priors for enhancing tabular foundation models, [Link](https://www.amazon.science/blog/mitra-mixed-synthetic-priors-for-enhancing-tabular-foundation-models)
 * Awards and recognitions: Area Chair's Award at ACL 2024, [Link](https://www.amazon.science/awards-and-recognitions)
-* ICLR 2021 Outstanding Paper Award Annoucement by ETH zurich, [Link](https://systems.ethz.ch/news-and-events/news/2021/04/the-paper-co-authored-by-shuai-zhang-wins-the-iclr-2021-outstanding-paper-award.html)
-* WSDM 2020 Best paper Award runner-up, [Link](https://www.ntu.edu.sg/computing/news-events/news/detail/wsdm-2020-best-paper-award-runner-up)
-* UNSW News, From software engineering to AI, [Link](https://www.unsw.edu.au/news/2020/06/from-software-engineering-to-ai)
+* ICLR 2021 Outstanding Paper Award Announcement by ETH zurich, [Link](https://systems.ethz.ch/news-and-events/news/2021/04/the-paper-co-authored-by-shuai-zhang-wins-the-iclr-2021-outstanding-paper-award.html)
+* WSDM 2020 Best paper Award Runner-up, [Link](https://www.ntu.edu.sg/computing/news-events/news/detail/wsdm-2020-best-paper-award-runner-up)
+* UNSW News, From Software Engineering to AI, [Link](https://www.unsw.edu.au/news/2020/06/from-software-engineering-to-ai)
 * Raiz Invest Recommendation, reported by Australian Fintech, [News Link](https://australianfintech.com.au/raiz-invest-partners-with-unsw-to-power-rewards-with-machine-learning/?fbclid=IwAR2KFl5PkHAtHpyEhXzimou4zI4KY-eO7eYfNeWaNnvOOKNCP6mmzRNBTN4&from=timeline)
 
 ## Tutorials & Workshops Organizer
