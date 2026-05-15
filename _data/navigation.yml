@@ -9,9 +9,13 @@ main:
 
   - title: "Mentoring"
     url: /mentoring/
-    
-  - title: "Services"
-    url: /services/
+
+
+  - title: "Activities"
+    url: /activities/  
+ 
+#  - title: "Services"
+ #   url: /services/
 
  # - title: "Projects"
  #   url: /projects/
@@ -19,9 +23,10 @@ main:
   #- title: "Portfolio"
   # url: /portfolio/
   
-  #- title: "Talks"
+
+   #- title: "Talks"
  #   url: /talks/  
-      
+ 
  # - title: "CV"
  #   url: /cv/
     
