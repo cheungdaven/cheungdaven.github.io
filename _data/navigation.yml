@@ -14,8 +14,8 @@ main:
   - title: "Outreach"
     url: /outreach/  
  
-#  - title: "Services"
- #   url: /services/
+  - title: "Services"
+   url: /services/
 
  # - title: "Projects"
  #   url: /projects/
