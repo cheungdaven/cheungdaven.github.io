@@ -15,7 +15,8 @@ redirect_from:
 
 ## Talks 
 * Speaker: NeurIPS 2024 Expo Talk, AutoGluon 1.2: Advancing AutoML with Foundational Models and LLM Agents, [Link](https://neurips.cc/virtual/2024/expo-workshop/100328)
-* Keynote Speaker: UMAP 2025 Workshop LLM4Good: The 1st Workshop on Sustainable and Trustworthy Large Language Models for Personalization, [Link](https://recsys-lab.at/program/)
+* Keynote Speaker: UMAP 2025 Workshop LLM4Good, The 1st Workshop on Sustainable and Trustworthy Large Language Models for Personalization, [Link](https://recsys-lab.at/program/)
+* Seminar Speaker: Institute of Computer Science of University of Bern, Uncovering the Intrinsic Structures: Representation Learning and Its Applications, [Link](https://www.cvg.unibe.ch/research/talks/?page=8)
 
 ## Media & Press
 * AWS Big Data Blog, Introducing generative AI upgrades for Apache Spark in AWS Glue (preview), [Link](https://aws.amazon.com/blogs/big-data/introducing-generative-ai-upgrades-for-apache-spark-in-aws-glue-preview/)
