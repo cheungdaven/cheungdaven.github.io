@@ -49,5 +49,5 @@ redirect_from:
 
 * Guest Lecturer, Recommender Systems by Dr. Guang Lu, Data science master program, Lucerne University of Applied Sciences and Arts, Switzerland, 2022-2024
 * Teaching Assistant, Big Data by Dr. Ghislain Fourny, Department of Computer Science, ETH Zurich, 2020
-* Teaching Assistant, Product Analytics by Dr. Junbum Kwon, Business School, UNSW Sydney
+* Teaching Assistant, Product Analytics by Dr. Junbum Kwon, Business School, UNSW Sydney, 2019
 
