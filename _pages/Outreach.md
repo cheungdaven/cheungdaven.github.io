@@ -19,6 +19,7 @@ redirect_from:
 ## Media & Press
 * AWS Big Data Blog, Introducing generative AI upgrades for Apache Spark in AWS Glue (preview), [Link](https://aws.amazon.com/blogs/big-data/introducing-generative-ai-upgrades-for-apache-spark-in-aws-glue-preview/)
 * Amazon Science Blog, Mitra: Mixed synthetic priors for enhancing tabular foundation models, [Link](https://www.amazon.science/blog/mitra-mixed-synthetic-priors-for-enhancing-tabular-foundation-models)
+* Marktechpost, Amazon Researchers Reveal Mitra: Advancing Tabular Machine Learning with Synthetic Priors, [Link](https://www.marktechpost.com/2025/07/23/amazon-researchers-reveal-mitra-advancing-tabular-machine-learning-with-synthetic-priors/?utm_source=chatgpt.com)
 * Awards and recognitions: Area Chair's Award at ACL 2024, [Link](https://www.amazon.science/awards-and-recognitions)
 * ICLR 2021 Outstanding Paper Award Announcement by ETH zurich, [Link](https://systems.ethz.ch/news-and-events/news/2021/04/the-paper-co-authored-by-shuai-zhang-wins-the-iclr-2021-outstanding-paper-award.html)
 * WSDM 2020 Best paper Award Runner-up, [Link](https://www.ntu.edu.sg/computing/news-events/news/detail/wsdm-2020-best-paper-award-runner-up)
