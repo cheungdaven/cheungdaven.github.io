@@ -21,7 +21,7 @@ redirect_from:
 * Amazon Science Blog, Mitra: Mixed synthetic priors for enhancing tabular foundation models, [Link](https://www.amazon.science/blog/mitra-mixed-synthetic-priors-for-enhancing-tabular-foundation-models)
 * Marktechpost, Amazon Researchers Reveal Mitra: Advancing Tabular Machine Learning with Synthetic Priors, [Link](https://www.marktechpost.com/2025/07/23/amazon-researchers-reveal-mitra-advancing-tabular-machine-learning-with-synthetic-priors/?utm_source=chatgpt.com)
 * Awards and recognitions: Area Chair's Award at ACL 2024, [Link](https://www.amazon.science/awards-and-recognitions)
-* ICLR 2021 Outstanding Paper Award Announcement by ETH zurich, [Link](https://systems.ethz.ch/news-and-events/news/2021/04/the-paper-co-authored-by-shuai-zhang-wins-the-iclr-2021-outstanding-paper-award.html)
+* ICLR 2021 Outstanding Paper Award Announcement, [Link](https://systems.ethz.ch/news-and-events/news/2021/04/the-paper-co-authored-by-shuai-zhang-wins-the-iclr-2021-outstanding-paper-award.html), [Link](https://iclr-conf.medium.com/announcing-iclr-2021-outstanding-paper-awards-9ae0514734ab)
 * WSDM 2020 Best paper Award Runner-up, [Link](https://www.ntu.edu.sg/computing/news-events/news/detail/wsdm-2020-best-paper-award-runner-up)
 * Hacker News, Quaternion Knowledge Graph Embeddings, [Link](https://news.ycombinator.com/item?id=40153162)
 * UNSW News, From Software Engineering to AI, [Link](https://www.unsw.edu.au/news/2020/06/from-software-engineering-to-ai)
