@@ -24,7 +24,7 @@ redirect_from:
 * WSDM 2020 Best paper Award Runner-up, [Link](https://www.ntu.edu.sg/computing/news-events/news/detail/wsdm-2020-best-paper-award-runner-up)
 * Hacker News, Quaternion Knowledge Graph Embeddings, [Link](https://news.ycombinator.com/item?id=40153162)
 * UNSW News, From Software Engineering to AI, [Link](https://www.unsw.edu.au/news/2020/06/from-software-engineering-to-ai)
-* Raiz Invest Recommendation, reported by Australian Fintech, [News Link](https://australianfintech.com.au/raiz-invest-partners-with-unsw-to-power-rewards-with-machine-learning/?fbclid=IwAR2KFl5PkHAtHpyEhXzimou4zI4KY-eO7eYfNeWaNnvOOKNCP6mmzRNBTN4&from=timeline)
+* Australian Fintech, Raiz Invest partners with UNSW to power rewards with machine learning, [News Link](https://australianfintech.com.au/raiz-invest-partners-with-unsw-to-power-rewards-with-machine-learning/?fbclid=IwAR2KFl5PkHAtHpyEhXzimou4zI4KY-eO7eYfNeWaNnvOOKNCP6mmzRNBTN4&from=timeline)
 
 ## Tutorials & Workshops Organizer
 * Taming Structured Data Foundation Models with AutoML: A Hands-On Guide, KDD 2026 Tutorial.
