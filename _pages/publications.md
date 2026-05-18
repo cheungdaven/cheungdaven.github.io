@@ -7,6 +7,10 @@ author_profile: true
 
 ## Transformers and Foundation Models
 
+<b>[DualKV: Shared-Prompt Flash Attention for Efficient RL Training with Large Rollouts and Long Contexts](https://arxiv.org/abs/2605.15422)</b> <br> 
+Jiading Gai\*, <b>Shuai Zhang\*</b>, Xiang Song, Bernie Wang, George Karypis.<br>
+<i>Preprint, 2026</i>. <br> 
+
 <b>[HetRL: Efficient Reinforcement Learning for LLMs in Heterogeneous Environments](https://arxiv.org/pdf/2512.12476)</b> <br> 
 Yongjun He\*, <b>Shuai Zhang\*</b>, Jiading Gai, Xiyuan Zhang, Boran Han, Bernie Wang, Huzefa Rangwala, George Karypis.<br>
 <i>MLSys, 2026</i>. <i>Ninth Annual Conference on Machine Learning and Systems</i><br> 
