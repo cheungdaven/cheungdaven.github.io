@@ -70,10 +70,6 @@ Boran Han, <b>Shuai Zhang</b>, Xingjian Shi, Markus Reichstein<br>
 Shuhuai Ren, Aston Zhang, Yi Zhu, <b>Shuai Zhang</b>, Shuai Zheng, Mu Li, Alex Smola, Xu Sun.<br>
 <i>NeurIPS 2023 </i>. <i>Thirty-seventh Conference on Neural Information Processing Systems</i>. [code](https://github.com/amazon-science/prompt-pretraining) <br> 
 
-<b>[Rethinking Document-Level Relation Extraction: A Reality Check](https://arxiv.org/abs/2306.08953) </b> <br> 
-Jing Li, Yequan Wang, <b>Shuai Zhang</b>, Min Zhang.<br>
-<i>ACL 2023 Findings</i>. <i>The 61st Annual Meeting of the Association for Computational Linguistics.</i> <br>
-
 
 
 <b>[Data-Informed Geometric Space Selection]() </b> <br> 
@@ -128,6 +124,12 @@ Yi Tay, Aston Zhang, Anh Tuan Luu, Jinfeng Rao, <b>Shuai Zhang</b>, Shuohang Wan
 
 
 <!--
+
+<b>[Rethinking Document-Level Relation Extraction: A Reality Check](https://arxiv.org/abs/2306.08953) </b> <br> 
+Jing Li, Yequan Wang, <b>Shuai Zhang</b>, Min Zhang.<br>
+<i>ACL 2023 Findings</i>. <i>The 61st Annual Meeting of the Association for Computational Linguistics.</i> <br>
+
+
 
 <b>[SenTSR-Bench: Thinking with Injected Knowledge for Time-Series Reasoning](https://arxiv.org/pdf/2602.19455)</b> <br> 
 Zelin He, Boran Han, Xiyuan Zhang, <b>Shuai Zhang</b>, Haotian Lin, Qi Zhu, Haoyang Fang, Danielle C Maddix, Abdul Fatir Ansari, Akash Chandrayan, Abhinav Pradhan, Bernie Wang, Matthew Reimherr.<br>
