@@ -18,7 +18,7 @@ Prior to joining AWS, I was a postdoctoral researcher at ETH Zurich, working wit
 
 My work has been recognized with several awards, including the Outstanding Paper Award at ICLR 2021, and a Best Paper Award runner-up at WSDM 2020, an Area Chair Award at ACL 2024, the Best of the Best Paper Award at the Global Marketing Conference (GMC) 2023.
 
-I am also actively involved in the research community, serving as an Area Chair for NeurIPS and ACL Rolling Review, as well as a reviewer, senior program committee member, and guest editor for leading AI/ML conferences and journals. I have also organized workshops at major AI conferences.
+I serve as an Area Chair for NeurIPS and ACL Rolling Review, and have organized workshops and tutorials at major AI conferences.
 
 
 
