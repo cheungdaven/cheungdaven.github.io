@@ -9,6 +9,10 @@ author_profile: true
 Jiading Gai\*, <b>Shuai Zhang\*</b>, Xiang Song, Bernie Wang, George Karypis.<br>
 <i>NeurIPS, 2026</i>. <br> 
 
+<b>[LLMZero: Discovering Adaptive Training Strategies for RL Post-Training via LLM Agents]()</b> <br>
+Haoyang Fang, Wei Zhu, Boran Han, Alex Zhang, Zhenyu Pan, Shuo Yang, <b>Shuai Zhang</b>, Jiading Gai, Peng Tang, Cuixiong Hu, Xuan Zhu, Huzefa Rangwala, George Karypis, Bernie Wang. <br>
+<i>EMNLP Findings, 2026</i>. <br> 
+
 <b>[HetRL: Efficient Reinforcement Learning for LLMs in Heterogeneous Environments](https://arxiv.org/pdf/2512.12476)</b> <br> 
 Yongjun He\*, <b>Shuai Zhang\*</b>, Jiading Gai, Xiyuan Zhang, Boran Han, Bernie Wang, Huzefa Rangwala, George Karypis.<br>
 <i>MLSys, 2026</i>. <i>Ninth Annual Conference on Machine Learning and Systems</i><br> 
