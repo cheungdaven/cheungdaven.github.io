@@ -12,7 +12,7 @@ redirect_from:
 
 <!--[Curriculum Vitae](files/Shuai_Curriculum.pdf). -->
 
-I am a Senior Applied Scientist at Amazon Web Services (AWS) AI, where I work on research, product development, and open-source initiatives in foundation models. My research interests span large language models, multimodal learning, information retrieval, recommender systems, forecasting, and graph machine learning.
+I am a Senior Applied Scientist at Amazon, where I work on research and development of large-scale AI systems, with a focus on foundation models, large language models, reinforcement learning, and information retrieval. My work spans fundamental research and practical applications, including code generation and optimization, generative retrieval and recommendation, efficient LLM training and inference, and multimodal understanding. I am particularly interested in bridging cutting-edge AI research with scalable, real-world systems.
 
 Prior to joining AWS, I was a postdoctoral researcher at ETH Zurich, working with Prof. Ce Zhang. I received my Ph.D. in Computer Science and Engineering from the University of New South Wales (UNSW Sydney), advised by Prof. Lina Yao, and supported by the CSIRO Data61 PhD Scholarship. I obtained my Bachelor’s degree from Nanjing University.
 
